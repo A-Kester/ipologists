@@ -45,6 +45,26 @@ Deliverables for Partial Success:
 
 # Resources Required (Will)
 
+The project required access to financial, macroeconomic, and textual data sources, as well as tools for data processing and feature extraction
+
+1. IPO Financial Data (Bloomberg Terminal)
+We will use the Bloomberg Terminal provided through Middlebury College library to obtain all our historical IPO data. The data will be exported from Bloomberg into Excel/CSV format. 
+
+2. SEC EDGAR filings
+We will use the SEC EDGAR database to collect IPO S-1 filings. We will use the `sec-edgar-downloader` Python package. These filings will provide the textual data needed to extract our risk, growth, and business complexity features. 
+3. Macroeconomic Data (FRED API)
+Macroeconomic indicators will be obtained using the Federal Reserve Economic Data (FRED) API, which requires a [free API key](https://fred.stlouisfed.org/docs/api/fred/). 
+
+4. Text Feature Extraction Tools:
+To process S-1 filings, we may use:
+- OpenAI API
+- OR open-source model if costs or token limits make API usage impractical
+We will select our approach based on computational cost and scalability after initial experimentation. If too costly, we might revisit how to feature extract from S-1 filings. 
+5. Computing Resources
+- We believe our personal laptops or computing resources providing by the college will be enough for our data processing and modeling. 
+- We will use Google Colab for model training if we require additional computing power. 
+
+
 # What You Will Learn (Both)
 
 # Risk Statement (Anna)
