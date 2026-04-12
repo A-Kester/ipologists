@@ -5,6 +5,11 @@ Anna Kester and Will Zambito
 
 # Abstract
 
+This project addresses the problem of IPO underpricing, where companies often leave significant capital on the table due to first-day price surges after going public. We develop machine learning models to predict whether and IPO, prior to its opening day, is likely to be overpriced, fairly priced, or underpriced, and we also aim to estimate the magnitude of underpricing if possible. Our approach uses multiple model types, including logistic regression, XGBoost, and random forests, to capture nonlinear relationships in financial, macroeconomic, and textual features. Success will be evaluated based on predictive performance compared to baseline models, as well as the ability to identify meaningful features that contribute to IPO pricing. 
+
+
+We will develop machine learning models to predict whether an IPO before opening day appears to be overpriced, rightly priced, or underpriced, and attempt to predict by what magnitude. Our goal is to develop different model types such as logistic regression, XGBoost, and Random Forest, and ultimately compare their results. Success will be evaluated based on 
+
 # Motivation and Question (Will)
 
 When Airbnb went public, its stock opened at nearly double its offer price, leaving over $3 billion in potential capital. While extreme, this outcome is not unusual. IPO underpricing has been documented heavily in academic finance literature. On average, IPOs are underpriced by 10-20%, which represented billions of dollars in "money left on the table" annually. 
@@ -66,6 +71,11 @@ We will select our approach based on computational cost and scalability after in
 
 
 # What You Will Learn (Both)
+
+
+**Will**
+
+I intend to deepen my understanding of how to apply machine learning models to real world financial problems, particularly in using structured and unstructured data. I want to gain experience with working with financial datasets such as IPO data and how to interpret their results in a meaningful way. I aim to learn how models such as XGBoost and Random Forest work, as well as how to implement and tune them effectively. I hope to better understand the full machine learning project lifecycle, from initial problem formulation and data cleaning to feature engineering, model training, evaluation, and hyperparameter tuning. 
 
 # Risk Statement (Anna)
 Some risks to achieving the full deliverable are potential issues working with S-1 filing data. Since this data is textual, additional complications may arise in cleaning and preparing the data for training. Another potential risk is not having time for magnitude prediction if data cleaning and the implementation of the classification models takes longer than expected.
