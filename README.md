@@ -73,6 +73,7 @@ Some risks to achieving the full deliverable are potential issues working with S
 # Ethics Statement (Will)
 
 1. Intended Impact
+
 If our project is successful and deployed, we aim to democratize access to IPO analysis tools that are currently primarily available to institutional investors with access to Bloomberg terminals and large quantitative research teams. By developing a model, we hope to make IPO pricing more understandable and accessible to a broader audience. 
 
 2. Who Benefits?
