@@ -7,9 +7,6 @@ Anna Kester and Will Zambito
 
 This project addresses the problem of IPO underpricing, where companies often leave significant capital on the table due to first-day price surges after going public. We develop machine learning models to predict whether and IPO, prior to its opening day, is likely to be overpriced, fairly priced, or underpriced, and we also aim to estimate the magnitude of underpricing if possible. Our approach uses multiple model types, including logistic regression, XGBoost, and random forests, to capture nonlinear relationships in financial, macroeconomic, and textual features. Success will be evaluated based on predictive performance compared to baseline models, as well as the ability to identify meaningful features that contribute to IPO pricing. 
 
-
-We will develop machine learning models to predict whether an IPO before opening day appears to be overpriced, rightly priced, or underpriced, and attempt to predict by what magnitude. Our goal is to develop different model types such as logistic regression, XGBoost, and Random Forest, and ultimately compare their results. Success will be evaluated based on 
-
 # Motivation and Question (Will)
 
 When Airbnb went public, its stock opened at nearly double its offer price, leaving over $3 billion in potential capital. While extreme, this outcome is not unusual. IPO underpricing has been documented heavily in academic finance literature. On average, IPOs are underpriced by 10-20%, which represented billions of dollars in "money left on the table" annually. 
