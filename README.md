@@ -7,6 +7,22 @@ Anna Kester and Will Zambito
 
 # Motivation and Question (Will)
 
+When Airbnb went public, its stock opened at nearly double its offer price, leaving over $3 billion in potential capital. While extreme, this outcome is not unusual. IPO underpricing has been documented heavily in academic finance literature. On average, IPOs are underpriced by 10-20%, which represented billions of dollars in "money left on the table" annually. 
+
+We are motivated by the idea that IPO underpricing is not purely random, but reflects patterns across different domains: deal characteristics, macroeconomics conditions, and the way firms describe themselves in regulatory filings. These relationships may be complex and nonlinear, making them well-suited for machine learning.
+
+Our central research questions are:
+- Can we predict whether an IPO will be underpriced more accurately than simply predicting it will naively?
+- What features are most indicative of an IPO being overpriced?
+
+We are motivated by the quality of our data across three domains:
+- We have Bloomberg financial data for all IPO deals in the US since 2000 providing us with historical data on: Institution, Industry, Offer Price, Offer to 1st close, % Shares Out, Deal Size, and more relevant deal information.
+- Through the FRED API, we have access to macroeconomic time series including interest rate, CPI, and unemployment, which can each be matched to the IPO date to capture market conditions
+- Through SEC EDGAR, we have access to S-1 filings for hundreds of IPOs, which can be processed to extract structured signals around risk, growth narratives, and business clarity, which are rarely quantified. 
+
+Together, these three data sources will allow us to construct a classification and regression model for IPO pricing dynamics that combine financial variables, macroeconomic context, and textual information. 
+
+
 # Planned Deliverables (Anna)
 Deliverables for Full Success:
 - Python package containing all code and documentation with the following goals:
