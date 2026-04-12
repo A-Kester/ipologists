@@ -87,6 +87,7 @@ If our project is successful and deployed, we aim to democratize access to IPO a
 - Smaller firms or underrepresented sectors: our dataset and SEC EDGAR filings are biased towards larger IPOs which could lead to skewness or less accurate prediction for these less represented groups.
 
 4. Will it make the World a Better Place?
+
 We believe the project could contribute positively to society. We assume that increasing transparency in financial markets is beneficial, and making IPO pricing dynamics more understandable helps reduce information asymmetry between different types of investors. This would allow for more informed decision-making and possibly improve fairness in capital markets. We also assume that by helping explain or predicting IPO underpricing, it could lead to a reduction in mispricing and improve capital allocation in the economy. Which would lead to a more efficient market.
 
 Although  our project is not intended to make recommendations, we do highlight potential forms of algorithmic bias in our work. Because our dataset is limited to US IPOs, our model may overrepresent larger more visible companies and underrepresent smaller firms.
