@@ -72,6 +72,26 @@ Some risks to achieving the full deliverable are potential issues working with S
 
 # Ethics Statement (Will)
 
+1. Intended Impact
+If our project is successful and deployed, we aim to democratize access to IPO analysis tools that are currently primarily available to institutional investors with access to Bloomberg terminals and large quantitative research teams. By developing a model, we hope to make IPO pricing more understandable and accessible to a broader audience. 
+
+2. Who Benefits?
+- Retail and individual investors who do not have access to Bloomberg or institutional grade IPO research.
+- Researchers that study IPO markets and could use our open-source models as a baseline
+- Companies who are considering going public that want a neutral and data-driven view of IPO pricing.
+
+3. Who may be Harmed?
+- Investors in non-US or emerging markets, since our dataset focuses on US IPOs with Bloomberg coverage, it might limit generalizability across global markets
+- Users who might misinterpret the models outputs ad financial advice. The models are being designed for educational and analytical purposes only. This could lead to misleading financial decision-making
+- Smaller firms or underrepresented sectors: our dataset and SEC EDGAR filings are biased towards larger IPOs which could lead to skewness or less accurate prediction for these less represented groups.
+
+4. Will it make the World a Better Place?
+We believe the project could contribute positively to society. We assume that increasing transparency in financial markets is beneficial, and making IPO pricing dynamics more understandable helps reduce information asymmetry between different types of investors. This would allow for more informed decision-making and possibly improve fairness in capital markets. We also assume that by helping explain or predicting IPO underpricing, it could lead to a reduction in mispricing and improve capital allocation in the economy. Which would lead to a more efficient market.
+
+Although  our project is not intended to make recommendations, we do highlight potential forms of algorithmic bias in our work. Because our dataset is limited to US IPOs, our model may overrepresent larger more visible companies and underrepresent smaller firms.
+
+Overall, we believe the project could improve understanding of IPO markets and make financial analysis more accessible, but its positive impacts depends on careful interpretation of the results.
+
 # Tentative Timeline (Anna)
 After two weeks we plan to have preliminary models working. We plan to have our data collected and cleaned by the end of week 1 and model implementations by the end of week 2.
 After four weeks we plan to have our models and deliverable finalized. Time permitting, we will work on any extra add-ons to enhance our project.
