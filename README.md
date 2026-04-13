@@ -63,6 +63,7 @@ To process S-1 filings, we may use:
 - OR open-source model if costs or token limits make API usage impractical
 
 We will select our approach based on computational cost and scalability after initial experimentation. If too costly, we might revisit how to feature extract from S-1 filings. 
+
 5. Computing Resources
 - We believe our personal laptops or computing resources providing by the college will be enough for our data processing and modeling. 
 - We will use Google Colab for model training if we require additional computing power. 
