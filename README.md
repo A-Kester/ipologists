@@ -7,7 +7,7 @@ Anna Kester and Will Zambito
 
 This project addresses the problem of IPO underpricing, where companies often leave significant capital on the table due to first-day price surges after going public. We develop machine learning models to predict whether and IPO, prior to its opening day, is likely to be overpriced, fairly priced, or underpriced, and we also aim to estimate the magnitude of underpricing if possible. Our approach uses multiple model types, including logistic regression, XGBoost, and random forests, to capture nonlinear relationships in financial, macroeconomic, and textual features. Success will be evaluated based on predictive performance compared to baseline models, as well as the ability to identify meaningful features that contribute to IPO pricing. 
 
-# Motivation and Question (Will)
+# Motivation and Question
 
 When Airbnb went public, its stock opened at nearly double its offer price, leaving over $3 billion in potential capital. While extreme, this outcome is not unusual. IPO underpricing has been documented heavily in academic finance literature. On average, IPOs are underpriced by 10-20%, which represented billions of dollars in "money left on the table" annually. 
 
@@ -25,7 +25,7 @@ We are motivated by the quality of our data across three domains:
 Together, these three data sources will allow us to construct a classification and regression model for IPO pricing dynamics that combine financial variables, macroeconomic context, and textual information. 
 
 
-# Planned Deliverables (Anna)
+# Planned Deliverables
 Deliverables for Full Success:
 - Python package containing all code and documentation with the following goals:
     - Accurate classification of IPOs as underpriced, within expected range, or overpriced
@@ -45,7 +45,7 @@ Deliverables for Partial Success:
 - A Jupyter notebook for each of our models
 - A well organized and presentable blog post of what we were able to accomplish
 
-# Resources Required (Will)
+# Resources Required
 
 The project required access to financial, macroeconomic, and textual data sources, as well as tools for data processing and feature extraction
 
@@ -61,23 +61,28 @@ Macroeconomic indicators will be obtained using the Federal Reserve Economic Dat
 To process S-1 filings, we may use:
 - OpenAI API
 - OR open-source model if costs or token limits make API usage impractical
+
 We will select our approach based on computational cost and scalability after initial experimentation. If too costly, we might revisit how to feature extract from S-1 filings. 
 5. Computing Resources
 - We believe our personal laptops or computing resources providing by the college will be enough for our data processing and modeling. 
 - We will use Google Colab for model training if we require additional computing power. 
 
 
-# What You Will Learn (Both)
+# What You Will Learn
 
 
 **Will**
 
 I intend to deepen my understanding of how to apply machine learning models to real world financial problems, particularly in using structured and unstructured data. I want to gain experience with working with financial datasets such as IPO data and how to interpret their results in a meaningful way. I aim to learn how models such as XGBoost and Random Forest work, as well as how to implement and tune them effectively. I hope to better understand the full machine learning project lifecycle, from initial problem formulation and data cleaning to feature engineering, model training, evaluation, and hyperparameter tuning. 
 
-# Risk Statement (Anna)
+**Anna**
+
+Through this project, I hope to gain a deeper understanding of each step involved in the implementation and project management of a machine learning project. From initial ideas, through model implementation, and final deliverables, I intend to extend what we have learned in class to a more hands-on project. I am also excited to learn new models, such as Random Forest and XGBoost, and see how their performance compares to the more basic model of logistic regression. 
+
+# Risk Statement
 Some risks to achieving the full deliverable are potential issues working with S-1 filing data. Since this data is textual, additional complications may arise in cleaning and preparing the data for training. Another potential risk is not having time for magnitude prediction if data cleaning and the implementation of the classification models takes longer than expected.
 
-# Ethics Statement (Will)
+# Ethics Statement
 
 1. Intended Impact
 
@@ -101,6 +106,6 @@ Although  our project is not intended to make recommendations, we do highlight p
 
 Overall, we believe the project could improve understanding of IPO markets and make financial analysis more accessible, but its positive impacts depends on careful interpretation of the results.
 
-# Tentative Timeline (Anna)
+# Tentative Timeline
 After two weeks we plan to have preliminary models working. We plan to have our data collected and cleaned by the end of week 1 and model implementations by the end of week 2.
 After four weeks we plan to have our models and deliverable finalized. Time permitting, we will work on any extra add-ons to enhance our project.
