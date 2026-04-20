@@ -1,0 +1,86 @@
+You
+    should read the “Risk Factors” section beginning on page 11 of this prospectus for a discussion of factors to
+    consider carefully before deciding to invest in shares of our securities. Trading Symbol Our Common Stock is listed on The Nasdaq Capital Market
+    under the symbol “IVDA.” We do not intend to apply for listing of the Pre-Funded Warrants or the Series X Warrants on
+    any securities exchange or nationally recognized trading system. (1) The number of shares of Common
+  Stock outstanding immediately prior to this offering is based on 5,879,741 shares of Common Stock outstanding as of the date of this
+  prospectus. Unless specifically stated otherwise, the information in this prospectus is as of January 28, 2026, and excludes: ●
+221,756 shares of Common Stock issuable upon the exercise of outstanding options at September 30, 2025 with an average exercise price
+$17.72 per share; ●
+1,863,069 shares of Common Stock issuable upon the exercise of outstanding warrants at September 30, 2025 with an average exercise price
+$9.13 per share; ●
+380,435 shares of Common Stock issuable upon exercise of warrants to be issued to the Placement Agent in connection with this offering,
+which have an exercise price of $1.15 per share (based on the assumed public offering price of $0.92). 10 RISK
+FACTORS An
+investment in our Common Stock involves a high degree of risk. Before deciding whether to invest in our securities, you should
+consider carefully the risks described below, together with all of the other information set forth in this prospectus, together with
+the other information included or incorporated by reference in this prospectus, including the section titled “Management’s
+Discussion and Analysis of Financial Condition and Results of Operations” and our consolidated financial statements and related
+notes. If any of these risks actually occurs, our business, financial condition, results of operations or cash flow could be materially
+and adversely affected, which could cause the trading price of our Common Stock to decline, resulting in a loss of all or part
+of your investment. The risks described below and in the documents referenced above are not the only ones that we face. Additional risks
+not presently known to us or that we currently deem immaterial may also affect our business. You should only consider investing in our
+securities if you can bear the risk of loss of your entire investment. Risks
+Related to Our Company and Business Our
+financial statements contain a going concern opinion. The
+accompanying consolidated financial statements have been prepared assuming that we will continue as a going concern, which contemplates
+the realization of assets and the liquidation of liabilities in the normal course of business. We generated accumulated losses of approximately
+$53 million since inception and have insufficient working capital and cash flows to support operations. These factors raise substantial
+doubt about our ability to continue as a going concern. The consolidated financial statements do not include any adjustments relating
+to the recoverability and classification of recorded asset amounts or the amounts and classification of liabilities that might result
+from this uncertainty. We have incurred significant net losses
+since our inception and may not be able to achieve or maintain profitability on an annual basis in the future. We
+have incurred significant net losses since our inception. For the years ended December 31, 2024 and 2023, we incurred net losses of approximately
+$3.7 million and $4.0 million, respectively, and had accumulated losses of approximately $51 million through December 31, 2024. We cannot
+predict if we will achieve or maintain annual profitability in the near future or at all. The expected growth due to the recent change
+in our revenue model may not be sustainable or may decrease, and we may not generate sufficient revenue to achieve or maintain annual
+profitability. Our ability to achieve and maintain annual profitability depends on a number of factors, including our ability to attract
+and service customers on a profitable basis and the growth of the video surveillance industry. If we are unable to achieve or maintain
+annual profitability, we may not be able to execute our business plan, our prospects may be harmed, and our stock price could be materially
+and adversely affected. We depend on certain key personnel. Our
+future success is dependent on the efforts of key management personnel, particularly David Ly, our Chairman and Chief Executive Officer
+and Robert J. Brilon, our Chief Financial Officer, each of whom is employed by us at will. Mr. Ly’s relationships within our industry
+are vital to our continued operations, and if Mr. Ly were no longer actively involved with us, we would likely be unable to continue
+our operations. The loss of one or more of our other key employees could also have a material adverse effect on our business, financial
+condition, and results of operations. We
+also believe that our future success will be largely dependent on our ability to attract and retain highly qualified management, sales,
+and marketing personnel. We cannot assure investors that we will be able to attract and retain such personnel and our inability to retain
+such personnel or to train them rapidly enough to meet our expanding needs could cause a decrease in the overall quality and efficiency
+of our staff, which could have a material adverse effect on our business, financial condition, and results of operations. Demand for our products may be lower than
+we anticipate. We
+have limited resources to undertake reseller distribution activities. We cannot predict with certainty the potential customer demand
+for our intelligent video search, smart utility, smart sensors, gateways and trackers, and IoT platforms (Products) or the degree to
+which we will meet that demand. If demand for our Products does not develop to the extent or as quickly as expected, we might not be
+able to generate enough revenue to become profitable. 11 We
+are currently targeting the sale of our Products to telecommunications companies and technology and systems integrators. Our strategy
+to target those organizations is based upon their interest and a number of assumptions, some or all of which could prove to be incorrect. Even
+if markets for our Products develop, we could achieve a smaller share of those markets than we currently anticipate. Achieving market
+share will require substantial investment in technical, marketing, project management, and engineering functions to support the deployment
+of our Products. We cannot assure investors that our efforts will result in the attainment of sufficient market share to become profitable. We believe industry trends support our open
+source systems, but if trends reverse we may experience decreased demand. The
+security and surveillance industry is characterized by rapid changes in technology and customer demands. We believe that the existing
+market preference for open source systems (systems capable of integrating a wide range of products and services through community and
+private-based cooperation, such as the Internet, Linux, and certain cameras used in our business) is strong and will continue for the
+foreseeable future. We cannot assure investors that customer demand for our products and the market’s preference for open source
+systems will continue. A lack of customer demand or a decline in the preference of open source systems could have a material adverse
+effect on our business, financial condition, and results of operations. A relatively small number of key customers account for a significant
+portion of our revenue. Historically,
+a significant portion of our revenue has come from a limited number of key customers. Revenue from five customers out of 70 total customers
+represented approximately 67% of total revenue for the year ended December 31, 2024. These specific customers were 1) Chunghwa Telecom
+with 18% 2) Security Integration & Consultant Technology Co., Ltd. with 16%, 3) Chicony Power Technology Co Ltd with 11% and 4) Hwacom
+Systems Inc. with 10%, (all Taiwan companies) and Claro Enterprise Solutions (a US company) with 12%. Revenue from two customers out
+of 65 total customers represented approximately 48% of total revenue for the year ended December 31, 2023. These specific customers were
+1) You Ming Huei Co. Ltd with 25%, 2) Chicony Power Technology Co Ltd with 23%, (both Taiwan companies). Total number of customers were
+approximately 70 and 65, for the years ended December 31, 2024 and 2023, respectively. 52% of the total accounts receivable at December
+31, 2024 was from one customer out of a total of 42 customer accounts receivable accounts. This specific customer was Chunghwa Telecom.
+Our accounts receivables are unsecured, and we are at risk to the extent such amounts become uncollectible. Although we perform periodic
+evaluations of our customers’ credit and financial condition, we generally do not require collateral in exchange for our products
+and services provided on credit. Our
+licensing business, in particular, may be susceptible to concentration of revenue, if through our licensing customers’ large consumer
+bases of end users. The loss of a key service provider customer, the delay, reduction, or cancellation of a significant order, or difficulty
+collecting on our accounts receivable from our service provider customers could have a material adverse effect on our business, financial
+condition, and results of operations. Payment
+terms for our U.S.-based segment require 50% prepayment for our Products before they are shipped. For our U.S.-based segment, accounts
+receivable that are more than 120 days past due are considered delinquent. Payment terms for our Taiwan-based segment vary based on our
+agreements with our customers. Generally, we receive payment for our Products and services within one year of commencing the project,
+except that we retain

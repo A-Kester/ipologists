@@ -1,0 +1,83 @@
+—Risks Relating to Our Intellectual Property.” In addition to patents,
+we rely on trade secrets and know-how to develop and maintain our competitive position. For example, significant aspects of our
+proprietary technology platform are based on unpatented trade secrets and know-how. Trade secrets and know-how can be difficult
+to protect. We seek to protect our proprietary technology and processes, in part, by confidentiality agreements and invention assignment
+agreements with our employees, consultants, scientific advisors, contractors and commercial partners. These agreements are designed
+to protect our proprietary information and, in the case of the invention assignment agreements, to grant us ownership of technologies
+that are developed through a relationship with a third party. We also seek to preserve the integrity and confidentiality of our
+data and trade secrets by maintaining physical security of our premises and physical and electronic security of our information
+technology systems. While we have confidence in these individuals, organizations and systems, agreements or security measures may
+be breached, and we may not have adequate remedies for any breach. In addition, our trade secrets may otherwise become known or
+be independently discovered by competitors. To the extent that our contractors use intellectual property owned by others in their
+work for us, disputes may arise as to the rights in related or resulting know-how and inventions. We also plan to seek
+trademark protection in the United States and outside of the United States where available and when appropriate. We intend to use
+these registered marks in connection with our pharmaceutical research and development as well as our product candidates. 51 Manufacturing and
+Supply for Resunab We have developed and
+validated a good manufacturing practice, or GMP, process to manufacture Resunab through our contract manufacturer. This contract
+manufacturer has already produced multi-Kg scale bulk batches of the active pharmaceutical ingredient under GMP for our Phase II
+clinical studies and is capable of producing sufficient active ingredient for all the clinical studies required prior to submitting
+an IND to the FDA. We do not own or operate manufacturing facilities for the production of Resunab. We expect to depend on third-party
+suppliers and manufacturing organizations for all of our clinical trial quantities of raw materials and drug substance. Resunab
+is a synthetic molecule and there are readily available supplies of all raw materials needed for the manufacture of Resunab. Regulatory Matters Government
+Regulation Any product development
+activities related to Resunab or products that we may develop or acquire in the future will be subject to extensive regulation
+by various government authorities, including the FDA and other federal, state and local statutes and regulations and comparable
+regulatory authorities in other countries, which regulate the design, research, clinical and non-clinical development, testing,
+manufacturing, storage, distribution, import, export, labeling, advertising and marketing of pharmaceutical products and devices.
+Generally, before a new drug can be sold, considerable data demonstrating its quality, safety and efficacy must be obtained, organized
+into a format specific to each regulatory authority, submitted for review and approved by the regulatory authority. The data is
+often generated in two distinct development states: pre-clinical and clinical. Resunab or other products that we may develop or
+acquire in the future must be approved by the FDA through the IND process before they may be legally marketed in the United States.
+For new chemical entities, the pre-clinical development stage generally involves synthesizing the active component, developing
+the formulation and determining the manufacturing process, as well as carrying out non-human toxicology, pharmacology and drug
+metabolism studies which support subsequent clinical testing. The clinical stage
+of development can generally be divided into three sequential phases that may overlap, Phase I, Phase II and Phase III clinical
+trials. In Phase I, generally, small numbers of healthy volunteers are initially exposed to single escalating doses and then multiple
+escalating doses of the product candidate. The primary purpose of these studies is to assess the metabolism, pharmacologic action,
+side effect tolerability and safety of the drug. Phase II trials typically involve studies in disease-affected patients to determine
+the dose required to produce the desired benefits, while Phase IIb trials are designed to determine efficacy. At the same time,
+safety and further pharmacokinetic and pharmacodynamic information is collected. In some instances, formal Phase I and Phase II
+trials may not be deemed necessary or required by the FDA. Such is often the case when the safety and efficacy of an active ingredient
+is considered to be well understood by the FDA. Under established regulatory frameworks, pharmaceutical products with active ingredients
+equal or similar to those known by the FDA often enter more streamlined development programs than compounds entirely new to the
+agency. Post-approval studies,
+sometimes referred to as Phase IV clinical trials, may be conducted after initial marketing approval. Sometimes, these studies
+are used to gain additional experience from the treatment of patients in the intended therapeutic condition, then often referred
+to as Phase IV clinical trials. In certain instances, the FDA may mandate the performance of Phase IV studies. In other situations,
+post-approval studies aim to gain additional indications for a medication, then often indicated as Phase IIIb studies. Development
+of Drugs in the United States In the United States,
+the process of obtaining regulatory approvals and the subsequent compliance with appropriate federal, state, local and foreign
+statutes and regulations require the expenditure of substantial time and financial resources. Failure to comply with the applicable
+United States requirements at any time during the product development process, approval process or after approval, may subject
+an applicant to administrative or judicial sanctions. These sanctions could include the FDA’s refusal to approve pending
+applications, withdrawal of an approval, a clinical hold, warning letters, product recalls or withdrawals from the market, product
+seizures, total or partial suspension of production or distribution, injunctions, fines, refusals of government contracts, restitution,
+disgorgement, or civil or criminal penalties. Any agency or judicial enforcement action could have a material adverse effect on
+us. 52 Prior to the start
+of human clinical studies for a new drug in the United States, pre-clinical laboratory and animal tests are often performed under
+the FDA’s Good Laboratory Practices regulations. The sponsor must submit the result of the pre-clinical tests, together with
+manufacturing information, analytical data and any available clinical data or literature and a proposed clinical protocol to the
+FDA as part of an IND application, which is a request for authorization from the FDA to administer an investigational drug or biological
+product to humans. Similar filings are required in other countries. The amount of data that must be supplied in the IND depends
+on the phase of the study. Phase I studies typically require less data than larger Phase II and III studies. A clinical plan must
+be submitted to the FDA prior to commencement of a clinical trial. If the FDA has concerns about the clinical plan or the safety
+of the proposed studies, they may suspend or terminate the study at any time. Studies must be conducted in accordance with good
+clinical practice and regulator reporting of study progress and any adverse experiences is required. Studies are also subject to
+review by independent institutional review boards responsible for overseeing studies at particular sites and protecting human research
+study subjects. An independent institutional review board may also suspend or terminate a study once initiated. Accordingly, we
+cannot be sure that submission of an IND will result in the FDA allowing clinical trials to begin, or that once begun, issues will
+not arise that could cause the trial to be suspended or terminated. Review and
+Approval in the United States Following pivotal or
+Phase III trial completion, data is analyzed to determine safety and efficacy. Data is then filed with the FDA in a New Drug Application,
+or an NDA, along with proposed labeling for the product and information about the manufacturing and testing processes and facilities
+that will be used to ensure product quality. In the United States, FDA approval of an NDA must be obtained before marketing a pharmaceutical
+product. The NDA must contain proof of safety, purity, potency and efficacy, which entails extensive pre-clinical and clinical
+testing. The FDA will likely
+re-analyze the clinical trial data, which could result in extensive discussions between the FDA and us during the review process.
+The review and evaluation of applications by the FDA is extensive and time consuming and may take several years to complete. The
+FDA may conduct a pre-approval inspection of the manufacturing facilities for the new product to determine whether they comply
+with current good manufacturing practice requirements and may also audit data from clinical and pre-clinical trials. There is no assurance
+that the FDA will act favorably or quickly in making such reviews and significant difficulties or costs may be encountered in our
+efforts to obtain FDA approvals. The FDA may require that certain contraindications, warnings or precautions be including in the
+product labeling, or may condition the approval of the NDA on other changes to the proposed labeling, development of adequate controls
+and specifications, or a commitment to conduct post-marketing testing or clinical trials and

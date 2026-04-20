@@ -1,0 +1,152 @@
+You should carefully consider the following
+information about the risks described below, together with the
+financial and other information contained in this prospectus,
+before you decide to buy our common stock. Risks Related to Our Business and
+Industry We expect our operating results to fluctuate
+on a quarterly and annual basis, which could cause our stock
+price to fluctuate or decline. Our operating results are difficult to predict
+and may fluctuate substantially from quarter-to-quarter or
+year-to-year for a variety of reasons, many of which are beyond
+our control. If our actual revenue were to fall below our
+estimates or the expectations of public market analysts or
+investors, our quarterly and annual results would be negatively
+impacted and the price of our stock could decline. Other factors
+that could affect our quarterly and annual operating results
+include those listed in this “Risk Factors” section of
+this prospectus and others such as: • changes in the pricing policies of or the
+    introduction of new products or product enhancements by us or
+    our competitors; • changes in the terms of our contracts with
+    customers or suppliers; • slow or negative growth in the networking
+    product, personal computer, Internet infrastructure, home
+    electronics and related technology markets, as well as decreased
+    demand for Internet access; • changes in or consolidation of our sales channel
+    and wholesale distributor relationships or failure to manage our
+    sales channel inventory and warehousing requirements; • delay or failure to fulfill orders for our
+    products on a timely basis; • our inability to accurately forecast our contract
+    manufacturing needs; • delays in the introduction of new or enhanced
+    products by us or market acceptance of these products; • an increase in price protection claims,
+    redemptions of marketing rebates, product warranty returns or
+    allowance for doubtful accounts; • operational disruptions, such as transportation
+    delays or failure of our order processing system, particularly
+    if they occur at the end of a fiscal quarter; and • seasonal patterns of higher sales during the
+    second half of our fiscal year, particularly retail-related
+    sales in our fourth quarter. As a result, period-to-period comparisons of our
+operating results may not be meaningful, and you should not rely
+on them as an indication of our future performance. In addition,
+our future operating results may fall below the expectations of
+public market analysts or investors. In this event, our stock
+price could decline significantly. Our future success is dependent on the
+acceptance of networking products in the small business and home
+markets into which we sell substantially all of our products. If
+the acceptance of networking products in these markets does not
+continue to grow, we will be unable to increase or sustain our
+net revenue, and our business will be severely harmed. We believe that growth in the small business
+market will depend, in significant part, on the growth of the
+number of personal computers purchased by these end users and
+the demand for sharing data intensive applications, such as
+large graphic files. We believe that acceptance of networking
+products in the home will depend upon the availability of
+affordable broadband Internet access and increased demand for
+wireless products. Unless these markets continue to grow, our
+business will be unable to expand, which could cause the value
+of your investment to decline. Moreover, if networking functions
+are integrated more directly into personal computers and other
+Internet-enabled devices, such as electronic games or personal
+video recorders, and these devices do not rely upon external
+network-enabling devices, sales of our products could suffer. In
+addition, if the small business or home markets experience a
+recession or other cyclical effects that diminish 5 Table of Contents or delay networking expenditures, our business
+growth and profits would be severely limited, and our business
+could be more severely harmed than those companies that
+primarily sell to large business customers. Some of our competitors have substantially
+greater resources than we do, and to be competitive we may be
+required to lower our prices or increase our advertising
+expenditures or other expenses, which could result in reduced
+margins and loss of market share. We compete in a rapidly evolving and highly
+competitive market, and we expect competition to intensify. Our
+principal competitors in the small business market include
+3Com Corporation, Allied Telesyn International, Dell
+Computer Corporation, D-Link Systems, Inc., Hewlett-Packard
+Company, The Linksys division of Cisco Systems and Nortel
+Networks. Our principal competitors in the home market include
+Belkin Corporation, D-Link, The Linksys division of Cisco
+Systems and Microsoft Corporation. Other current and potential
+competitors include numerous local vendors such as Corega
+International SA and Melco, Inc./ Buffalo Technology in Japan
+and TP-Link in China. Our potential competitors also include
+consumer electronics vendors who could integrate networking
+capabilities into their line of products. Many of our existing and potential competitors
+have longer operating histories, greater name recognition and
+substantially greater financial, technical, sales, marketing and
+other resources, including Cisco Systems and Microsoft. These
+competitors may, among other things, undertake more extensive
+marketing campaigns, adopt more aggressive pricing policies,
+obtain more favorable pricing from suppliers and manufacturers
+and exert more influence on the sales channel than we can. In
+June 2003, Cisco Systems acquired The Linksys Group, a major
+competitor of ours. Cisco Systems has substantial resources that
+it may direct to developing or purchasing advanced technology,
+which might be superior to ours. In addition, it may direct
+substantial resources to expand its Linksys division’s
+distribution channel and to increase its advertising
+expenditures or otherwise use its resources to successfully
+compete. Any of these actions could cause us to materially
+increase our expenses, and could result in our being unable to
+successfully compete, which would harm our results of
+operations. We anticipate that current and potential competitors
+will also intensify their efforts to penetrate our target
+markets. These competitors may have more advanced technology,
+more extensive distribution channels, stronger brand names,
+greater access to shelf space in retail locations, bigger
+promotional budgets and larger customer bases than we do. These
+companies could devote more capital resources to develop,
+manufacture and market competing products than we could. If any
+of these companies are successful in competing against us, our
+sales could decline, our margins could be negatively impacted,
+and we could lose market share, any of which could seriously
+harm our business and results of operations. The average selling prices of our products
+typically decrease rapidly over the sales cycle of the product,
+which may negatively affect our gross margins. Our products typically experience price erosion,
+a fairly rapid reduction in the average selling prices over
+their respective sales cycles. In order to sell products that
+have a falling average selling price and maintain margins at the
+same time, we need to continually reduce product and
+manufacturing costs. To manage manufacturing costs, we must
+collaborate with our third-party manufacturers to engineer the
+most cost-effective design for our products. In addition, we
+must carefully manage the price paid for components used in our
+products. We must also successfully manage our freight and
+inventory costs to reduce overall product costs. We also need to
+continually introduce new products with higher sales prices and
+gross margins in order to maintain our overall gross margins. If
+we are unable to manage the cost of older products or
+successfully introduce new products with higher gross margins,
+our net revenue and overall gross margin would likely decline. If we fail to continue to introduce new
+products and product enhancements that achieve broad market
+acceptance on a timely basis, we will not be able to compete
+effectively and we will be unable to increase or maintain net
+revenue and gross margins. We operate in a highly competitive, quickly
+changing environment, and our future success depends on our
+ability to develop and introduce new products and product
+enhancements that achieve broad market acceptance in the small
+business and home markets. Our future success will depend in
+large part upon our 6 Table of Contents ability to identify demand trends in the small
+business and home markets and quickly develop, manufacture and
+sell products that satisfy these demands in a cost effective
+manner. Successfully predicting demand trends is difficult, and
+it is very difficult to predict the effect introducing a new
+product will have on existing product sales. We will also need
+to respond effectively to new product announcements by our
+competitors by quickly introducing competitive products. We have experienced delays in releasing new
+products and product enhancements in the past, which resulted in
+lower quarterly net revenue than expected. For example, in 2000,
+we introduced a proprietary wireless networking solution. Later,
+we decided to re-design our products to be compliant with the
+802.11 standard promulgated by the Institute of Electrical and
+Electronic Engineers. As a result, we introduced our wireless
+local area networking, or LAN, 802.11b products in the first
+quarter of 2001, six months behind some of our competitors. In
+addition, we have experienced unanticipated delays in product
+introductions beyond announced release dates. Any future delays
+in product development and introduction could result in: • loss of or delay in revenue and loss of market
+    share; • negative publi

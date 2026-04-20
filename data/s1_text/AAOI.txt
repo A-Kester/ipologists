@@ -1,0 +1,50 @@
+Investing in our common stock involves a high degree of risk. You should carefully consider the following risk factors and all other
+information contained in this prospectus before purchasing our common stock. If any of the following risks actually occur, we may be unable to conduct our business as currently planned and our
+financial condition and results of operations could be seriously harmed. In addition, the trading price of our common stock could decline due to the occurrence of any of these risks, and you may lose
+all or part of your investment. Risks Inherent in Our Business We are dependent on our key customers for a significant portion of our revenue and the loss of, or a significant reduction in orders from, any of our key customers would
+adversely impact our revenue and results of operations. We generate much of our revenue from a limited number of customers. In 2011, 2012 and 2013, our top ten customers represented 76.6%,
+77.6%, and 76.9% of our revenue, respectively. In 2013, Cisco Systems, Inc. represented 21.8% of our revenue, Amazon represented 18.2% of our revenue and Biogenomics Corp., a distributor,
+represented 8.7% of our total revenue. As a result, the loss of, or a significant reduction in orders from any of our key customers would materially and adversely affect our revenue and results of
+operations. We typically do not have long-term contracts with our customers and instead rely on recurring purchase orders. If our key customers do not continue to purchase our existing products or
+fail to purchase additional products from us, our revenue would decline and our results of operations would be adversely affected. Adverse
+events affecting our key customers could also negatively affect our ability to retain their business and obtain new purchase orders, which could adversely affect our revenue and
+results of operations. For example, in recent years, there has been consolidation among various network equipment manufacturers and this trend is expected to continue. We are unable to predict the
+impact that industry consolidation would have on our existing or potential customers. We may not be able to offset any potential decline in revenue arising from the consolidation of our existing
+customers with revenue from new customers or additional revenue from the merged company. If our customers do not qualify our products for use on a timely basis, our results of operations may suffer. Prior to the sale of new products, our customers typically require us to obtain their approval and qualify our products for use in
+their applications. Additionally, new customers often audit our manufacturing facilities and perform other evaluations during this process. The qualification process involves product sampling and
+reliability testing and collaboration with our product management and engineering teams in the design and manufacturing stages. If we are unable to accurately predict the amount of time required to
+qualify our products with customers, or are unable to qualify our products with certain customers at all, then our ability to generate revenue could be delayed or our revenue would be lower than
+expected and we may not be able to recover the costs associated with the qualification process or with our product development efforts, which would have an adverse effect on our results of operations. In
+addition, due to rapid technological changes in our markets, a customer may cancel or modify a design project before we have qualified our product or begun volume manufacturing of a
+qualified product. It is unlikely that we would be able to recover the expenses for cancelled or 11 Table of Contents unutilized
+custom design projects. It is difficult to predict with any certainty whether our customers will delay or terminate product qualification or the frequency with which customers will cancel
+or modify their projects, but any such delay, cancellation or modification would have a negative effect on our results of operations. Our
+ability to successfully qualify and scale capacity for new technologies and products is important to our ability to grow our business and market presence. If we are unable to qualify
+and sell any of our new products in volume, on time, or at all, our results of operations may be adversely affected. Customer demand is difficult to forecast accurately and, as a result, we may be unable to match production with customer demand. We make planning and spending decisions, including determining the levels of business that we will seek and accept, production
+schedules, component procurement commitments, personnel needs and other resource requirements, based on our estimates of product demand and customer requirements. Our products are typically purchased
+pursuant to individual purchase orders. While our customers may provide us with their demand forecasts, they are typically not contractually committed to buy any quantity of products beyond firm
+purchase orders. Furthermore, many of our customers may increase, decrease, cancel or delay purchase orders already in place without significant penalty. The short-term nature of commitments by our
+customers and the possibility of unexpected changes in demand for their products reduce our ability to accurately estimate future customer requirements. On occasion, customers may require rapid
+increases in production, which can strain our resources, cause our manufacturing to be negatively impacted by materials shortages, necessitate more onerous procurement commitments and reduce our gross
+margin. We may not have sufficient capacity at any given time to meet the volume demands of our customers, or one or more of our suppliers may not have sufficient capacity at any given time to meet
+our volume demands. If any of our major customers decrease, stop or delay purchasing our products for any reason, we will likely have excess manufacturing capacity or inventory and our business and
+results of operations would be harmed. We are subject to the cyclical nature of the markets in which we compete and any future downturn will likely reduce demand for our products and revenue. In each of our target markets, including the CATV market, our sales depend on the aggregate capital expenditures of service providers
+as they build out and upgrade their network infrastructure. These markets are highly cyclical and characterized by constant and rapid technological change, price erosion, evolving standards and wide
+fluctuations in product supply and demand. In the past, these markets have experienced significant downturns, often connected with, or in anticipation of, the maturation of product cycles. These
+downturns have been characterized by diminished product demand, production overcapacity, high inventory levels and accelerated erosion of average selling prices. Our historical results of operations
+have been subject to these cyclical fluctuations, and we may experience substantial period-to-period fluctuations in our future results of operations. Any future downturn in any of the markets in
+which we compete could significantly reduce the demand for our products and therefore may result in a significant reduction in our revenue. Our revenue and results of operations may be materially and
+adversely affected in the future due to changes in demand from individual customers or cyclical changes in any of the markets utilizing our products. We may not be able to accurately predict these
+cyclical fluctuations and the impact of these fluctuations may have on our revenue and operating results. 12 Table of Contents If the CATV market does not continue to develop as we expect, or if there is any downturn in this market, our business would be adversely affected. Historically, we have generated much of our revenue from the CATV market. In 2011, 2012, and 2013 the CATV market represented 81.4%,
+78.6% and 60.4% of our revenue, respectively. In the CATV market, we are relying on expected increasing demand for bandwidth-intensive services and applications such as on-demand television programs,
+high-definition television channels, or HDTV, social media, peer-to-peer file sharing and online video creation and viewing from network service providers. Without network and bandwidth growth, the
+need for our products will not increase and may decline, adversely affecting our financial condition and results of operations. Although demand for broadband access is increasing, network and
+bandwidth growth may be limited by several factors, including an uncertain regulatory environment, high infrastructure costs to purchase and install equipment and uncertainty as to which competing
+content delivery solution, such as telecommunications, wireless or satellite, will gain the most widespread acceptance. CATV network operators may reduce or forego equipment purchases in anticipation
+of the availability of next generation DOCSIS3.1 solutions that are expected to be available soon, which may adversely affect our sales. If the trend of outsourcing for the design and manufacture of
+CATV equipment does not continue, or continues at a slower pace than currently expected, our customers' demand for our design and manufacturing services may not grow as quickly as expected. If
+expectations for the
+growth of the CATV market are not realized, our financial condition or results of operations will be adversely affected. In addition, if the CATV market is adversely impacted, whether due to
+competitive pressure from telecommunication service providers, regulatory changes, or otherwise, our business would be adversely affected. In February 2014, Time Warner and Comcast, the two largest
+CATV providers in the U.S., announced that they had agreed to merge. We are unable to predict what impact this transaction, if completed, would have on the CATV market or on our business. We may not
+be able to offset any potential decline in revenue from the CATV market with revenue from new customers in other markets. We have limited operating histo

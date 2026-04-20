@@ -1,0 +1,169 @@
+...........................   See "Risk Factors" and other
+                                          information included in this
+                                          prospectus for a discussion of
+                                          factors you should carefully consider
+                                          before deciding to invest in shares
+                                          of our common stock.
+
+Proposed Nasdaq National Market symbol.   NFLX
+
+      Unless we indicate otherwise, all information in this prospectus: (1)
+assumes no exercise of the over-allotment option granted to the underwriters;
+(2) assumes the conversion into common stock of each outstanding share of our
+preferred stock, which will occur automatically upon the completion of this
+offering; (3) is based upon 45,129,402 shares outstanding as of February 28,
+2002, including shares to be issued to certain studios immediately prior to
+this offering based on our capitalization as of February 28, 2002; (4) does not
+give effect to a        for        reverse stock split to be effected
+in      2002; and (5) excludes:
+
+      .   12,998,864 shares of common stock issuable upon the exercise of stock
+          options outstanding as of February 28, 2002, with a weighted average
+          exercise price of $1.00 per share and 3,331,456 shares of common
+          stock available for future option grants under our 1997 Stock Plan
+          and 2002 Stock Plan, each as of February 28, 2002;
+
+      .   21,053,931 shares of common stock issuable upon exercise of warrants
+          with a weighted average exercise price of $1.07 per share; and
+
+      .   1,750,000 shares of common stock reserved for issuance under our 2002
+          Employee Stock Purchase Plan.
+
+                                      3 SUMMARY FINANCIAL AND OTHER DATA
+
+      The summary financial data below should be read together with
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations" and the consolidated financial statements and the related notes
+included elsewhere in this prospectus. YEAR ENDED DECEMBER 31,
+                                                  --------------------------------------
+                                                    1999        2000           2001
+                                                  --------  ------------- ---------------
+                                                              (IN THOUSANDS) STATEMENT OF OPERATIONS DATA:
+Total revenues................................... $  5,006    $ 35,894       $ 75,912
+Gross profit.....................................      633      11,033         26,005
+Operating loss...................................  (30,031)    (57,557)       (36,867)
+Net loss.........................................  (29,845)    (57,363)       (38,258)
+
+OTHER DATA:
+EBITDA(1) (unaudited)............................ $(21,223)   $(28,179)      $ (1,716)
+Number of subscribers (unaudited)................      107         292            456
+Net cash provided by (used in):
+   Operating activities.......................... $(16,529)   $(22,706)      $  4,847
+   Investing activities..........................  (19,742)    (24,972)       (12,670)
+   Financing activities..........................   49,408      48,375          9,059
+
+                                                          AS OF DECEMBER 31, 2001
+                                                  --------------------------------------
+                                                                             PRO FORMA
+                                                   ACTUAL   PRO FORMA (2) AS ADJUSTED (3)
+                                                  --------  ------------- ---------------
+                                                              (IN THOUSANDS)
+BALANCE SHEET DATA:
+Cash and cash equivalents........................ $ 16,131    $ 16,131       $
+Working capital (deficit)........................   (6,656)     (6,656)
+Total assets.....................................   41,630      41,630
+Long-term debt, less current portion.............    3,856       3,856
+Redeemable convertible preferred stock...........  101,830          --
+Stockholders' equity (deficit)...................  (90,504)     11,326 - --------
+(1) EBITDA consists of operating loss before depreciation, amortization,
+    non-cash charges for equity instruments granted to non-employees and
+    stock-based compensation. EBITDA provides an alternative measure of cash
+    flow from operations. You should not consider EBITDA as a substitute for
+    operating loss, as an indicator of our operating performance or as an
+    alternative to cash flows from operating activities as a measure of
+    liquidity. We may calculate EBITDA differently from other companies.
+(2) The pro forma column gives effect to the conversion of all outstanding
+    shares of our preferred stock, including shares to be issued to certain
+    studios immediately prior to this offering, into shares of common stock
+    automatically upon completion of this offering.
+(3) The pro forma as adjusted column gives effect to the sale of       shares
+    of common stock offered by us at an assumed initial public offering price
+    of $       per share and the application of the net proceeds from the
+    offering, after deducting underwriting discounts and commissions and
+    estimated offering expenses, including repayment of our subordinated
+    promissory notes.
+
+                                      4 RISK FACTORS
+
+      YOU SHOULD CAREFULLY CONSIDER THE RISKS DESCRIBED BELOW BEFORE BUYING
+SHARES IN THIS OFFERING. IF ANY OF THE FOLLOWING RISKS ACTUALLY OCCUR, OUR
+BUSINESS, FINANCIAL CONDITION AND RESULTS OF OPERATIONS COULD BE HARMED. IN
+THAT CASE, THE TRADING PRICE OF OUR COMMON STOCK COULD DECLINE, AND YOU COULD
+LOSE ALL OR PART OF YOUR INVESTMENT.
+
+RISKS RELATED TO OUR BUSINESS
+
+WE HAVE A LIMITED OPERATING HISTORY AND HISTORY OF NET LOSSES, AND WE
+ANTICIPATE THAT WE WILL EXPERIENCE NET LOSSES FOR THE FORESEEABLE FUTURE.
+
+      You should consider our business and prospects in light of the risks,
+expenses and difficulties encountered by companies in their early stage of
+development. We have experienced significant net losses since our inception
+and, given the significant operating and capital expenditures associated with
+our business plan, anticipate continuing net losses for the foreseeable future.
+If we do achieve profitability, we cannot be certain that we will be able to
+sustain or increase such profitability. We incurred net losses of $38.3 million
+for the year ended 2001. As of December 31, 2001, we had stockholders' deficit
+of $90.5 million. Only recently, beginning in 2001, have we generated positive
+cash flow from operations, and we cannot be certain that we will be able to
+sustain or increase such positive cash flow from operations from period to
+period in the future.
+
+      To achieve and sustain profitability, we must accomplish numerous
+objectives, including:
+
+      .   substantially increasing the number of paying subscribers to our
+          service; and
+
+      .   improving operating margins.
+
+      We cannot assure you that we will be able to achieve these objectives.
+
+IF OUR EFFORTS TO ATTRACT SUBSCRIBERS ARE NOT SUCCESSFUL, OUR REVENUE GROWTH
+WILL BE AFFECTED ADVERSELY.
+
+      We must continue to attract and retain subscribers. To succeed, we must
+continue to attract a large number of subscribers who have traditionally used
+video retailers, video rental outlets, pay cable channels, such as HBO and
+Showtime, and pay-per-view and video-on-demand, or VOD, for in-home filmed
+entertainment. Our ability to attract and retain subscribers will depend in
+part on our ability to consistently provide our subscribers a high quality
+experience for selecting, viewing, receiving and returning titles, including
+providing accurate recommendations through our CineMatch technology. If
+consumers do not perceive our service offering to be of high quality, or if we
+introduce new services that are not favorably received by them, we may not be
+able to attract or retain subscribers. In addition, many of our new subscribers
+originate from word-of-mouth advertising and referrals from existing
+subscribers. If our efforts to satisfy our existing subscribers are not
+successful, we may not be able to attract new subscribers, and as a result, our
+revenue growth will be affected adversely.
+
+WE RELY HEAVILY ON OUR PROPRIETARY TECHNOLOGY AND THE FAILURE OF THIS
+TECHNOLOGY TO OPERATE EFFECTIVELY COULD ADVERSELY AFFECT OUR BUSINESS.
+
+      We use complex proprietary software to manage the processing and
+allocation of deliveries and returns at our distribution centers. If we are
+unable to enhance and maintain software to manage the delivery and returns
+among our distribution centers in a timely and efficient manner, our ability to
+retain existing subscribers and to add new subscribers will be impaired.
+
+IF WE ARE NOT ABLE TO MANAGE OUR GROWTH, OUR SUBSCRIBER GROWTH COULD BE
+AFFECTED ADVERSELY.
+
+      We have expanded rapidly since we launched our Web site in April 1998. We
+anticipate that further expansion of our operations will be required to address
+any significant growth in our subscriber base and to take advantage of
+favorable market opportunities. Any future expansion may place significant
+demands on our
+
+                                      5 managerial, operational, administrative and financial resources. Our primary
+distribution center is in San Jose, California. We recently began to open
+regional distribution centers outside of the San Francisco Bay area.
+
+IF WE EXPERIENCE EXCESSIVE RATES OF SUBSCRIBER CHURN, OUR REVENUES AND BUSINESS
+WILL BE HARMED.
+
+      We must minimize the rate of loss of existing subscribers while adding
+new subscribers. Subscribers cancel their subscription to our service for many
+reasons, including a perception that they do not use the service sufficiently,
+deliver

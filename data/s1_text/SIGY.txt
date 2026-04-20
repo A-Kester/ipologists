@@ -1,0 +1,85 @@
+We
+currently own the rights to U.S. and foreign patents pending and patent applications and endeavor to continually improve our intellectual
+property position. We consider the protection of our technology to be vital to our business. While we intend to focus primarily on patentable
+technology, we may also rely on trade secrets, unpatented property, know-how, regulatory exclusivity, patent extensions and continuing
+technological innovation to develop our competitive position. We also own rights to the trademarks Sigyn Therapeutics™ and Sigyn
+Therapy™. Our
+success will depend in large part on our ability to protect our proprietary technologies, including Sigyn Therapy, and to operate without
+infringing the proprietary rights of third parties. We rely on a combination of patent, trade secret, copyright and trademark laws, as
+well as confidentiality agreements, and other agreements to establish and protect our proprietary rights. Our success also depends, in
+part, on our ability to avoid infringing patents issued to others. If we were judicially determined to be infringing on any third-party
+patent, we could be required to pay damages, alter our products or processes, obtain licenses, or cease sales of products or certain
+activities. It
+is possible that our pending patent applications may not result in issued patents, and that we will not develop additional proprietary
+products that are patentable, that any patents issued to us may not provide us with competitive advantages or will be challenged by third
+parties and that the patents of others may prevent the commercialization of products incorporating our technology. Furthermore, others
+may independently develop similar products, duplicate our products or design around our patents. U.S. patent applications are not immediately
+made public, so it is possible that a third party may obtain a patent on a technology we are actively using. Additionally, there is a
+risk that any patent applications that we file or later obtain could be challenged by third parties and declared invalid or unenforceable. Patent
+law outside the United States is uncertain and currently undergoing review and revisions in many countries. The laws of some countries
+may not protect our proprietary rights to the same extent as the laws of the United States. Third parties may attempt to oppose the issuance
+of patents to us in foreign countries by initiating opposition proceedings. Opposition proceedings against any of our patent filings
+in a foreign country could have an adverse effect on our corresponding patents that may be issued or pending in the United States. In
+addition to patent protection, we rely on unpatented trade secrets and proprietary technological expertise. It is possible that others
+could independently develop or otherwise acquire substantially equivalent technology or somehow gain access to our trade secrets and
+proprietary technological expertise. We
+Face Industry & Competition Risks Based
+on the size of the market opportunity, the industry to treat sepsis and other life-threatening inflammatory conditions is expected to
+become extremely competitive. As a development-stage device, Sigyn Therapy faces the challenge of establishing medical industry support,
+which will be driven by treatment data resulting from human clinical studies. Should Sigyn Therapy become market cleared, we are likely
+to face significant competition. Additionally, we will need to establish large-scale production of Sigyn Therapy in order to be competitive
+in the marketplace. 6 In
+the absence of approved drug agents to treat sepsis and other life-threatening disorders, our competition is likely to come from organizations
+that develop extracorporeal blood purification therapies. Among these therapies are a cytokine adsorption technology (CytoSorb from Cytosorbents
+Corporation); a technology that removes circulating endotoxin (Toraymyxn from Toray Industries); and two devices that target the removal
+of pathogens from the bloodstream (the Hemopurifier from Aethlon Medical) and (the Seraph-100 Microbind Affinity Filter from Exthera
+Medical). CytoSorb
+is a clinical-stage therapeutic candidate in the United States and market cleared in more than 40 countries outside the U.S. CytoSorb
+was recently cleared to treat severe COVID-19 infections under FDA Emergency-Use Authorization (EUA) based on its ability to adsorb inflammatory
+cytokines from the bloodstream. Toraymyxn
+is a clinical-stage therapeutic candidate in the United States and broadly market cleared outside the U.S. Toraymyxn houses an immobilized
+antibiotic agent with a high specificity to bind circulating endotoxin, a potent activator of sepsis resulting from gram-negative bacterial
+infections. In North America, exclusive rights to Toraymyxin are licensed to Spectral Medical, who is conducting FDA approved studies
+to treat sepsis. The
+Aethlon Hemopurifier is a clinical-stage therapeutic candidate in the United States. The Hemopurifier has been cleared to treat severe
+COVID-19 infections through an FDA IDE supplement and was previously cleared under FDA Emergency-Use Authorization (EUA) to treat Ebola
+virus. Immobilized within the Hemopurifier is an affinity lectin that has a high specificity to bind a broad-spectrum of viral pathogens
+from the bloodstream. The
+Exthera Seraph-100 Microbind Affinity Filter is a clinical-stage therapeutic candidate in the United States and market cleared outside
+the U.S. for the removal of bloodstream pathogens. The Seraph-100 was recently cleared and broadly deployed to treat severe COVID-19
+infections under FDA Emergency-Use Authorization (EUA). The Seraph-100 incorporates heparin-coated polyethylene beads that bind both
+viral and bacterial pathogens in the bloodstream. While in vitro studies have validated the ability of Sigyn Therapy to address inflammatory cytokines, bacterial toxins (including endotoxin),
+hepatic toxins, and infectious viruses, there is no assurance that we will receive market clearance and be able to establish scalable
+manufacturing that would allow us to compete with these and other emerging therapies. Government
+Regulation May Cause Us Delays in Ability to Obtain Approval Sigyn
+Therapy is subject to regulation by numerous regulatory bodies, including the United States Food and Drug Administration (FDA) and comparable
+international regulatory agencies. These agencies will require that we comply with applicable laws and regulations governing the development,
+testing, manufacturing, labeling, marketing, storage, distribution, advertising and promotion, and post-marketing surveillance of Sigyn
+Therapy. As a medical device, the FDA’s Center for Devices and Radiological Health (CDRH) will have primary jurisdiction over the
+premarket development, review, and approval of Sigyn Therapy. Failure to comply with applicable requirements could subject us to a variety
+of administrative sanctions, such as issuance of warning letters, import detentions, civil monetary penalties and/or judicial sanctions,
+such as product seizures, injunctions, and criminal prosecution. FDA’s
+Pre-market Approval Pathway May Take a Long Time for Approval of our Product Medical
+devices are classified into one of three categories—Class I, Class II or Class III—depending on the degree of risk associated
+with each medical device and the extent of controls needed to provide reasonable assurance of safety and effectiveness. We anticipate
+Sigyn Therapy to be a Class III device, which is subject to a Pre-market Approval (PMA) submission and approval. A
+pre-market approval application must be supported by extensive data, including but not limited to technical, preclinical, clinical trials,
+manufacturing and labelling to demonstrate to the FDA’s satisfaction reasonable evidence of safety and effectiveness of the device. After
+a pre-market approval application is submitted, the FDA has 45 days to determine whether the application is sufficiently complete to
+permit a substantive review and thus whether the FDA will file the application for review. The FDA has 180 days to review a filed pre-market
+approval application, although the review of an application generally occurs over a significantly longer period of time and can take
+up to several years. During this review period, the FDA may request additional information or clarification of the information already
+provided. Also, an advisory panel of experts from outside the FDA may be convened to review and evaluate the application and provide
+recommendations to the FDA as to the approvability of the device. 7 Although
+the FDA is not bound by the advisory panel decision, the panel’s recommendations are important to the FDA’s overall decision-making
+process. In addition, the FDA may conduct a preapproval inspection of the manufacturing facility to ensure compliance with the Quality
+System Regulation, or QSR. The agency also may inspect one or more clinical sites to assure compliance with FDA’s regulations. Upon
+completion of the PMA review, the FDA may: (i) approve the PMA which authorizes commercial marketing with specific prescribing information
+for one or more indications, which can be more limited than those originally sought; (ii) issue an approvable letter which indicates
+the FDA’s belief that the PMA is approvable and states what additional information the FDA requires, or the post-approval commitments
+that must be agreed to prior to approval; (iii) issue a not approvable letter which outlines steps required for approval, but which are
+typically more onerous than those in an approvable letter, and may require additional clinical trials that are often expensive and time
+consuming and can delay approval for months or even years; or (iv) deny the application. If the FDA issues an approvable or not approvable
+letter, the applicant has 180 days to respond, after which the FDA’s review clock is reset. Clinical
+Trial Requirements Pose Risk to Obtaining Approval Human
+clinical trials are required to suppo

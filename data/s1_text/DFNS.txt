@@ -1,0 +1,73 @@
+An investment in our securities involves a high degree of risk and could result in a loss of your entire investment. Prior to making an investment decision, you should carefully consider all of the information in this prospectus and, in particular, you should evaluate the risk factors set forth under the caption “ Risk Factors .” Nasdaq Trading Symbol “DFNS.” The number of shares of Common
+Stock outstanding after this offering is based on 29,168,154 shares of Common Stock issued and outstanding as of January 26, 2026 and
+excludes the following: ● 4,823 shares of Common Stock issuable upon the exercise of outstanding stock options having a weighted average exercise price of $550.60 per share; ● 4,643,560 shares of Common Stock issuable upon the exercise of outstanding warrants having a weighted exercise price of $21.02 per share; and 9 RISK FACTORS An investment in our securities
+involves a high degree of risk. This prospectus contains the risks applicable to an investment in our securities. Prior to making a decision
+about investing in our securities, you should carefully consider the specific factors discussed under the heading “Risk Factors”
+in this prospectus and/or incorporated by reference into this prospectus from our most recent Annual Report on Form 10-K, the Transition
+Report on Form 10-KT and in our Quarterly Reports on Form 10-Q for the quarterly periods ended subsequent to our filing of such Annual
+Report on Form 10-K, as well as any amendments thereto reflected in subsequent filings with the SEC. The risks and uncertainties we have
+described are not the only ones we face. Additional risks and uncertainties not presently known to us or that we currently deem immaterial
+may also affect our operations. The occurrence of any of these known or unknown risks might cause you to lose all or part of your investment
+in the offered securities. Risks Related to Our Business Our unprecedented transformation from financial
+technology to aerospace and defense lacks any operational track record and may completely fail. We are attempting a complete
+business model transformation with no prior experience in the defense industry. This transformation required or requires us to: divest
+our existing operations; acquire and integrate multiple defense companies; establish new regulatory compliance systems for ITAR, DFARS,
+and other regulations; obtain facility security clearances that typically take 12-18 months; recruit cleared personnel in a competitive
+market; and develop prime contractor relationships from scratch, all within a short timeframe. We have never managed a defense
+program, never held a government contract, never obtained security clearances, and have no established relationships with prime defense
+contractors. The defense industry operates under fundamentally different business models, regulations, and customer requirements than
+financial services. There is no assurance that we will successfully execute this transformation or generate any returns from the substantial
+capital being deployed. Our complete lack of defense industry track record means investors are funding an entirely unproven strategy that
+may result in total loss of invested capital. We are attempting to integrate multiple
+defense companies simultaneously without any aerospace and defense experience. We have recently acquired
+Star 26, Tiltan and Nimbus, and are constantly pursuing other targets, all within a compressed timeframe and without any defense industry
+acquisition or integration experience. Each acquisition involves different countries (U.S., Israel, Europe), currencies, regulatory regimes,
+and business models. Managing simultaneous integrations of this magnitude typically requires extensive expertise, dedicated integration
+teams, and proven playbooks—none of which we possess. Historical data shows that
+70-90% of acquisitions fail to achieve projected synergies, and our complete lack of industry experience significantly increases this
+failure risk. We may discover post-closing that acquired technologies are obsolete, customer relationships are not transferable, key employees
+depart, or compliance violations trigger penalties. The complexity of simultaneous multi-jurisdictional defense acquisitions without relevant
+experience creates extreme execution risk. Our Chief Executive Officer’s commitments
+to other companies may limit his ability to devote full-time attention to our business and could result in competition or conflicts of
+interest, which could adversely affect our operations and financial performance. Menachem Shalom, our Chief
+Executive Officer, also serves as the Chief Executive Officer of Star 26, Motomova Inc., and Hold Me Ltd. These roles require Mr. Shalom
+to devote significant time and resources to the management and strategic direction of these other companies, which may reduce the time
+and attention he can dedicate to the Company. This divided focus could impair our ability to execute our business strategy, particularly
+as we transition to a defense-focused company following the acquisition of Star 26 and the sale of our Digital RFQ (DRFQ) business. The
+competing demands on Mr. Shalom’s time may delay critical decision-making, hinder our ability to respond to market opportunities,
+or weaken our operational oversight, all of which could materially adversely affect our business, financial condition, and results of
+operations. 10 Furthermore, the businesses
+of Star 26, Motomova Inc., and Hold Me Ltd. may operate in sectors or pursue opportunities that compete with our current or future operations.
+While Star 26 is now our wholly-owned subsidiary, Motomova Inc. and Hold Me Ltd. are separate entities with potentially divergent interests.
+Mr. Shalom’s involvement in these companies could lead to conflicts of interest, including the allocation of business opportunities,
+resources, or strategic priorities that may favor these other entities over the Company. Any such competition or conflicts could harm
+our competitive position, limit our growth prospects, and negatively impact the value of our securities. If we do not effectively manage our growth
+and the associated demands on our operational, risk management, sales and marketing, technology, compliance and finance and accounting
+resources, our business may be adversely impacted. In our recent acquisitions,
+including our acquisitions of Star 26, Tiltan and Nimbus, our business has become increasingly complex by expanding the services we offer
+to include financial services and payment processing services. To effectively manage and capitalize on our growth, we must continue to
+expand our information technology and financial, operating, and administrative systems and controls, and continue to manage headcount,
+capital, and processes efficiently. Our continued growth could strain our existing resources, and we could experience ongoing operating
+difficulties in managing our business as it expands across numerous jurisdictions, including difficulties in hiring, training, and managing
+an employee base. Failure to scale and preserve our company culture with growth could harm our future success, including our ability to
+retain and recruit personnel and to effectively focus on and pursue our corporate objectives. If we do not adapt to meet these evolving
+challenges, or if our management team does not effectively scale with our growth, we may experience erosion to our brand, the quality
+of our products and services may suffer, and our company culture may be harmed. Moreover, the failure of our systems and processes could
+undermine our ability to provide accurate, timely, and reliable reports on our financial and operating results, including the financial
+statements provided herein, and could impact the effectiveness of our internal controls over financial reporting. In addition, our systems
+and processes may not prevent or detect all errors, omissions, or fraud, though we have experienced no such material errors, omissions
+or fraud in the past. For example, our employees may fail to identify transaction errors or fraudulent information provided by our customers.
+Any of the foregoing operational failures could lead to noncompliance with laws, loss of operating licenses or other authorizations, or
+loss of bank relationships that could substantially impair or even suspend company operations. We intend to continue to develop
+our technology, in particular our blockchain-enabled payment processing offering. Successful implementation of this strategy may require
+significant expenditures before any substantial associated revenue is generated and we cannot guarantee that these increased investments
+will result in corresponding and offsetting revenue growth. Our growth may not be sustainable and depends on our ability to retain existing
+customers, attract new customers, expand product offerings, and increase processed volumes and revenue from both new and existing customers. The future growth of our business
+depends on its ability to retain existing customers, attract new customers as well as getting existing customers and new customers to
+increase the volumes processed through our payments platform and therefore grow revenue. Our customers are not subject to any minimum
+volume commitments and they have no obligation to continue to use our services, and we cannot be sure that customers will continue to
+use our services or that we will be able to continue to attract new volumes at the same rate as we have in the past. A customer’s use of
+our services may decrease for a variety of reasons, including the customer’s level of satisfaction with our products and services,
+the expansion of business to offer new products and services, the effectiveness of our support services, the pricing of our products and
+services, the pricing, range and quality of competing products or services, the effects of global economic conditions, regulatory or financial
+institution limitations, trust, perception and interest

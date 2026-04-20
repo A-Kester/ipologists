@@ -1,0 +1,56 @@
+—Risks Related to Our Intellectual Property." In
+addition, many of our current or potential competitors, either alone or with their collaboration partners, have significantly greater financial resources and expertise in research
+and development, manufacturing, preclinical testing, conducting clinical trials, and marketing approved products than we do. Mergers and acquisitions in the pharmaceutical, biotechnology, and gene
+therapy industries may result in even more resources being concentrated among a smaller number of our competitors. Smaller or early-stage companies may also prove to be significant competitors,
+particularly through collaborative arrangements with large and established companies. These competitors also compete with us in recruiting and retaining qualified scientific and management personnel
+and establishing clinical trial sites and patient registration for clinical trials, as well as in acquiring technologies complementary to, or necessary for, our programs. Our commercial opportunity
+could be reduced or eliminated if our competitors develop and commercialize products that are safer, more effective, have fewer or less severe side effects, are more convenient or are less expensive
+than any products that we may develop. Our competitors also may obtain FDA or other regulatory approval for their products more rapidly than we may obtain approval for ours, which could result in our
+competitors establishing a strong market position before we are able to enter the market. The key competitive factors affecting the success of all of our programs are likely to be their efficacy,
+safety, convenience, and availability of reimbursement. If
+our current programs are approved for the indications for which we are currently planning clinical trials, they may compete with other products currently under development, including
+genome editing and gene therapy products. Competition with other related products currently under development may include competition for clinical trial sites, patient recruitment, and product sales. Intellectual Property Our success depends in part on our ability to obtain and maintain proprietary protection for our platform technology, programs, and
+know-how related to our business, defend and enforce our intellectual property rights, in particular, our patent rights, preserve the confidentiality of our trade secrets, and operate without
+infringing valid and enforceable intellectual property rights of others. We seek to protect our proprietary position by, among other things, exclusively licensing and filing U.S. and certain foreign
+patent applications related to our platform technology, existing and planned programs, and improvements that are important to the development of our business, where patent protection is -127- Table of Contents available.
+We also rely on trade secrets, know-how, continuing technological innovation, and confidential information to develop and maintain our proprietary position and protect aspects of our
+business that are not amenable to, or that we do not consider appropriate for, patent protection. We seek to protect our proprietary technology and processes, in part, by confidentiality agreements
+with our employees, consultants, scientific advisors, and contractors. We also seek to preserve the integrity and confidentiality of our data and trade secrets by maintaining physical security of our
+premises and physical and electronic security of our information technology systems. Our
+in-licensed patents cover various aspects of our genome editing platform technology, including CRISPR/Cas9 systems that employ viral vectors for delivery, single guide RNAs,
+modified guide RNAs, S. aureus Cas9, or a Cas9 nickase. In addition, we have filed patent applications and have in-licensed rights to filed patent
+applications directed to each of the four components of our genome editing platform technology. We intend to pursue, when possible, additional patent protection, including composition of matter,
+method of use, and process claims, directed to each component of our platform technology. We also intend to obtain rights to existing delivery technologies through one or more licenses from third
+parties. Notwithstanding
+these efforts, we cannot be sure that patents will be granted with respect to any patent applications we have licensed or filed or may license or file in the future, and
+we cannot be sure that any patents we have licensed or patents that may be licensed or granted to us in the future will not be challenged, invalidated, or circumvented or that such patents will be
+commercially useful in protecting our technology. Moreover, trade secrets can be difficult to protect. While we have confidence in the measures we take to protect and preserve our trade secrets, such
+measures can be breached, and we may not have adequate remedies for any such breach. In addition, our trade secrets may otherwise become known or be independently discovered by competitors. For more
+information regarding the risks related to our intellectual property, please see "Risk Factors—Risks Related to Our Intellectual Property." As
+of September 30, 2015, we owned two pending U.S. non-provisional patent applications, 14 pending U.S. provisional patent applications, and 13 pending Patent Cooperation
+Treaty, or PCT, applications which include claims to compositions of matter and methods of use. We intend to pursue, when possible, composition of matter, method of use, dosing, and formulation patent
+protection for genome editing products that we develop during the course of our business. As
+of September 30, 2015, we in-licensed 20 U.S. patents, which include claims to compositions of matter, methods of use, and certain processes as well as approximately 67
+pending U.S. patent applications, four European patents and related validations, 28 pending European patent applications, 22 pending PCT applications, and other related patent applications in
+jurisdictions outside the United States and Europe, which include claims to compositions of matter, methods of use, and certain processes. The patents and patent applications outside of the United
+States and Europe are held primarily in Canada, Japan, and Australia, although some of our in-licensed patent families were filed in a larger number of countries. Our in-licensed patents and patent
+applications claim the inventions of investigators at The Broad Institute Inc., or Broad, President and Fellows of Harvard College, or Harvard, Massachusetts Institute of Technology, or MIT, The
+General Hospital Corporation d/b/a Massachusetts General Hospital, or MGH, and Duke University, or Duke, and the majority of these licensed patents and patent applications are licensed on an exclusive
+basis. The exclusive licenses are, in some cases, limited to certain technical fields. Certain patent applications licensed to us by Broad (including a continuation of one of these applications)
+include Rockefeller as a joint applicant. Broad does not and does not purport to grant any rights in Rockefeller's interest in these patent applications under our agreement. As a result, Broad may not
+be the sole and exclusive owner of any patents that issue from these patent applications. For more information regarding these license agreements, please see "Business—License Agreements." -128- Table of Contents The
+University of California, acting on behalf of itself and the University of Vienna, and Emmanuelle Charpentier filed a "Suggestion of Interference" in the USPTO on April 13,
+2015, which requests that an interference be declared between certain claims in a pending U.S. patent application (U.S. Serial No. 13/842,859) that is owned by them and certain claims in 10
+U.S. patents, which we have in-licensed from Broad acting on behalf of itself, MIT, and Harvard. A Supplemental Suggestion of Interference
+was filed by the University of California and Emmanuelle Charpentier on November 5, 2015, which requests that an interference be declared between certain claims in their same pending U.S.
+patent application (U.S. Serial No. 13/842,859) and certain claims in two additional U.S. patents and five pending U.S. patent applications, which we have in-licensed from Broad, acting
+on behalf of itself, MIT, and Harvard. The Suggestion of Interference and Supplemental Suggestion of Interference assert that the inventors from the University of California and the University of
+Vienna and Emmanuelle Charpentier made certain inventions before the inventors from Broad and MIT and, in certain cases, Harvard. On December 23, 2015, the USPTO determined that claims in the
+patent application that was filed by University of California, the University of Vienna, and Emmanuelle Charpentier (U.S. Serial No. 13/842,859) are in condition for allowance pending
+consideration of a potential interference by the PTAB. In light of this determination by the USPTO, the PTAB will determine whether to declare an interference between such patent application and
+certain patents issued to Broad and licensed to us; however, it is unclear when such determination will be made. If an interference is declared, the PTAB will issue a "Declaration of Interference."
+The University of California derives rights in U.S. Serial No. 13/842,859 from an assignment by Dr. Jennifer Doudna and certain of the other inventors listed on such application.
+Dr. Doudna was a founder of our company and entered into a consulting agreement with us at the time of our founding. However, Dr. Doudna gave notice of termination of that agreement in
+May 2014 after less than seven months of service, and she has had no further engagement in our business since that time. Dr. Doudna is also a founder of Caribou Biosciences and has been
+publicly identified as an advisor to Intellia Therapeutics, each of which is one of our competitors. ToolGen
+filed Suggestions of Interference in the USPTO on April 13, 2015, which became publicly available on November 12, 2015 and December 3, 2

@@ -1,0 +1,163 @@
+” section of this prospectus. Critical Accounting Policies and
+Estimates While our significant accounting policies are
+more fully described in the notes to our consolidated financial
+statements included in this prospectus, we believe the following
+accounting policies to be the most critical in understanding the
+judgments and estimates we use in preparing our consolidated
+financial statements: Use of Estimates Our discussion and analysis of our financial
+condition and results of operations is based on our consolidated
+financial statements, which have been prepared in accordance
+with accounting principles generally accepted in the United
+States. The preparation of our consolidated financial statements
+requires us to make estimates and judgments that affect the
+reported amounts of assets, liabilities, revenues and expenses.
+On an ongoing basis, we evaluate our estimates and judgments,
+including those related to revenue recognition, accrued expenses
+and the fair value of our common and preferred stock
+particularly as it relates to stock-based compensation. We base
+our estimates on historical experience and on various other
+assumptions that we believe to be reasonable under the
+circumstances, the results of which form the basis for making
+judgments about the carrying values of assets and liabilities
+that are not readily apparent from other sources. Actual results
+may differ from these estimates under different assumptions or
+conditions and could have a material impact on our reported
+results. With respect to our estimates involved in the
+determination of the fair value of our common stock, during 2003
+the Board of Directors evaluated several events that provided
+indicators of the fair value of our common stock including
+(1) a valuation that was performed in connection with the
+acquisition of Ribopharma in July 2003, (2) the fair value
+of our Series B and Series C convertible preferred
+stock that was issued in 35 July, September and October 2003, and its
+relation to the value of our common stock, and (3) the
+impact of our proposed offering of common stock. These factors
+indicated that the options granted to employees during 2003 had
+a deemed fair value that was higher than the exercise price.
+This caused us to record deferred compensation of
+$3.3 million during 2003 and related compensation expense
+of $0.7 million in 2003. The deferred compensation will be
+recorded as an expense over the vesting period of the underlying
+stock options using an accelerated method. We expect to record
+amortization of this deferred compensation of $1.4 million,
+$0.7 million, $0.4 million, and $0.1 million, subject
+to employee terminations, in 2004, 2005, 2006 and 2007,
+respectively. In connection with stock options granted to
+nonemployees for services during the year ended
+December 31, 2003 and our determination of the fair value
+of our common stock, we have recorded aggregate deferred
+compensation of approximately $1.2 million, which
+represents the fair value of nonemployee grants. The deferred
+compensation will be recorded as an expense over the vesting
+period of the underlying stock options using an accelerated
+method. At the end of each financial reporting period prior to
+vesting, the value of these options, as calculated using the
+Black-Scholes option pricing model, will be remeasured using the
+then current fair value of our common stock. At that point,
+deferred compensation and the noncash compensation recognized
+during that period will be adjusted accordingly. Stock-based
+compensation expense related to these nonemployee options for
+2003 was $0.5 million. Since the fair market value of the
+common stock to nonemployees is subject to change in the future,
+the compensation expense recognized during the year ended
+December 31, 2003, and prior years may not be indicative of
+future compensation charges. We have also recorded cumulative deferred
+compensation of $3.8 million related to restricted stock
+awards that were issued to nonemployees in 2002. Shares
+remaining unvested or subject to forfeiture for nonemployees
+still providing services are subject to a mark-to-market
+adjustment during each reporting period prior to vesting in
+full. The deferred compensation will be recorded as an expense
+over the vesting period of the underlying restricted stock using
+an accelerated method. We recorded noncash stock-based
+compensation expense of $0.2 million during the period from
+June 14, 2002 through December 31, 2002 and
+$2.2 million during the year ended December 31, 2003,
+related to the amortization of the deferred compensation. The
+deferred compensation balance at December 31, 2003 related
+to these awards was $1.2 million. Since the fair market
+value of the common stock to nonemployees is subject to change
+in the future, the compensation expense recognized during the
+year ended December 31, 2003, and prior years may not be
+indicative of future compensation charges. Acquired Technology We have licensed technology that we expect to
+utilize in our research and development activities. The terms of
+the licenses may provide for up-front payments, annual
+maintenance payments, milestone payments based upon the
+achievement of specified events and royalties based on product
+sales. We account for the costs associated with obtaining
+licenses in accordance with FAS 2, Accounting for
+Research and Development Costs . Under this standard, we
+determine whether the technology we are licensing relates to a
+particular research and development project with no alternative
+use. If it is determined that there are no alternative uses, the
+amount is expensed as incurred. Alternatively, the costs are
+capitalized and amortized over their estimated useful life. To
+date, we have expensed $8.2 million of acquired technology,
+including $4.6 million of purchased in-process research and
+development that is believed to have no alternative uses. We
+have capitalized $3.6 million of core technology, with a
+10-year estimated useful life, which was acquired in 2003 as
+part of the Ribopharma acquisition. Long-lived Assets We generally depreciate property and equipment
+using the straight-line method over the assets estimated
+economic life, which ranges from two years to
+eight years. Determining the economic lives of property and
+equipment requires us to make significant judgments that can
+materially impact our operating results. As of December 31,
+2003, there was approximately $3.9 million of intangible
+assets on our consolidated balance sheet, including
+$3.6 million of core technology and $0.3 million
+related to the Ribopharma workforce. We 36 amortize acquired intangible assets using the
+straight-line method over their estimated economic lives, which
+range from four years to 10 years. Determining the
+economic lives of acquired intangible assets requires us to make
+significant judgment and estimates, and can materially impact
+our operating results. If our estimates require adjustment, it
+could have a material impact on our reported results. Our policy regarding long-lived assets is to
+evaluate the recoverability or usefulness of these assets when
+the facts and circumstances suggest that these assets may be
+impaired. This analysis relies on a number of factors, including
+changes in strategic direction, business plans, regulatory
+developments, economic and budget projections, technological
+improvements, and operating results. The test of recoverability
+or usefulness is a comparison of the asset value to the
+undiscounted cash flow of its expected cumulative net operating
+cash flow over the asset’s remaining useful life. Any
+write-downs would be treated as permanent reductions in the
+carrying amount of the asset and an operating loss would be
+recognized. To date, we have had recurring operating losses and
+the recoverability of our long-lived assets is contingent upon
+executing our business plan that includes obtaining significant
+revenue from research collaborations. If we are unable to
+execute our business plan, we may be required to write down the
+value of our long-lived assets in future periods. In accounting for the acquisition of Ribopharma,
+we allocated the purchase price to the fair value of the
+acquired tangible and intangible assets, including purchased
+in-process research and development, which requires us to make
+several significant judgments and estimates. In preparing the
+allocation, we used a discounted cash flow model to value the
+intangibles of Ribopharma, which requires us to make assumptions
+and estimates about, among other things: (1) the time and
+investment that will be required to develop the projects and
+related technologies; (2) the amount of revenues,
+royalties, and milestone payments that will be derived from the
+projects; and (3) the appropriate discount rates to be used
+in the analysis. Use of different estimates and judgments could
+yield materially different results in our analysis, and could
+result in materially different asset values and purchased
+in-process research and development charges. Revenue Recognition We recognize revenue in accordance with the
+Securities and Exchange Commission’s Staff Accounting
+Bulletin No. 104, Revenue Recognition in Financial
+Statements . We have entered into a collaboration agreement
+with Merck. Revenue from this collaboration agreement includes
+nonrefundable license fees, milestones and royalties. When
+evaluating multiple element arrangements, we consider whether
+the components of the arrangement represents separate units of
+accounting as defined in Emerging Issues Task Force Issue
+No. 00-21, Revenue Arrangements with Multiple
+Deliverables , or EITF 00-21. Application of these
+standards requires subjective determinations and requires
+management to make judgments about value of the individual
+elements and whether it is separable from the other aspects of
+the contractual relationship. To date, we have determined that
+our upfront non-refundable license fees cannot be separated from
+our ongoing collaborative activities, and ac

@@ -1,0 +1,88 @@
+Investing
+    in our securities involves a high degree of risk. See “Risk Factors” beginning on page 8. Unless
+we indicate otherwise, the number of shares of our common stock that will be outstanding immediately after the Underwritten Offering
+and the Selling Shareholders Offering is based on 966,675,946 shares of common stock outstanding as of July 7, 2022. The number excludes
+the following: (i) up
+    to 1,545,971,250 shares of common stock issuable upon the exercise of outstanding common stock purchase warrants and the conversion
+    of outstanding convertible notes; and (ii) shares
+    of common stock underlying the warrants to be issued to the Representative in connection with this Underwritten Offering. Except
+as otherwise indicated herein, all information in this prospectus assumes no exercise by the underwriter of its over-allotment option
+to purchase additional shares. 8 RISK
+FACTORS Investing
+in our common stock involves a high degree of risk. Before investing in our common stock, you should carefully consider the risks described
+below, as well as the other information in this prospectus, including our consolidated financial statements and the related notes. In
+addition, we may face additional risks and uncertainties not currently known to us, or which as of the date of this registration statement
+we might not consider significant, which may adversely affect our business. If any of the following risks occur, our business, financial
+condition and results of operations could be materially adversely affected. In such case the trading price of our common stock could
+decline due to any of these risks or uncertainties, and you may lose part or all of your investment. Risks
+Related to Our Business and Industry OUR
+INDEPENDENT ACCOUNTANTS HAVE ISSUED A GOING CONCERN OPINION AND IF WE CANNOT OBTAIN ADDITIONAL FINANCING AND/OR REDUCE OUR OPERATING
+COSTS SUFFICIENTLY, WE MAY HAVE TO CURTAIL OPERATIONS AND MAY ULTIMATELY CEASE TO EXIST. Our
+financial statements for the fiscal years ended December 31, 2020 and 2021 have been prepared on a going concern basis, which contemplates
+continuity of operations, realization of assets and liquidation of liabilities in the normal course of business. The Company had a total
+stockholder’s deficit of $1,702,653 and a working capital deficit of $4,274,383 and an accumulated deficit of $17,423,930 as of
+December 31, 2021 and used $2,552,547 in net cash from operating activities for the year ended December 31, 2021. Therefore, there
+is doubt about the ability of the Company to continue as a going concern. There can be no assurance that the Company will achieve its
+goals and reach profitable operations and is still dependent upon its ability (1) to obtain sufficient debt and/or equity capital and/or
+(2) to generate positive cash flow from operations. For
+the year ended December 31, 2021, we had a net profit of $278,492 compared to a net loss of $3,435,764 for the same period in
+2020. The increase in the net profit in 2021 was mainly due to the change in derivative liability associated with the convertible debt
+and lower interest expense from 2021 to 2020. WE
+HAVE AN ACCUMULATED DEFICIT AND MAY INCUR ADDITIONAL LOSSES; THEREFORE, WE MAY NOT BE ABLE TO OBTAIN THE ADDITIONAL FINANCING NEEDED
+FOR WORKING CAPITAL, CAPITAL EXPENDITURES AND TO MEET OUR DEBT SERVICE OBLIGATIONS. As
+of December 31, 2021, we had current liabilities of $6,865,123. The Company has been able to raise additional capital of approximately
+$4.78 million and repaid approximately $2.0 million of debt in 2021. Our outstanding debt could limit our ability to obtain additional
+financing for working capital, capital expenditures, debt service requirements, or other purposes in the future, as needed; to plan for,
+or react to, changes in technology and in our business and competition; and to react in the event of an economic downturn. In
+addition, we may not be able to meet our debt service obligations. The total outstanding balance of indebtedness as of the end of March
+31, 2022 was $6,690,575. Some of these outstanding debts bear a high interest rate. For example, the interest rate for debts due to Nations
+Interbanc with an outstanding balance of $1,153,956 is 26% per annum. If we are unable to generate sufficient cash flow or obtain funds
+for required payments, or if we fail to comply with covenants in our revolving lines of credit, we will be in default. WE
+ARE IN DEFAULT IN OUR OBLIGATIONS TO A MAJOR CREDITOR Currently,
+we are in default of our notes payable to Cybernaut Zfounder Ventures (“Cybernaut”), which have aggregate outstanding principal
+and interest of approximately $297,655. Cybernaut has agreed to pay the prepayment amounts of certain convertible promissory notes on
+behalf of the company, and as a result, Cybernaut acquired the rights of the original note holder under the notes. The default interest
+on the notes is 14% per annum. The notes can convert into the common stock of the Company at the variable discount rate of 35%. OUR
+BUSINESS, RESULTS OF OPERATIONS AND FINANCIAL CONDITION MAY BE ADVERSELY AFFECTED BY PUBLIC HEALTH EPIDEMICS, INCLUDING THE COVID-19. A
+public health epidemic, including the COVID-19, poses the risk that we or our employees, contractors, suppliers, customers and other
+business partners may be prevented from conducting business activities for an indefinite period of time, due to factors such as shutdowns
+that may be requested or mandated by governmental authorities. The COVID-19 pandemic continues to rapidly evolve. At this time, there
+continues to be significant volatility and uncertainty relating to the full extent to which the COVID-19 pandemic and the various responses
+to it will impact our business, operations and financial results. The
+extent to which the COVID-19 pandemic may impact our results will depend on future developments, which are highly uncertain and cannot
+be predicted as of the date of this prospectus, including the effectiveness of vaccines and other treatments for COVID-19, and other
+new information that may emerge concerning the severity of the pandemic and steps taken to contain the pandemic or treat its impact,
+among others. The pandemic and the current financial, economic and capital markets environment, and future developments in the global
+supply chain and other areas present material uncertainty and risk with respect to our performance, financial condition, results of operations
+and cash flows. 9 To
+the extent the COVID-19 pandemic adversely affects our business and financial results, it may also have the effect of heightening many
+of the other risks described in this “Risk Factors” section. WE
+HAVE NOT MADE A PAYMENT UNDER A MATERIAL CONTRACT, WHICH COULD RESULT IN ADVERSE IMPACTS ON OUR OPERATIONS AND FINANCIAL RESULTS. As
+of the date of this prospectus, we have not made a payment of the principal of $1,200,000 with the accrued interest of $325,843 which
+comprised the balance of the purchase price pursuant to our asset purchase agreement with General Electric International (“GE”),
+under which we acquired all assets of Heat Recovery Solutions business unit from General Electric International. In addition, we have
+not paid GE an amount of $972,233 in accrued transitional fees. We believe that the outstanding amounts should have been an offset to
+purchase price we paid due to a misrepresentation of the values of the disclosed assets as reflected in the principal amount of the outstanding
+note and in the transition agreements. CETY stopped making payments and informed GE that it had encountered difficulties because of the
+valuations of the assets that were acquired from GE. Given that the values of the assets were different than GE’s internal reports
+and as we discussed at the time of the transaction with GE’s management, we proposed a change in the amount the Company owes GE
+under the purchase agreement, but GE has been non-responsive. IF
+DEMAND FOR THE PRODUCTS AND SERVICES THAT THE COMPANY OFFERS SLOWS, OUR BUSINESS WOULD BE MATERIALLY AFFECTED. Demand
+for products which it intends to sell depends on many factors, including: ● the
+    economy, and in periods of rapidly declining economic conditions, customers may defer purchases or may choose alternate products; ● the
+    cost of oil, gas and solar energy; ● the
+    competitive environment in the heat to power sectors may force us to reduce prices below our desired pricing level or increase promotional
+    spending; and ● our
+    ability to maintain efficient, timely and cost-effective production and delivery of the products and services. All
+of these factors could result in immediate and longer term declines in the demand for the products and services that we offer, which
+could adversely affect our sales, cash flows and overall financial condition. WE
+OPERATE IN A HIGHLY COMPETITIVE MARKET. IF WE DO NOT COMPETE EFFECTIVELY, OUR PROSPECTS, OPERATING RESULTS, AND FINANCIAL CONDITION COULD
+BE ADVERSELY AFFECTED. The
+markets for our products and services are highly competitive, with companies offering a variety of competitive products and services.
+We expect competition in our markets to intensify in the future as new and existing competitors introduce new or enhanced products and
+services that are potentially more competitive than our products and services. We believe many of our competitors and potential competitors
+have significant competitive advantages, including longer operating histories, ability to leverage their sales efforts and marketing
+expenditures across a broader portfolio of products and services, larger and broader customer bases, more established relationships with
+a larger number of suppliers, contract manufacturers, and channel partners, greater brand recognition, and greater financial, research
+and development, marketing, distribution, and other resources than we do and the ability to offer financing for projects. Our competitors
+and potential competitors may also be able to develop pr

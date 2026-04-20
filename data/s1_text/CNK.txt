@@ -1,0 +1,149 @@
+, which could
+    adversely affect future results including, but not limited to,
+    (a) an increase in the costs of film rental from the major
+    film distributors, as well as access to differing qualities of
+    films based on the Company’s relationship with the
+    distributors and (b) a general economic downturn resulting
+    in decreased consumer spending on discretionary entertainment. Refinancing On March 1, 2006, the Company entered into a $435,000
+    senior secured credit facility consisting of a $360,000 Term
+    Loan B and a $75,000 revolving credit facility with Morgan
+    Stanley & Co. Inc. (see Notes 6 and 7). To
+    facilitate this financing, the Parent formed Century Theatres
+    Holdings, LLC (“Holdings”) as a single-member
+    California limited liability company on February 17, 2006.
+    In addition, Century California Subsidiary, Inc. (“Century
+    California”) was created as a wholly owned subsidiary of
+    Holdings for the sole purpose of entering into the credit
+    facility with Morgan Stanley. A portion of the proceeds of the
+    $360,000 Term Loan B was used by Century California to
+    purchase all outstanding shares of Century Theatres, Inc. common
+    stock from the Parent for $234,177. On the day of the financing,
+    Century California was merged into the Company and the Company
+    assumed all outstanding obligations under the credit facility.
+    The purchase of Century Theatres, Inc. shares from the Parent
+    has been treated as a distribution to the Parent. Furthermore,
+    since the purchase transaction took place between entities under
+    common control the transaction has been accounted for on a
+    historical cost basis. NOTE 2 —
+    SIGNIFICANT ACCOUNTING POLICIES Principles
+    of Consolidation The consolidated financial statements include the accounts of
+    Century Theatres, Inc. and its three wholly-owned subsidiaries.
+    All significant intercompany balances and transactions have been
+    eliminated in the consolidated financial statements. Use
+    of Estimates In preparing the financial statements in conformity with
+    accounting principles generally accepted in the United States of
+    America, management is required to make estimates and
+    assumptions that affect the reported amounts of assets and
+    liabilities at the date of the financial statements and the
+    reported amounts of revenues and expenses during the periods
+    presented, as well as the disclosure of contingent assets and
+    liabilities. Actual results could differ from those estimates
+    applied in the preparation of the accompanying consolidated
+    financial statements. F-60 Table of Contents CENTURY
+    THEATRES, INC. AND SUBSIDIARIES NOTES TO
+    CONSOLIDATED FINANCIAL
+    STATEMENTS — (Continued) (In thousands of dollars, except share amounts) Fiscal
+    Year-End The Company uses a 52/53 week fiscal year ending with the
+    last Thursday in September. The fiscal years presented in these
+    consolidated financial statements ended on September 28,
+    2006, September 29, 2005 and September 30, 2004. Cash
+    and Cash Equivalents Cash and cash equivalents include short-term investments with an
+    original maturity of less than 90 days. Included in cash
+    and cash equivalents in the accompanying consolidated balance
+    sheets is restricted cash of $392 at September 28, 2006 and
+    $152 at September 29, 2005. The Company invests excess cash in deposits with major banks and
+    money market funds with major financial institutions. The
+    Company has not experienced any losses related to these deposits
+    or investments, which may exceed federal insurance limits. Fair
+    Value of Financial Instruments The carrying amounts of cash and cash equivalents, accounts
+    receivable, accounts payable and accrued liabilities
+    approximates fair value because of the short-term maturity of
+    those instruments. The fair value of the long-term debt cannot
+    be estimated because there is no readily available market for
+    these securities. At September 28, 2006, the Company holds
+    derivative financial instruments relating to the interest rate
+    hedge of its $360,000 Term Loan B and the fair value of the
+    swap is estimated based upon quoted market prices of comparable
+    agreements (see Note 8). Other
+    Receivables Other receivables consist primarily of tenant allowances,
+    various rebates from concession vendors, auditorium rentals and
+    income taxes receivable. The Company generally does not require
+    collateral from its customers. The Company maintains an
+    allowance for doubtful accounts based upon the expected
+    collectibility of its other receivables. Inventories Inventories consist of concession and theatre supplies and are
+    stated at the lower of cost or market. The Company values
+    inventory using the weighted average cost method, which
+    approximates FIFO (first-in first-out) cost. Interest
+    Rate Swaps Interest rate swaps are used principally in the management of
+    the Company’s interest rate exposures and are recorded on
+    the consolidated balance sheet at fair value. If the swap is
+    designated as a cash flow hedge, the effective portions of
+    changes in the fair value of the swap are recorded in other
+    comprehensive income and are recognized in the consolidated
+    statements of operations when the hedged items affect earnings.
+    Ineffective portions of changes in the fair value of cash flow
+    hedges are recognized as a charge or credit to earnings. F-61 Table of Contents CENTURY
+    THEATRES, INC. AND SUBSIDIARIES NOTES TO
+    CONSOLIDATED FINANCIAL
+    STATEMENTS — (Continued) (In thousands of dollars, except share amounts) Property
+    and Equipment Property and equipment are stated at cost less accumulated
+    depreciation and amortization. The Company uses the
+    straight-line method to compute depreciation and amortization
+    over the estimated useful lives of the assets as follows: Buildings and improvements 20-30 years Leasehold improvements Lesser of term of lease or asset life Land improvements 15 years Fixtures and equipment 3-7 years When assets are retired or otherwise disposed of, the cost and
+    related accumulated depreciation are removed from the accounts
+    and any resulting gain or loss is recognized in income for the
+    period. The costs of maintenance and repairs are expensed as
+    incurred and are included in theatre operating expenses.
+    Significant renewals and betterments are capitalized. Capitalized
+    Interest Financing costs associated with the Company’s construction
+    projects are capitalized as part of the cost of the assets
+    constructed. The Company capitalized interest in the amount of
+    $1,087, $327 and $782 for the years ended September 28,
+    2006, September 29, 2005 and September 30, 2004,
+    respectively. Deferred
+    Financing Fees Deferred financing fees include costs associated with the
+    $435,000 senior secured credit facility as described in
+    Notes 6 and 7. These costs amounted to $5,532 and are being
+    amortized over 7 years. For the year ended
+    September 28, 2006 unamortized costs associated with the
+    Company’s former private placement notes of $892 were
+    charged to expense upon repayment of the notes (see Note 7). Rent
+    Expense Minimum rental expenses are recognized on a straight-line basis
+    over the term of the lease starting when the Company has access
+    to the property. Therefore, the amortization period occasionally
+    includes a construction period prior to the theatre opening.
+    When a lease contains a predetermined fixed escalation of
+    minimum rents, the Company recognizes the related rent expense
+    on a straight-line basis and records the difference between the
+    recognized rental expense and the amounts payable under the
+    lease as deferred rent. The Company also receives tenant
+    allowances, which are treated as deferred lease incentives for
+    operating leases. The deferred lease incentive is amortized over
+    the base term of the lease (including the construction period)
+    as a reduction to rent expense. Renewal periods are included in
+    the lease term only if they are reasonably assured. Certain leases provide for contingent rents that are not
+    measurable at the inception of the lease because they are based
+    on a percentage of sales that are in excess of a predetermined
+    breakpoint. These amounts are excluded from minimum rent but are
+    included in the determination of total rent expense when it is
+    probable that the expense has been incurred and the amount is
+    reasonably estimable. Capital
+    Leases Under Emerging Issues Task Force (EITF) 97-10, The Effect of Lessee Involvement in Asset Construction ,
+    various forms of lessee involvement during the pre-construction
+    or construction periods of leased property may cause the lessee
+    to be the “accounting owner” of the asset during the
+    construction period. If the lessee is involved with the
+    construction of a built-to-suit real estate project to be leased to the lessee when construction F-62 Table of Contents CENTURY
+    THEATRES, INC. AND SUBSIDIARIES NOTES TO
+    CONSOLIDATED FINANCIAL
+    STATEMENTS — (Continued) (In thousands of dollars, except share amounts) is completed, the transaction may constitute a sale-leaseback
+    within Statement of Financial Accounting Standards
+    (“SFAS”) No. 98, Accounting for Leases. In
+    addition to the nine leases capitalized under EITF 97-10 as of the year ended September 29, 2005, management
+    determined that three additional leases for the year ended
+    September 28, 2006 should be capitalized and maintained on
+    the Company’s books until the theatre opens in accordance
+    with EITF 97-10. None of these twelve leases qualified for sale-leaseback
+    accounting under SFAS No. 98 and were treated as
+    capital leases. Impairment
+    of Long-Lived Assets The Company follows SFAS No

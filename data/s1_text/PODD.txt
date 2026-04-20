@@ -1,0 +1,147 @@
+You should carefully consider the risk factors set forth
+    below as well as the other information contained in this
+    prospectus before investing in our common stock. Any of the
+    following risks could materially and adversely affect our
+    business, financial condition or results of operations. In such
+    a case, you may lose all or part of your investment. The risks
+    described below are not the only risks facing us. Additional
+    risks and uncertainties not currently known to us or those we
+    currently view to be immaterial may also materially adversely
+    affect our business, financial condition or results of
+    operations. Risks
+    Relating to Our Business We
+    have incurred significant operating losses since inception, are
+    currently selling the OmniPod System at a loss and cannot assure
+    you that we will achieve profitability. Since our inception in 2000, we have incurred losses every
+    quarter. We began commercial sales of the OmniPod System in
+    October 2005 and we are currently not able to manufacture and
+    sell the OmniPod System at a cost and in volumes sufficient to
+    allow us to achieve profitability. For the quarter ended
+    June 30, 2007, our gross loss from the manufacture and sale
+    of the OmniPod System was $3.7 million. The extent of our
+    future operating losses and the timing of profitability are
+    highly uncertain, and we may never achieve or sustain
+    profitability. We have incurred a significant net loss since our
+    inception, including a net loss of $12.7 million for the
+    quarter ended June 30, 2007. As of June 30, 2007, we
+    had an accumulated deficit of $126.3 million. As we have
+    grown our business, our net loss has increased each quarter and
+    we expect our rate of loss to continue to increase on a
+    quarterly basis into 2008. We
+    currently rely entirely on sales of our sole product, the
+    OmniPod System, to generate revenues. The failure of the OmniPod
+    System to achieve and maintain significant market acceptance or
+    any factors that negatively impact sales of this product will
+    adversely affect our business, financial condition and results
+    of operations. Our sole product is the OmniPod System, which we introduced to
+    the market in October 2005. We expect to derive substantially
+    all of our revenue from the sale of this product. Accordingly,
+    our ability to generate revenues is entirely reliant on our
+    ability to market and sell the devices that comprise the OmniPod
+    System. Our sales of the OmniPod System may be negatively
+    impacted by many factors, including: • the failure of the OmniPod System to achieve acceptance among
+    opinion leaders in the diabetes treatment community,
+    insulin-prescribing physicians, third-party payors and people
+    with insulin-dependent diabetes; • manufacturing problems; • changes in reimbursement rates or policies relating to the
+    OmniPod System by third-party payors; • claims that any portion of the OmniPod System infringes on
+    patent rights or other intellectual property rights owned by
+    other parties; • adverse regulatory or legal actions relating to the OmniPod
+    System; • damage, destruction or loss of any of our automated assembly
+    units; • competitive pricing and related factors; and • results of clinical studies relating to the OmniPod System or
+    our competitors’ products. If any of these events occurs, our ability to generate revenues
+    could be significantly reduced. 9 Table of Contents Our
+    ability to achieve profitability from a current net loss level
+    will depend on our ability to reduce the per unit cost of
+    producing the OmniPod through the successful implementation of
+    our automated manufacturing strategy and our plan to purchase
+    complete OmniPods manufactured in China. Currently, the sale price of the OmniPod System is not
+    sufficient to cover our direct manufacturing costs. We are in
+    the process of completing the construction, testing and
+    installation of automated manufacturing equipment to be used in
+    the assembly of the OmniPod in order to increase our
+    manufacturing volume. Increased volumes will allow for volume
+    purchase discounts to reduce our raw material costs and improve
+    absorption of manufacturing overhead costs. During 2008, we
+    expect to complete the planned automation of our existing
+    manufacturing line at our facility in Bedford, Massachusetts.
+    Pending construction and installation of the remaining automated
+    manufacturing equipment that we plan to use, we are manually
+    performing these steps in the manufacturing process, which
+    limits our ability to increase our manufacturing capacity and
+    decrease our per unit cost of goods sold, thereby causing us to
+    incur negative gross margins. In addition, we expect that during
+    2008, construction of a partially automated manufacturing line
+    will be completed at a facility in China operated by a
+    subsidiary of Flextronics International Ltd. We cannot assure
+    you that we will successfully complete the planned automation of
+    our existing manufacturing line or subsequent lines in the
+    future, complete construction of the partially automated line in
+    China or otherwise reduce the per unit cost of manufacturing the
+    OmniPod. Failure to do so would limit our production capacity
+    and our ability to reduce raw material and manufacturing
+    overhead costs. If we are unable to reduce raw material and
+    manufacturing overhead costs through volume purchase discounts
+    and increased production capacity, our ability to achieve
+    profitability will be severely constrained. We
+    are dependent upon third-party suppliers, making us vulnerable
+    to supply problems and price fluctuations. We rely on a number of suppliers who manufacture the components
+    of the OmniPods and PDMs. For example, we rely on Phillips
+    Plastic Corporation to manufacture and supply a number of
+    injection molded components of the OmniPod, Freescale
+    Semiconductor, Inc. to manufacture and supply the application
+    specific integrated circuit that is incorporated into the
+    OmniPod and a subsidiary of Flextronics International Ltd. to
+    manufacture a sub-assembly of some of the OmniPod’s
+    components. Each of these suppliers is a sole-source supplier.
+    In addition, we have recently expanded the scope of our existing
+    contract manufacturing agreement with a subsidiary of
+    Flextronics International Ltd. in China to cover the supply of
+    complete OmniPods. We do not have long-term supply agreements
+    with most of our suppliers, and, in many cases, we make our
+    purchases on a purchase order basis. In some other cases, where
+    we do have agreements in place, our agreements with our
+    suppliers can be terminated by either party upon short notice.
+    Our suppliers may encounter problems during manufacturing due to
+    a variety of reasons, including failure to follow specific
+    protocols and procedures, failure to comply with applicable
+    regulations, equipment malfunction and environmental factors,
+    any of which could delay or impede their ability to meet our
+    demand. Our reliance on these third-party suppliers also
+    subjects us to other risks that could harm our business,
+    including: • we are not a major customer of many of our suppliers, and these
+    suppliers may therefore give other customers’ needs higher
+    priority than ours; • we may not be able to obtain adequate supply in a timely manner
+    or on commercially reasonable terms; • our suppliers, especially new suppliers, may make errors in
+    manufacturing that could negatively affect the efficacy or
+    safety of the OmniPod System or cause delays in shipment; • we may have difficulty locating and qualifying alternative
+    suppliers for our sole-source supplies; • switching components may require product redesign and submission
+    to the U.S. Food and Drug Administration, or FDA, of a
+    510(k) supplement; • our suppliers manufacture products for a range of customers, and
+    fluctuations in demand for the products these suppliers
+    manufacture for others may affect their ability to deliver
+    products to us in a timely manner; and 10 Table of Contents • our suppliers may encounter financial hardships unrelated to our
+    demand, which could inhibit their ability to fulfill our orders
+    and meet our requirements. We may not be able to quickly establish additional or
+    replacement suppliers, particularly for our sole-source
+    suppliers, in part because of the FDA approval process and
+    because of the custom nature of various parts we require. Any
+    interruption or delay in obtaining products from our third-party
+    suppliers, or our inability to obtain products from alternate
+    sources at acceptable prices in a timely manner, could impair
+    our ability to meet the demand of our customers and cause them
+    to cancel orders or switch to competing products. Our
+    financial condition or results of operations may be adversely
+    affected by international business risks. In order to reduce our cost of goods sold and increase our
+    production capacity, we increasingly rely on third party
+    suppliers located outside of the United States. For example, on
+    January 3, 2007, we entered into a non-exclusive contract
+    manufacturing agreement with a subsidiary of Flextronics
+    International Ltd. for the supply of a sub-assembly of some of
+    the OmniPod’s components. In the second quarter of 2007, we
+    received initial shipments of OmniPod sub-assemblies from
+    Flextronics under the agreement. On October 4, 2007, we
+    expanded the scope of that agreement to cover the production of
+    complete OmniPods. During 2008, we expect to complete the
+    construction of a partially automated manufacturing line at a
+    facility in China operated by Flextronics. As a result, our
+ 

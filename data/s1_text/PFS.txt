@@ -1,0 +1,183 @@
+--Adoption of State Tax Legislation may Have a Negative Impact on Our Net
+Income."
+
+     Delaware State Taxation. As a Delaware holding company not earning income
+in Delaware, Provident Financial Services, Inc. is exempted from Delaware
+corporate income tax
+
+                                       87 but is required to file annual returns and pay annual fees and a franchise tax
+to the State of Delaware.
+
+                                   REGULATION
+
+General
+
+     The Provident Bank is a New Jersey chartered savings bank, and its deposit
+accounts are insured up to applicable limits by the Federal Deposit Insurance
+Corporation (FDIC) under the Bank Insurance Fund (BIF) and the Savings
+Association Insurance Fund (SAIF). The Provident Bank is subject to extensive
+regulation, examination and supervision by the Commissioner of the New Jersey
+Department of Banking and Insurance (the Commissioner) as the issuer of its
+charter, and by the FDIC as the deposit insurer. The Provident Bank must file
+reports with the Commissioner and the FDIC concerning its activities and
+financial condition, and it must obtain regulatory approval prior to entering
+into certain transactions, such as mergers with, or acquisitions of, other
+depository institutions and opening or acquiring branch offices. The
+Commissioner and the FDIC conduct periodic examinations to assess The Provident
+Bank's compliance with various regulatory requirements. This regulation and
+supervision establishes a comprehensive framework of activities in which a
+savings bank can engage and is intended primarily for the protection of the
+deposit insurance fund and depositors. The regulatory structure also gives the
+regulatory authorities extensive discretion in connection with their supervisory
+and enforcement activities and examination policies, including policies with
+respect to the classification of assets and the establishment of adequate loan
+loss reserves for regulatory purposes.
+
+     Provident Financial Services, Inc., as a bank holding company controlling
+The Provident Bank, will be subject to the Bank Holding Company Act of 1956, as
+amended ("BHCA"), and the rules and regulations of the Federal Reserve Board
+under the BHCA and to the provisions of the New Jersey Banking Act of 1948 (the
+"New Jersey Banking Act") and the regulations of the Commissioner under the New
+Jersey Banking Act applicable to bank holding companies. The Provident Bank and
+Provident Financial Services, Inc. will be required to file reports with, and
+otherwise comply with the rules and regulations of the Federal Reserve Board and
+the Commissioner. Provident Financial Services, Inc. will be required to file
+certain reports with, and otherwise comply with, the rules and regulations of
+the Securities and Exchange Commission under the federal securities laws.
+
+     Any change in such laws and regulations, whether by the Commissioner, the
+FDIC, the Federal Reserve Board or through legislation, could have a material
+adverse impact on The Provident Bank and Provident Financial Services, Inc. and
+their operations and stockholders.
+
+                                       88 - --------------------------------------------------------------------------------
+
+Certain of the laws and regulations applicable to The Provident Bank and
+Provident Financial Services, Inc. are summarized below or elsewhere in this
+prospectus. These summaries do not purport to be complete and are qualified in
+their entirety by reference to such laws and regulations.
+
+- --------------------------------------------------------------------------------
+
+New Jersey Banking Regulation
+
+     Activity Powers. The Bank derives its lending, investment and other
+activity powers primarily from the applicable provisions of the New Jersey
+Banking Act and its related regulations. Under these laws and regulations,
+savings banks, including The Provident Bank, generally may invest in:
+
+     (1)  real estate mortgages;
+
+     (2)  consumer and commercial loans;
+
+     (3)  specific types of debt securities, including certain corporate debt
+          securities and obligations of federal, state and local governments and
+          agencies;
+
+     (4)  certain types of corporate equity securities; and
+
+     (5)  certain other assets.
+
+     A savings bank may also invest pursuant to a "leeway" power that permits
+investments not otherwise permitted by the New Jersey Banking Act. "Leeway"
+investments must comply with a number of limitations on the individual and
+aggregate amounts of "leeway" investments. A savings bank may also exercise
+trust powers upon approval of the Commissioner. New Jersey savings banks may
+exercise those powers, rights, benefits or privileges authorized for national
+banks or out-of-state banks or for federal or out-of-state savings banks or
+savings associations, provided that before exercising any such power, right,
+benefit or privilege, prior approval by the Commissioner by regulation or by
+specific authorization is required. The exercise of these lending, investment
+and activity powers are limited by federal law and the related regulations. See
+"--Federal Banking Regulation--Activity Restrictions on State-Chartered Banks"
+below.
+
+     Loans-to-One-Borrower Limitations. With certain specified exceptions, a New
+Jersey chartered savings bank may not make loans or extend credit to a single
+borrower and to entities related to the borrower in an aggregate amount that
+would exceed 15% of the bank's capital funds. A savings bank may lend an
+additional 10% of the bank's capital funds if secured by collateral meeting the
+requirements of the New Jersey Banking Act. The Provident Bank currently
+complies with applicable loans-to-one-borrower limitations.
+
+     Dividends. Under the New Jersey Banking Act, a stock savings bank may
+declare and pay a dividend on its capital stock only to the extent that the
+payment of the dividend would not impair the capital stock of the savings bank.
+In addition, a stock savings bank may not pay a dividend unless the savings bank
+would, after the payment of the dividend, have a surplus of not less than 50% of
+its capital stock, or the payment of the dividend would not reduce the surplus.
+
+                                       89 Federal law may also limit the amount of dividends that may be paid by The
+Provident Bank. See "--Federal Banking Regulation--Prompt Corrective Action"
+below.
+
+     Minimum Capital Requirements. Regulations of the Commissioner impose on New
+Jersey chartered depository institutions, including The Provident Bank, minimum
+capital requirements similar to those imposed by the FDIC on insured state
+banks. See "--Federal Banking Regulation--Capital Requirements."
+
+     Examination and Enforcement. The New Jersey Department of Banking and
+Insurance may examine The Provident Bank whenever it deems an examination
+advisable. The Department examines The Provident Bank at least every two years.
+The Commissioner may order any savings bank to discontinue any violation of law
+or unsafe or unsound business practice and may direct any director, officer,
+attorney or employee of a savings bank engaged in an objectionable activity,
+after the Commissioner has ordered the activity to be terminated, to show cause
+at a hearing before the Commissioner why such person should not be removed.
+
+Federal Banking Regulation
+
+     Capital Requirements. FDIC regulations require banks to maintain minimum
+levels of capital. The FDIC regulations define two tiers, or classes, of
+capital.
+
+     Tier 1 capital is comprised of the sum of:
+
+     .    common stockholders' equity, excluding the unrealized appreciation or
+          depreciation, net of tax, from available for sale securities;
+
+     .    non-cumulative perpetual preferred stock, including any related
+          retained earnings; and
+
+     .    minority interests in consolidated subsidiaries minus all intangible
+          assets, other than qualifying servicing rights and any net unrealized
+          loss on marketable equity securities.
+
+     The components of Tier 2 capital currently include:
+
+     .    cumulative perpetual preferred stock;
+
+     .    certain perpetual preferred stock for which the dividend rate may be
+          reset periodically;
+
+     .    hybrid capital instruments, including mandatory convertible
+          securities;
+
+     .    term subordinated debt;
+
+     .    intermediate term preferred stock;
+
+     .    allowance for possible loan losses; and
+
+                                       90 .    up to 45% of pretax net unrealized holding gains on available for sale
+          equity securities with readily determinable fair market values.
+
+Allowance for possible loan losses includible in Tier 2 capital is limited to a
+maximum of 1.25% of risk-weighted assets. Overall, the amount of Tier 2 capital
+that may be included in total capital cannot exceed 100% of Tier 1 capital. The
+FDIC regulations establish a minimum leverage capital requirement for banks in
+the strongest financial and managerial condition, with a rating of 1 (the
+highest examination rating of the FDIC for banks) under the Uniform Financial
+Institutions Rating System, of not less than a ratio of 3.0% of Tier 1 capital
+to total assets. For all other banks, the minimum leverage capital requirement
+is 4.0%, unless a higher leverage capital ratio is warranted by the particular
+circumstances or risk profile of the depository institution.
+
+     The FDIC regulations also require that banks meet a risk-based capital
+standard. The risk-based capital standard requires the maintenance of a ratio of
+total capital, which is defined as the sum of Tier 1 capital and Tier 2 capital,
+to risk-weighted assets of at least 8% and a ratio of Tier 1 capital to
+risk-weighted assets of at least 4%. In determining the amount of risk-weighted
+assets, all assets, plus certain off balance sheet items, are multiplied by a
+risk-weight of 0% to 100%, based on the risks the FDIC believes are inherent in
+the type of 

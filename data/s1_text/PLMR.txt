@@ -1,0 +1,54 @@
+including asset risk, credit risk, underwriting risk and interest rate risk. As the ratio of an insurer's total
+adjusted capital and surplus decreases relative to its risk-based capital, the RBC laws provide for increasing levels of regulatory intervention culminating with mandatory control of the operations of
+the insurer by the domiciliary insurance department at the so-called mandatory control level. Oregon has adopted the model legislation promulgated by the NAIC pertaining to RBC, and requires annual
+reporting by Oregon-domiciled insurers to confirm that the minimum amount of RBC necessary for an insurer to support its overall business operations has been met. Oregon-domiciled insurers falling
+below a calculated threshold may be subject to varying degrees of regulatory action. Failure to maintain risk-based capital at the required levels could adversely affect the ability of Palomar
+Specialty Insurance Company to maintain the regulatory approvals necessary to conduct its business. However, as of December 31, 2018, Palomar Specialty Insurance Company maintained RBC levels
+significantly in excess of amounts that would require any corrective actions. IRIS Ratios The NAIC Insurance Regulatory Information System, or IRIS, is part of a collection of analytical tools designed to provide state insurance
+regulators with an integrated approach to screening and analyzing the financial condition of insurance companies operating in their respective states. IRIS is intended to assist state insurance
+regulators in targeting resources to those insurers in greatest need of regulatory attention. IRIS consists of two phases: statistical and analytical. In the statistical phase, the NAIC database
+generates key financial ratio results based on financial information obtained from insurers' annual statutory statements. The analytical phase is a review of the annual statements, financial ratios
+and other automated solvency tools. The primary goal of the analytical phase is to identify companies that appear to require immediate regulatory attention. A ratio result falling outside the usual
+range of IRIS ratios is not considered a failing result; rather, unusual values are viewed as part of the regulatory early monitoring system. Furthermore, in some years, it may not be unusual for
+financially sound companies to have several ratios with results outside the usual ranges. An insurance 119 Table of Contents company
+may fall out of the usual range for one or more ratios because of specific transactions that are in themselves immaterial. Bermuda Insurance Regulation The Insurance Act provides that no person shall carry on insurance business in or from within Bermuda unless registered as an insurer under the
+Insurance Act by the BMA. The BMA, in deciding whether to grant registration, has broad discretion to act as it thinks fit in the public interest. The BMA is required by the Insurance Act to determine
+whether the applicant is a fit and proper body to be engaged in the insurance business and, in particular, whether it has, or has available to it, adequate knowledge and expertise. The registration of
+an applicant as an insurer is subject to its complying with the terms of its registration and such other conditions as the BMA may impose at any time. The
+Insurance Act also grants to the BMA powers to supervise, investigate and intervene in the affairs of insurance companies. Palomar Re, as an entity domiciled in Bermuda, maintains a
+Class 3A license and is subject to the Bermuda insurance regulatory framework. Minimum Paid-Up Share Capital The Insurance Act requires each insurer which has a share capital to maintain a minimum amount paid up on such share capital. A Class 3A
+insurer is required to maintain fully paid-up share capital of $120,000. Loss Reserve Specialist Generally, Class 3A insurers must appoint an individual approved by the BMA to be its loss reserve specialist who is qualified as a loss
+reserve specialist to provide an opinion in accordance with the requirements of Schedule XIV ("Statutory Economic Balance Sheet") of the Insurance (Prudential Standards) (Class 3A
+Solvency Requirement) Rules 2011, as amended, or "Class 3A Rules," and submit annually an opinion of its approved loss reserve specialist with its capital and solvency return which takes
+into account the insurer's technical provisions calculated in accordance with Line 19 of Schedule XIV ("Statutory Economic Balance Sheet") and Schedule XV of the Class 3A Rules. Principal Representative, Principal Office and Head Office A Class 3A insurer is required to maintain a principal office and to appoint and maintain a principal representative in Bermuda. The
+insurance business of a Class 3A must be directed and managed from Bermuda (i.e., such insurer must maintain a head office in Bermuda) and, in determining whether the
+insurer complies with this requirement the BMA shall consider, inter alia, the following factors: (1) where the underwriting, risk management and operational decision making of the insurer
+occurs, (2) whether the presence of senior executives who are responsible for and involved in the decision making related to the insurance business of the insurer is located in Bermuda and
+(3) where meetings of the board of directors of the insurer occur. Notwithstanding the considerations set out above, the BMA may also have regard to the following matters: (1) the
+location where management of the insurer meets to effect policy decisions of the insurer, (2) the residence of the officers, insurance managers or employees of the insurer and (3) the
+residence of one or more directors of the insurer in Bermuda. Annual Statutory Financial Statements and Return, Declaration of Compliance, GAAP Financial Statements
+and Independent Auditor The Insurance Act generally requires all insurers to: (1) prepare annual statutory financial statements and returns and
+(2) appoint an independent auditor who will annually audit and report on 120 Table of Contents the
+statutory financial statements and returns of the insurer. In addition, as Class 3A, our Bermuda reinsurance subsidiary will also be required to prepare and submit to the BMA financial
+statements which have been prepared under GAAP that apply in Bermuda, Canada, the United Kingdom or the United States of America, international financial reporting standards or such other GAAP as the
+BMA may recognize GAAP financial statements. Notwithstanding the above, Class 3A insurers, such as our Bermuda reinsurance subsidiary, may, where appropriate, submit condensed general purpose
+financial statements prepared in accordance with any insurance accounts rules instead of additional GAAP financial statements. An insurer may, however, file an application under the Insurance Act to
+have the requirement of filing annual audited statutory financial statements with the BMA waived. Our Bermuda reinsurance subsidiary does not have such a waiver. The
+Insurance Act requires all insurers to deliver a declaration of compliance to the BMA ("Declaration of Compliance") when filing their annual statutory financial statements. In
+relation to the preceding financial year, the Company is required to declare whether it has: (1) complied with all requirements of the minimum criteria, (2) complied with the applicable
+minimum solvency margin, (3) complied with applicable enhanced capital requirements ("ECR"), (4) observed the conditions, limitations and restrictions of its insurance license and
+(5) complied with the minimum liquidity ratio for general business as at its financial year end. The
+independent auditor of the insurer must be approved by the BMA and may be the same person or firm that audits the insurer's financial statements and reports for presentation to its
+shareholders. If the insurer fails to appoint an approved auditor or at any time fails to fill a vacancy for such auditor, the BMA may appoint an approved auditor for the insurer and shall fix the
+remuneration to be paid to such approved auditor within 14 days, if not agreed sooner by the insurer and the auditor. The BMA shall cause to be published in such manner as it considers
+appropriate a copy of the Declaration of Compliance and every GAAP financial statement together with notes to those statements and the auditor's report. Financial Condition Report A Class 3A insurer is required to prepare a financial condition report, which will be comprised of an electronic version and a printed
+version, and will be filed with the BMA on or before the filing date (i.e., four months after the insurer's financial year end). The financial condition report shall provide particulars of the
+following matters: (1) business and performance; (2) governance structure; (3) risk profile; (4) solvency valuation; (5) capital management and (6) subsequent
+event. An
+insurer with a website shall publish on its website a copy of the financial condition report within 14 days of the date the report was filed with the BMA. An insurer that does
+not have a website shall furnish to the public a copy of the financial condition report within ten days of receipt of a request made in writing. Each insurer shall keep copies of the financial
+condition report at its principal office for a period of five years beginning with its filing date. Where
+a significant event occurs after an insurer's financial year end, but before the filing of its financial condition report, the insurer shall submit to the BMA a report on the event
+at the time of filing its financial condition report. Where a significant event occurs after an insurer's filing date, such insurer shall submit to the BMA a report on the event within 14 days
+of the occurrence of such event. There
+are circumstances where the BMA will, upon application and approval, allow exemptions or modifications of the financial condition report requirements. Minimum Liquidity Ratio The Insurance Act provides a minimum liquidity ratio for general business. An insurer engaged in general bu

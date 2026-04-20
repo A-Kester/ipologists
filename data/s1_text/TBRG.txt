@@ -1,0 +1,174 @@
+You should carefully consider the following risk factors before you decide
+to buy our common stock. You should also consider all of the other information
+in this prospectus. We are subject to other risks and uncertainties not
+presently known to us. If any of the risks described below or any unknown risk
+actually occurs, our business, financial condition, operating results and cash
+flows could be materially adversely affected. This could cause the trading
+price of our common stock to decline, and you may lose part or all of your
+investment.
+
+                  Risks Related to Our Business and Industry
+
+A decline in spending for information technology and services by our current
+and prospective customers may result in less demand for our products, lower
+prices and a lower revenue growth rate.
+
+   The purchase of our information system involves a significant financial
+commitment by our customers. At the same time, the healthcare industry faces
+significant financial pressures which could adversely affect overall spending
+on healthcare information technology and services. For example, the Balanced
+Budget Act of 1997 has significantly reduced Medicare reimbursements to
+hospitals, leaving them less money to invest in infrastructure. Moreover, a
+general economic decline could cause hospitals to reduce or eliminate
+information technology related spending. To the extent spending for healthcare
+information technology and services declines or increases slower than we
+anticipate, demand for our products and services, as well as the prices we
+charge, could be adversely affected. Accordingly, we cannot assure you that we
+will be able to increase or maintain our revenues or our growth rate.
+
+There is a limited number of hospitals in our target market. Continued
+consolidation in the healthcare industry could result in the loss of existing
+customers, a reduction in our potential customer base and downward pressure on
+our products' prices.
+
+   There is a finite number of small and midsize hospitals with 300 or fewer
+acute care beds. Saturation of this market with our products or our
+competitors' products could eventually limit our revenues and growth.
+Furthermore, many healthcare providers have consolidated to create larger
+healthcare delivery enterprises with greater market power. If this
+consolidation continues, we could lose existing customers and could experience
+a decrease in the number of potential purchasers of our products and services.
+The loss of existing and potential customers due to industry consolidation
+could cause our revenue growth rate to decline. In addition, larger,
+consolidated enterprises could have greater bargaining power, which may lead to
+downward pressure on the prices for our products and services.
+
+We may experience fluctuations in quarterly financial performance that could
+adversely impact our operating results and stock price.
+
+   There is no assurance that consistent quarterly growth in our business will
+continue. Our quarterly revenue may fluctuate and may be difficult to forecast
+for a variety of reasons. For example, prospective customers often take
+significant time evaluating our system and related services before making a
+purchase decision. Moreover, a prospective customer who has placed an order for
+our system could decide to cancel that order or postpone installation of the
+ordered system. If a prospective customer delays or cancels a scheduled system
+installation during any quarter, we may not be able to schedule a substitute
+system installation during that quarter. The amount of revenue that would have
+been generated from that installation will be postponed or lost. The
+possibility of delays or cancellations of scheduled system installations could
+cause our quarterly revenues to fluctuate.
+
+   The following factors may also affect demand for our products and services
+and cause our quarterly financial performance to fluctuate:
+
+  .  changes in customer budgets and purchasing priorities;
+
+                                      6 .  overall demand for healthcare information technology;
+
+  .  market acceptance of new products, product enhancements and services from
+     us and our competitors;
+
+  .  product and price competition;
+
+  .  delay of revenue recognition to future quarters due to an increase in the
+     sale of our remote access ASP services; and
+
+  .  fluctuations in general, political, economic and financial market
+     conditions.
+
+   Variations in our quarterly revenues may adversely affect our operating
+results. In each fiscal quarter, our expense levels, operating costs and hiring
+plans are based on projections of future revenues and are relatively fixed. If
+our actual revenues fall below expectations, our earnings will also likely fail
+to meet expectations. If we fail to meet the revenue or earnings expectations
+of securities analysts and investors, the price of our common stock will likely
+decrease.
+
+We operate in an intensely competitive market that includes companies that have
+greater financial, technical and marketing resources than we have.
+
+   Our principal competitors are Medical Information Technology, Inc., or
+"Meditech," and Healthcare Management Systems, Inc., or "HMS." Meditech and HMS
+compete with us directly in our target market of small and midsize hospitals.
+These companies offer products and services that are comparable to our system
+and are designed to address the needs of community hospitals.
+
+   Our secondary competitors include McKesson Corporation, Quadramed Corp.,
+Cerner Corporation and Siemens Corporation. These companies are significantly
+larger than we are, and typically sell their products and services to larger
+hospitals outside of our target market. However, they sometimes compete
+directly with us. We also face competition from providers of practice
+management systems, general decision support and database systems and other
+segment-specific applications, as well as from healthcare technology
+consultants. Any of these companies as well as other technology or healthcare
+companies could decide at any time to specifically target hospitals within our
+target market.
+
+   A number of existing and potential competitors are more established than we
+are and have greater name recognition and financial, technical and marketing
+resources. Products of our competitors may have better performance, lower
+prices and broader market acceptance than our products. We expect increased
+competition that could cause us to lose customers, lower our prices to remain
+competitive and experience lower revenues and profit margins.
+
+Our failure to develop new products or enhance current products in response to
+market demands could adversely impact our competitive position and require
+substantial capital resources to correct.
+
+   The needs of hospitals in our target market are subject to rapid change due
+to government regulation, trends in clinical care practices and technological
+advancements. As a result of these changes, our products may quickly become
+obsolete or less competitive. New product introductions and enhancements by our
+competitors that more effectively or timely respond to changing industry needs
+may weaken our competitive position.
+
+   We continually redesign and enhance our products to incorporate new
+technologies and adapt our products to ever-changing hardware and software
+platforms. Often we face difficult choices regarding which new technologies to
+adopt. If we fail to anticipate or respond adequately to technological
+advancements, or experience significant delays in product development or
+introduction, our competitive position could be negatively affected. Moreover,
+our failure to offer products acceptable to our target market could require us
+to make significant capital investments and incur higher operating costs to
+redesign our products, which could negatively affect our financial condition
+and operating results.
+
+                                      7 Potential regulation of our products as medical devices by the U.S. Food and
+Drug Administration could increase our costs, delay the introduction of new
+products and slow our revenue growth.
+
+   The U.S. Food and Drug Administration, or the "FDA," is likely to become
+more active in regulating the use of computer software for clinical purposes.
+The FDA has increasingly regulated computer products and computer-assisted
+products as medical devices under the federal Food, Drug and Cosmetic Act. If
+the FDA regulates any of our products as medical devices, we would likely be
+required to, among other things:
+
+  .  seek FDA clearance by demonstrating that our product is substantially
+     equivalent to a device already legally marketed, or obtain FDA approval by
+     establishing the safety and effectiveness of our product;
+
+  .  comply with rigorous regulations governing pre-clinical and clinical
+     testing, manufacture, distribution, labeling and promotion of medical
+     devices; and
+
+  .  comply with the Food, Drug and Cosmetic Act's general controls, including
+     establishment registration, device listing, compliance with good
+     manufacturing practices and reporting of specified device malfunctions and
+     other adverse device events.
+
+   We anticipate that some of our products currently in development will be
+subject to FDA regulation. If any of our products fail to comply with FDA
+requirements, we could face FDA refusal to grant pre-market clearance or
+approval of products; withdrawal of existing clearances and approvals; fines,
+injunctions or civil penalties; recalls or product corrections; production
+suspensions; and criminal prosecution. FDA regulation of our products could
+increase our operating costs, delay or prevent the marketing of new or existing
+products and adversely affect our revenue growth.
+
+Governmental regulations relating to patient confidentiality and other matters
+could increase our costs.
+
+   State and federal laws regulate the confidentiality of patient records and
+the circumstanc

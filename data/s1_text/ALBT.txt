@@ -1,0 +1,71 @@
+See “Risk Factors” beginning on page 5 of this prospectus, as well as other information included in this prospectus, for a discussion of factors you should read and consider carefully before investing in our securities. Nasdaq Capital Markets symbol Our common stock is listed on The Nasdaq Capital Markets under the symbol “ALBT”. There is no established trading market for the Warrants, and we do not expect a trading market to develop. We do not intend to list the Warrants on any securities exchange or other trading market. Without a trading market, the liquidity of the Warrants will be extremely limited. The number of shares of our Common Stock to be
+outstanding after this offering as shown above is based on 8,323,609 shares outstanding as of April 8, 2026 and excludes as of that
+date: ● 95,746 shares of our Common
+Stock issuable upon exercise of warrants, subject to vesting having a weighted average exercise price of $24.06 per share; ● 41,169 shares of our Common Stock issuable upon exercise
+of outstanding options under our 2019 Incentive Stock Plan and our Amended and Restated 2020 Stock Incentive Plan; ● 181,750 shares of our Common Stock reserved for issuance under our
+2019 Incentive Stock Plan and our Amended and Restated 2020 Stock Incentive Plan ● 12,676,634 shares of our Common
+Stock issuable upon conversion of outstanding Series C Convertible Preferred Stock; ● 2,074,689 shares of our Common
+Stock issuable upon conversion of outstanding Series D Preferred Stock; ● 13,000,000 shares of our Common
+Stock issuable upon conversion of outstanding Series E Preferred Stock; and ● 788,283 shares of our Common Stock issuable upon conversion of outstanding
+convertible notes and related accrued interest. 4 RISK FACTORS An investment in our securities involves a high
+degree of risk. This prospectus contains a discussion of the risks applicable to an investment in our securities. Prior to deciding about
+investing in our securities, you should carefully consider the specific factors discussed within this prospectus. The risks and uncertainties
+we have described are not the only ones we face. Additional risks and uncertainties not presently known to us or that we currently deem
+immaterial may also affect our operations. The occurrence of any of these known or unknown risks might cause you to lose all or part of
+your investment in the offered securities. Risks Relating to Our Business and Operations We have a limited operating history in our
+current business segments, which makes it difficult to evaluate our business and future prospects. We have a limited operating history in our current
+businesses. We were initially pursuing a biotech platform and, through our acquisition of RPM in December 2025, have pivoted to primarily
+operating as an AI company. Because of this limited history, it is difficult to evaluate our proposed business and future prospects, including
+our ability to plan for and model future growth, and there is no guarantee that our AI platform or Keto Air businesses will result in
+profit or growth. Investors should consider the risks, expenses, and difficulties frequently encountered by companies in the early stage
+of development. There can be no assurance that we will successfully address any of these risks. We have a history of net losses and an accumulated
+deficit, which raises substantial doubt about our ability to continue as a going concern. Our results of operations have not resulted in
+profitability. We incurred net losses from continuing operations of approximately $17.5 million and $7.0 million for the years ended December
+31, 2025 and 2024, respectively. As of December 31, 2025, we had an accumulated deficit of approximately $105.9 million. There is no assurance
+that we will be successful in executing our business plan or that we will be able to curtail our losses. There is substantial doubt about
+our ability to continue as a going concern. Our independent registered public accounting firm has included an explanatory paragraph in
+its audit report expressing substantial doubt about our ability to continue as a going concern. Our ability to continue as a going concern
+depends on our ability to obtain additional equity or debt financing, attain further operating efficiencies, reduce expenditures, and
+ultimately generate revenue. We have not generated sustainable revenue since
+inception, and we may not be able to generate sufficient revenue to achieve or maintain profitability. We have not yet developed a meaningful customer
+base and have not generated sustainable revenue since inception. We are subject to the substantial risk of failure facing businesses seeking
+to develop and commercialize new products and technologies, and maintaining and improving our platform will require significant capital.
+Our Keto Air product has generated minimal revenue to date, and we anticipate that it will take approximately one year from the date of
+this prospectus for us to begin generating meaningful revenue from our Catch-Up platform. There can be no assurance that we will generate
+revenue at the levels we anticipate, or at all, and our failure to do so could have a material adverse effect on our business, financial
+condition, and results of operations. 5 We may not be successful in commercializing
+our AI platform or our Keto Air product, either of which would materially harm our business. We may not be successful in our AI vodcasting
+and podcasting platform businesses or our sales of Keto Air. Market acceptance of AI-driven offerings is uncertain, and we will rely on
+other companies, developers, and partners to build our product offerings. Additionally, evolving laws and regulations in areas such as
+privacy, intellectual property, safety, competition, content regulation, and consumer protection may delay or impede the development of
+our products and services. Our Keto Air product is currently operating as an early-stage commercial activity, and we are continuing to
+evaluate the future strategic direction of the Keto Air product line as we assess its commercial performance. There can be no assurance
+that either of our current business segments will achieve market acceptance or commercial viability. Our Catch-Up platform is in an early stage
+of development and is based on new and evolving AI technologies, which are subject to significant uncertainty. Our Catch-Up Vodcast and Podcast Platform is currently
+under development and is based on new and evolving AI systems and technologies. This exposes us to risks including failure to gain market
+acceptance, inability to secure sufficient intellectual property rights, proprietary rights of third parties limiting our marketing efforts,
+failure to obtain sufficient user exposure, superior competing products, and the unpredictability of AI technology. Our platform is currently
+in beta testing with a limited number of users, and Phase 2 of the platform - which will expand our addressable market beyond podcasters
+- is currently in development and expected to launch in Q3 of 2026. There can be no assurance that Phase 2 will be completed on schedule
+or that it will achieve the commercial results we anticipate. We face intense competition in both of our
+business segments, and many of our competitors have substantially greater resources than we do. We face intense competition from numerous technology
+companies seeking to enter the generative AI-powered vodcasting and podcasting businesses. Many of our current and potential competitors
+have significantly larger market presence, greater name recognition, access to more potential customers, and substantially greater financial,
+technical, sales, marketing, management, support, and other resources than we do. In our consumer health technology segment, we compete
+with manufacturers and distributors of urine-based ketone test strips and other breath-based ketone monitoring devices, many of which
+have established retail distribution networks and marketing infrastructure that we currently lack. Our failure to compete effectively
+in either segment could have a material adverse effect on our business, financial condition, and results of operations. Our business is subject to rapid technological
+change, and if we fail to adapt, our business may be negatively impacted. Our industry is subject to rapid technological
+change, and if we do not adapt to and appropriately allocate resources among emerging technologies and business models, our business may
+be negatively impacted. Competitors may adapt to emerging technologies or business models more quickly or effectively than we do. The
+generative AI industry in particular is evolving at an exceptionally rapid pace, and technologies, platforms, and distribution channels
+that are relevant to our business today may be superseded or disrupted in ways that we cannot currently anticipate. We may encounter difficulties associated
+with early-stage companies that could adversely affect our operations. We may encounter numerous difficulties frequently
+encountered by early-stage companies, including implementing our growth strategy, countering competitors, pursuing new users, maintaining
+adequate expense control, attracting and retaining qualified personnel, reacting to user preferences, successfully launching products,
+and maintaining regulatory compliance. Failure to address any of these factors could have a material adverse effect on our business, financial
+condition, results of operations, and future prospects. 6 Our success depends on the continued services
+of our key personnel, the loss of whom could materially harm our business. Our success depends on the continuing services
+of Wenzhao Lu, our Chairman, Meng Li, Luisa Ingargiola, our Chief Financial Officer, our other executive officers, and Michael Mathews,
+the Chief Executive Officer of RPM. The loss of any of these individuals could have a material and adverse effect on our business operations.
+The supply of qualified technical, professional, ma

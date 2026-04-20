@@ -1,0 +1,74 @@
+: An investment in our securities involves substantial
+    risk. You should read carefully the “Risk Factors” section on page 8 of this prospectus, and under similar
+    headings in the other documents incorporated by reference into this prospectus. Additional risks and uncertainties not presently
+    known to us or that we currently deem to be immaterial may also impair our business and operations. Nasdaq symbol for Common Stock: “WISA” (1) Shares of our common stock that
+    will be outstanding after this offering is based on 4,921,515 shares of common stock outstanding as of June 10, 2024, but excludes
+    the following as of such date: (i) 9,793,531 shares of common stock issuable upon exercise of outstanding common stock purchase
+    warrants, (ii) 14 restricted stock units (“RSUs”) that have been issued but have not vested and (iii) up to
+    an aggregate of 2,813 shares of common stock issuable upon conversion of all outstanding shares of Series B Convertible Preferred
+    Stock, par value $0.0001 per share (“Series B Preferred Stock”) (which shares of Series B Preferred Stock assume
+    the exercise of all 1,750 Series B Preferred Stock purchase warrants). 7 RISK FACTORS An investment in the securities offered under this prospectus involves
+a high degree of risk. You should carefully consider and evaluate all of the information contained in this prospectus and in the documents
+that we incorporate by reference herein before you decide to invest in our securities. In particular, you should carefully consider and
+evaluate the risks and uncertainties described under the heading “Risk Factors” in this prospectus and in the documents incorporated
+by reference herein. Investors are further advised that the risks described below may not be the only risks we face. Additional risks
+that we do not yet know of, or that we currently think are immaterial, may also negatively impact our business operations or financial
+results. Any of the risks and uncertainties set forth in this prospectus and in the documents incorporated by reference herein, as updated
+by annual, quarterly and other reports and documents that we file with the SEC and incorporate by reference into this prospectus, could
+materially and adversely affect our business, results of operations and financial condition, which in turn could materially and adversely
+affect the value of our securities. Risks Related to Our Financial Condition We will need financing in the longer term
+to support our ongoing operations. If we do not raise sufficient capital when such financing is needed, we may be forced to cease operations,
+liquidate our assets and possibly seek bankruptcy protection or engage in a similar process. While
+we believe that current cash on hand, prior to the receipt of any proceeds from the exercise of the Warrants, is sufficient to fund our
+immediate operational needs, we will need financing in the longer term to support our ongoing operations . There can be no assurance
+that we will be able to secure any needed funding, or that if such funding is available, the terms or conditions would be acceptable
+to us. If we are unable to obtain such additional financing, we will be required to divest all or a portion of our business or otherwise
+liquidate, wind-up, restructure or curtail our operations and product development timeline. We
+may seek additional capital through a combination of equity offerings, debt financings and/or strategic collaborations. Debt financing,
+if obtained, may involve agreements that include covenants limiting or restricting our ability to take specific actions, such as incurring
+additional debt, and could increase our expenses and require that our assets secure such debt. Equity financing, if obtained, could result
+in dilution to our then-existing stockholders and/or require such stockholders to waive certain rights and preferences. If such financing
+is not available on satisfactory terms, or is not available at all, our ability to accelerate product development will be hindered, our
+business and financial condition may be materially and adversely affected, and you may lose all or part of your investment. We have incurred losses since inception. We have incurred net losses since inception and had an accumulated
+deficit of approximately $244.3 million as of March 31, 2024. If we are unsuccessful in implementing any initiatives to improve
+our revenues to achieve profitability, it will have a material adverse impact on our business, prospects, operating results and financial
+condition. There can be no assurance that the revenue that we generate will be able to support our operations or meet our working capital
+needs. Our independent registered public accounting firm’s report
+contains an explanatory paragraph that expresses substantial doubt about our ability to continue as a going concern. Our independent registered public accounting firm has included in
+its report for the year ended December 31, 2023 an explanatory paragraph expressing substantial doubt about our ability to continue
+as a going concern. Our consolidated financial statements have been prepared on a going concern basis, which contemplates the realization
+of assets and the discharge of liabilities in the normal course of business. Our ability to continue as a going concern is contingent
+upon, other factors, our ability to raise additional capital through sales of our securities, including this offering, and incurrence
+of debt. Additionally, future capital requirements will depend on many factors, including the rate of revenue growth, the selling price
+of our products, the expansion of sales and marketing activities, the timing and extent of spending on research and development efforts
+and the continuing market acceptance of our products. These factors raise substantial doubt about our ability to continue as a going
+concern. There is no assurance that additional financing will be available at terms acceptable to us or at all. If we cannot continue
+as a viable entity, this could materially adversely affect the value of the shares of common stock. 8 Risks Related to Our Business and Industry We depend upon the timely delivery of products from our vendors
+and purchases from our partners and customers. We depend on manufacturers and component customers to deliver and
+purchase hardware and consumer electronics in quantities sufficient to meet customer demand. In addition, we depend on these manufacturers
+and customers to introduce new and innovative products and components to drive industry sales. During the fourth quarter of 2022 and
+on occasion during the fiscal year ended December 31, 2023, we experienced sales declines indirectly through disruption in the supply
+chain for several of our industry partners or customers whose own supply chains have been disrupted based on a variety of macroeconomic
+events that may or may not be related to the COVID-19 pandemic, which have resulted in delays throughout the consumer electronics industry.
+Any material delay in the introduction or delivery, or limited allocations of products or offerings could result in reduced sales by
+us, which could have a material adverse impact on our financial results. Any reduction in allocation of components or new hardware platforms
+or other technological advances by vendors or our customers (in which our technology is part of their hardware offering) to third parties
+such as big box retailers, could also have a material adverse impact on our financial results. A small number of customers represent a significant percentage
+of our revenue, so any loss of key customers could have a material adverse effect on our business. A small number of our customers represent
+a significant percentage of our revenue. Although we may have agreements with these customers, these agreements typically do not require
+any minimum purchases and do not prohibit customers from using competing technologies or customers from purchasing products and services
+from competitors. Because many of our markets are rapidly evolving, customer demand for our technologies and products can shift quickly. As of
+March 31, 2024, the Company had three customers accounting for 58%, 16% and 10% of accounts receivable. As of December 31,
+2023, the Company had two customers accounting for 71% and 20% of accounts receivable. The Company had three customers
+accounting for 35%, 29% and 21% of its net revenue for the three months ended March 31, 2024. The Company had four customers
+accounting for 25%, 19%, 14% and 13% of its net revenue for the year ended December 31, 2023. A loss of any of our key customers could have a material adverse effect
+on our business and results of operations. We are reliant on module manufacturers to produce the modules
+which we then sell to our customers and any change in their management or business could have a negative effect on our operations. Our revenue from the sale of modules to consumer electronics and speaker
+companies depends in large part upon the availability of our modules that implement our technologies. Our manufacturers incorporate our
+technologies into these modules, which are then incorporated in consumer entertainment products. We do not manufacture these modules,
+but rather depend on manufacturers to produce the modules which we then sell to our customers. We do not control the manufacturers. While
+we have a longstanding relationship with our manufacturers, there can be no assurance that our manufacturers will continue to timely
+produce our modules. Change in management of our manufacturers or a change in their operations could negatively affect our production
+and cause us to seek other manufacturers which we may not be able to obtain on the same or similar terms as our current manufacturers.
+This could have a negative effect on our operations. We currently rely on semiconductor manufacturers to manufacture
+our semiconductors, and our failure to manage our relationship with our semiconductor manufactur

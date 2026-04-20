@@ -1,0 +1,69 @@
+: Investing
+    in our securities is speculative and involves substantial risks . You should read the “Risk Factors” section of
+    this prospectus and in the documents incorporated by reference in this prospectus for a discussion of factors to consider before
+    deciding to purchase our securities. Shares
+of our common stock that may be offered under this prospectus will be fully paid and non-assessable. Throughout this prospectus, when
+we refer to the shares of our common stock being registered on behalf of the selling stockholders for offer and resale, we are referring
+to the Shares that have been issued to the selling stockholders and the Warrant Shares issuable upon exercise of the November 2024 Warrants
+issued in our November 2024 private placement. When
+we refer to the selling stockholders in this prospectus, we are referring to the selling stockholders identified in this prospectus and,
+as applicable, their permitted transferees or other successors-in-interest that may be identified in a supplement to this prospectus
+or, if required, a post-effective amendment to the registration statement of which this prospectus is a part. 8 SUMMARY
+OF CONSOLIDATED FINANCIAL INFORMATION The
+following table sets forth summary financial and other data for the periods ended and at the dates indicated below. Our summary financial
+information for the years ended September 30, 2024 and 2023 has been derived from our audited consolidated financial statements incorporated
+by reference in this prospectus. The financial data set forth below should be read in conjunction with “Management’s Discussion
+and Analysis of Financial Condition and Results of Operations” and the consolidated financial statements and notes thereto filed
+with the 2024 Annual Report (as defined below) that was incorporated by reference within this prospectus. Statements
+of Operations For
+                                            the Year Ended September
+                                            30, 2024 For
+                                            the Year Ended September
+                                            30, 2023 Operating
+    expenses General and
+    administrative $ 6,850,993 $ 4,749,395 Research and development 3,725,565 1,534,000 Change
+    in Fair Value of contingent consideration (66,000 ) - Loss from operations (10,510,558 ) (6,283,395 ) Other income 359,002 32,994 Net
+    loss $ (10,151,556 ) $ (6,250,401 ) Net loss per share of common stock: Basic $ (0.
+                                            39 ) $ (0.28 ) Diluted $ (0.
+                                            39 ) $ (0.28 ) Statements
+of Stockholder’s Equity For
+the Year Ended September 30, 2024 Mezzanine Equity Permanent Equity Shares Amount Shares Amount Additional paid-in capital Accumulated deficit Total Balance as of September 30, 2023 2,000,000 $ 5,000,000 23,184,869 $ 2,319 $ 9,288,553 $ (7,282,225 ) $ 2,008,647 Mezzanine equity conversion (2,000,000 ) (5,000,000 ) 2,000,000 200 4,999,800 - 5,000,000 Common stock issuances - - 4,804,019 481 34,953,456 - 34,953,937 Offering costs - - - - (3,629,829 ) - (3,629,829 ) R&D acquisition common stock issuances - - 50,000 5 786,495 - 786,500 Exercise of warrants - - 63,775 6 1,275,494 - 1,275,500 Exercise of stock options - - 593,000 59 1,043,941 - 1,044,000 Equity-based compensation - - 20,000 2 320,255 - 320,257 Net loss - - - - - (10,151,556 ) (10,151,556 ) Balance as of September 30, 2024 - $ - 30,715,663 $ 3,072 $ 49,038,165 $ (17,433,781 ) $ 31,607,456 9 For
+the Year Ended September 30, 2023 Mezzanine Equity Permanent Equity Shares Amount Shares Amount Additional paid-in capital Accumulated deficit Total Balance as of September 30, 2022 - $ - 20,501,500 $ 2,050 $ 3,139,450 $ (1,031,824 ) $ 2,109,676 Common stock issuances 2,000,000 5,000,000 2,598,369 260 3,765,109 - 3,765,369 Equity-based compensation - - 85,000 9 2,383,994 - 2,384,003 Net loss - - - - - (6,250,401 ) (6,250,401 ) Balance as of September 30, 2023 2,000,000 $ 5,000,000 23,184,869 $ 2,319 $ 9,288,553 $ (7,282,225 ) $ 2,008,647 Statements
+of Cash Flows For the Year Ended September 30, 2024 For the Year Ended September 30, 2023 OPERATING ACTIVITIES Net loss $ (10,151,556 ) $ (6,250,401 ) Adjustments to reconcile net loss to net cash used in operating activities: R&D acquisition paid in equity 786,500 - Equity-based compensation 320,257 2,384,003 Amortization of right of use asset 96,532 - Depreciation 10,393 - Change in assets and liabilities: Prepaid expenses (628,090 ) (88,409 ) Deposits (235,235 ) - Accounts payable and accrued liabilities 571,474 87,234 Due to related parties (10,000 ) - Lease liability 5,079 - Contingent liability 770,500 - Net cash used in operating activities (8,464,146 ) (3,867,573 ) INVESTING ACTIVITIES Increase in long-term investments (2,000,000 ) - Additions to property, plant and equipment (1,700,000 ) - Net cash provided by financing activities (3,700,000 ) - FINANCING ACTIVITIES Proceeds from common stock issuances 34,953,937 8,765,369 Offering costs (3,554,829 ) (75,000 ) Proceeds from exercise of warrants 1,275,500 - Proceeds from exercise of stock options 1,044,000 - Net cash provided by financing activities 33,718,608 8,690,369 Net increase in cash 21,554,462 4,822,796 Cash and cash equivalents, beginning of year 6,952,795 2,129,999 Cash and cash equivalents, end of year $ 28,507,257 $ 6,952,795 Non-Cash Supplemental Disclosures Right of use assets acquired in exchange for new operating lease liabilities $ 1,926,178 $ - 10 RISK
+FACTORS An
+investment in our securities is speculative and involves a high degree of risk . You should carefully consider the risks described
+below, which we believe represent certain of the material risks to our business, together with the information contained elsewhere in
+this prospectus, before you make a decision to invest in our securities. Please note that the risks highlighted here are not the only
+ones that we may face. For example, additional risks presently unknown to us or that we currently consider immaterial or unlikely to
+occur could also impair our operations. If any of the following events occur or any additional risks presently unknown to us actually
+occur, our business, financial condition and operating results may be materially adversely affected. In that event, the trading price
+of our securities could decline and you could lose all or part of your investment. Risks
+Related to Our Industry and Business We
+have incurred losses and have not generated any revenue since our inception. We anticipate that we will continue to incur losses, and
+expect that we will not generate revenue, for the foreseeable future. We
+have incurred significant operating losses since inception and have an accumulated deficit of $17.4 million as of September 30, 2024
+and had negative operating cash flow for the year ended September 30, 2024. We expect that operating losses and negative cash flows will
+increase in the coming years because of additional costs and expenses related to our research and development (which we refer to herein
+as R&D), business development activities and our status as a publicly traded company. To
+date, we have not generated any revenue. We do not expect to generate any revenue unless and until we are able to commercialize our reactors
+and/or other lines of business. As we have incurred losses and experienced negative operating cash flows since our inception, and accordingly
+we have undertaken equity financing from investors to satisfy our funding needs, and we will consider applications for government grants;
+however, we may not raise adequate funding to offset our expenses and losses. Moreover, we may encounter unforeseen expenses, difficulties,
+complications, delays, and other unknown factors that may adversely affect our business. The magnitude of our future net losses will
+depend, in part, on the rate of future growth of our expenses and our ability to generate and grow revenue. We cannot predict the outcome
+of the actions to generate liquidity to fund our operations, whether such actions would generate the expected liquidity to fund our operations
+as currently planned or whether the costs of such actions will be available on reasonable terms or at all. Our continued solvency is
+dependent upon our ability to obtain additional working capital to complete our reactor development, to successfully market our reactors
+and to achieve commerciality for our reactors. Our prior losses and expected future losses have had and may continue to have adverse
+effects on our stockholders’ equity (deficit) and working capital and may lead to the failure of our business. We
+are an early-stage company in an emerging market with an unproven business model, new and unproven technologies, and a short operating
+history, which makes it difficult to evaluate our current business and prospects and may increase the risk of your investment. We
+only have a limited operating history upon which to base an evaluation of our current and future business prospects. We were founded
+in February 2022 and are currently in the process of developing our nuclear microreactors and other lines of business as more fully described
+in the “Business” section of this prospects. We anticipate that it will take several years for us to commence generating
+meaningful revenues. Moreover, we will be required to make significant expenditures over the near and long term just to achieve any level
+of revenues. Over
+the next twelve months, we will continue to progress the development of our advanced microreactors and our vertically integrated fuel
+processing business, with estimated expenditures to be approximately $40 million. This allocation comprises approximately $25 million
+dedicated to the research, development, and physical test work of our microreactors and other technologies, such as our fuel transportation
+system. A further allocation of approximately $10 million will be allocated to the development of our planned HALEU f

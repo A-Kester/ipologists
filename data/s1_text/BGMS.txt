@@ -1,0 +1,89 @@
+See
+    the section titled “ Risk Factors ” in this prospectus and other information included in this prospectus for a discussion
+    of factors that you should consider carefully before deciding to invest in our Securities. Nasdaq
+    Capital Market symbol for the Common Stock Our
+    shares of common stock are traded on The Nasdaq Capital Market under the symbol “CYCC”. The
+number of shares of our common stock to be outstanding immediately after this offering as shown above is based on 1,583,965 shares
+of common stock outstanding as of July 10, 2025, assumes we only sell shares of common stock in this offering and excludes: ● 1,360 shares of common stock issuable upon the exercise of options outstanding as of July 10, 2025 at a weighted average exercise
+    price of $2,515.85 per share; ● 23,746
+                                            shares of common stock issuable pursuant to the vesting of Restricted Options at a weighted
+                                            average exercise price of $79.20 per share; ● 9
+                                            shares of common stock issuable upon vesting of restricted stock units outstanding as of
+                                            July 10, 2025 at a weighted average exercise price of $3,240.00 per share; ● 4,758,254
+                                            shares of common stock reserved for future issuance under our 2018 Equity Incentive Plan
+                                            (the “2018 Plan”) as of July 10, 2025; ● 55
+                                            shares of common stock reserved for future issuance under our inducement equity incentive
+                                            plan as of July 10, 2025 ● 1,965,178
+                                            shares of common stock issuable upon the exercise of warrants outstanding as of July 10,
+                                            2025 at a weighted-average exercise price of $11.12 per share ● 2
+                                            shares of common stock issuable upon the conversion of 264 shares of our Series A Convertible
+                                            Preferred Stock, par value $0.001 per share, outstanding as of July 10, 2025; and ● 654,000
+                                            shares of common stock issuable upon the conversion of 3,000,000 shares of our Series F
+                                            Convertible Preferred Stock, par value $0.001 per share, outstanding; and Except
+as otherwise indicated, all information in this prospectus assumes no exercise of the outstanding options or warrants described above. 5 Table of Contents Risk
+Factors Investing
+in our common stock involves a high degree of risk. You should consider carefully the risks and uncertainties described below, together
+with all of the other information in this prospectus, including our financial statements and related notes included elsewhere in this
+prospectus and in the section titled “Management’s Discussion and Analysis of Financial Condition and Results of Operations”
+before making an investment decision. If any of the following risks are realized, our business, financial condition, results of operations
+and prospects could be materially and adversely affected. In that event, the trading price of our common stock could decline and you
+could lose part or all of your investment. Additional risks and uncertainties not presently known to us or that we currently believe
+to be immaterial also may impair our business, financial condition, results of operations and prospects. In
+analyzing our company, you should carefully consider the following risk factors. Factors that could cause or contribute to differences
+in our actual results include those discussed in the following subsection, as well as those discussed below in “Management’s
+Discussion and Analysis of Financial Condition and Results of Operations” and elsewhere throughout this Annual Report on Form 10-K.
+Each of the following risk factors, either alone or taken together, could adversely affect our business, operating results and financial
+condition, as well as adversely affect the value of an investment in our Company. The risks and uncertainties described below are not
+the only ones we face. Additional risks not currently known to us or other factors not perceived by us to present significant risks to
+our business at this time also may impair our business operations. Risks
+Associated with Development and Commercialization of Our Drug Candidates Clinical
+trials are expensive, time consuming, subject to delay and may be required to continue beyond our available funding and we cannot be
+certain that we will be able to raise sufficient funds to complete the development and commercialize our remaining product candidate
+currently in clinical development, should it succeed. We
+are a clinical-stage biopharmaceutical company with one product candidate in clinical development currently, plogosertib, a polo-like
+kinase 1 (PLK 1) inhibitor for treatment of in esophageal cancer and acute leukemia (“plogo”). Clinical trials may also have
+uncertain outcomes. We estimate that clinical trials of our drug candidate may be required to continue beyond our available funding and
+may take several more years to complete. The designs used in some of our trials have not been used widely by other pharmaceutical companies.
+We cannot guarantee that any clinical trials we undertake to conduct will be conducted as planned or completed on schedule or at all.
+Failure can occur at any stage of the testing and we may experience numerous unforeseen events during, or as a result of, the clinical
+trial process that could delay or prevent commercialization of our current or future drug candidates. The success of our product candidate
+will depend on several factors, including, but not limited to: ● delays
+    in securing clinical investigators or trial sites for our clinical trials; ● delays
+    in obtaining institutional review board, or IRB, and regulatory approvals to commence a clinical trial; ● failure
+    to obtain regulatory authority permission to conduct a clinical trial, after review of an investigational new drug or equivalent
+    foreign application or amendment; ● slower
+    than anticipated rates of subject recruitment and enrollment, or not reaching the targeted number of subjects because of competition
+    for patients from other trials; ● negative
+    or inconclusive results from clinical trials, as demonstrated by our announcement on February 24, 2017 that our SEAMLESS Phase
+    3 study failed to reach its primary endpoint; ● inability
+    to generate satisfactory preclinical or other nonclinical data, including toxicology, or other in vivo or in vitro data
+    or diagnostics to support the initiation or continuation of clinical trials; 6 Table of Contents ● unforeseen
+    safety issues; ● failure
+    by clinical sites or contract research organizations, or CROs, or other third parties to adhere to clinical trial requirements, GCP,
+    or other applicable regulatory requirements; ● subjects
+    discontinuing participating in our clinical trials at a greater than expected rate; ● imposition
+    by the FDA of a clinical hold or the requirement by other similar regulatory agencies that one or more clinical trials be delayed
+    or halted; ● uncertain
+    dosing issues that may or may not be related to incompletely explored pharmacokinetic and pharmacodynamics behaviors; ● approval
+    and introduction of new therapies or changes in standards of practice or regulatory guidance that render our clinical trial endpoints
+    or the targeting of our proposed indications less attractive; ● inability
+    to monitor patients adequately during or after treatment or problems with investigator or patient compliance with the trial protocols; ● inability
+    to replicate in large, controlled studies safety and efficacy data obtained from a limited number of patients in uncontrolled trials; ● the
+    ultimate affordability of the cost of clinical trials of our product candidate; ● effectively
+    launching commercial sales of our product candidate, if approved, whether alone or in collaboration with others; ● achieving
+    acceptance of our product candidate, if approved, by patients, the medical community and third-party payors; ● effectively
+    competing with other therapies; ● if
+    our product candidate is approved, obtaining and maintaining coverage and adequate reimbursement by third-party payors, including
+    government payors, for our product candidate; ● complying
+    with all applicable regulatory requirements, including FDA current Good Clinical Practices (“GCP”), current Good Manufacturing
+    Practices (“cGMP”), and standards, rules and regulations governing promotional and other marketing activities; ● changes
+    in regulatory requirements and guidance that require amending or submitting new clinical protocols or performing additional nonclinical
+    studies; and ● unavailability
+    of clinical trial supplies. Any
+inability to successfully complete clinical development and obtain regulatory approval for our product candidate could result in additional
+costs to us or impair our ability to generate revenue. In addition, if we make manufacturing or formulation changes to our product candidate,
+we may need to conduct additional nonclinical studies and/or clinical trials, or the results obtained from such new formulation may not
+be consistent with previous results obtained. Clinical trial delays could also shorten any anticipated periods of patent exclusivity
+for our product candidate and may allow competitors to develop and bring products to market before we do, which could impair our ability
+to successfully commercialize our product candidate and may harm our business and results of operations. 7 Table of Contents If
+we experience delays or difficulties in the enrollment of research subjects in clinical trials, those cli

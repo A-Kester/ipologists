@@ -1,0 +1,163 @@
+". We discuss various market
+risks below.
+
+Market Risk
+
+  Market risk is the risk of change in the value of financial instruments as a
+result of absolute or relative changes in interest rates, foreign currency
+exchange rates or equity or commodity prices. To varying degrees, the
+investment and trading activities supporting all of our products and services
+generate market risks. The market risks incurred and our strategies for
+managing these risks vary by product.
+
+  With respect to non-variable life insurance products, fixed rate annuities,
+the fixed rate options in our variable life insurance and annuity products,
+consumer banking products, and other finance businesses, we incur market risk
+primarily in the form of interest rate risk. We manage this risk through
+asset/liability management strategies that seek to match the interest rate
+sensitivity of the assets to that of the underlying liabilities. Our overall
+objective in these strategies is to limit the net change in value of assets
+and liabilities arising from interest rate movements. While it is more
+difficult to measure the interest sensitivity of our insurance liabilities
+than that of the related assets, to the extent that we can measure such
+sensitivities we believe that interest rate movements will generate asset
+value changes that substantially offset changes in the value of the
+liabilities relating to the underlying products.
+
+  For variable annuities and variable life insurance products, excluding the
+fixed rate options in these products, mutual funds and most separate accounts,
+our main exposure to the market is the risk that asset management fees
+decrease as a result of declines in assets under management due to changes in
+prices of securities. We also run the risk that asset management fees
+calculated by reference to performance could be lower. For variable annuity
+and variable life insurance products with minimum guaranteed death benefits,
+we also face the risk that declines in the value of underlying investments as
+a result of changes in prices of securities may increase our net exposure to
+death benefits under these contracts. We do not believe that these risks add
+significantly to our overall market risk. We manage our exposure to equity
+price risk relating to our general account primarily by seeking to match the
+risk profile of equity investments against risk-adjusted equity market
+benchmarks. We measure benchmark risk levels in terms of price volatility in
+relation to the market in general.
+
+  The sources of our exposure to market risk can be divided into two
+categories, "other than trading" activities conducted primarily in our
+insurance, annuity and guaranteed products operations, and "trading"
+activities conducted primarily in our securities operations. As part of our
+management of both "other than trading" and "trading" market risks, we use a
+variety of risk management tools and techniques. These include sensitivity and
+Value-at-Risk measures, position and other limits based on type of risk, and
+various hedging methods.
+
+Other Than Trading Activities
+
+  We hold the majority of our assets for "other than trading" activities in
+our segments that offer insurance, annuities and guaranteed products. We
+incorporate asset/liability management techniques and other risk management
+policies and limits into the process of investing our assets. We use
+derivatives for hedging purposes in the asset/liability management process.
+
+  Insurance, Annuities and Guaranteed Products Asset/Liability Management
+
+  We seek to maintain interest rate and equity exposures within established
+ranges, which we periodically adjust based on market conditions and the design
+of related products sold to customers. Our risk managers establish investment
+risk limits for exposures to any issuer, geographic region, type of security
+or industry sector and oversee efforts to manage risk within policy
+constraints set by management and approved by the Board of Directors.
+
+  We use duration and convexity analyses to measure price sensitivity to
+interest rate changes. Duration measures the relative sensitivity of the fair
+value of a financial instrument to changes in interest rates. Convexity
+
+                                      152 measures the rate of change of duration with respect to changes in interest
+rates. We seek to manage our interest rate exposure by matching the relative
+sensitivity of asset and liability values to interest rate changes, or
+controlling "duration mismatch" of assets and liabilities. We have a target
+duration mismatch constraint of plus or minus 0.5 years. As of December 31,
+2000, the difference between the pre-tax duration of assets and the target
+duration of liabilities in our duration managed portfolio was less than 0.2
+years. We consider risk-based capital implications in our asset/liability
+management strategies.
+
+  We also perform portfolio stress testing as part of our regulatory cash flow
+testing. In this testing, we evaluate the impact of altering our interest-
+sensitive assumptions under various moderately adverse interest rate
+environments. These interest-sensitive assumptions relate to the timing and
+amount of redemptions and prepayments of fixed-income securities and lapses
+and surrenders of insurance products. We evaluate any shortfalls that this
+cash flow testing reveals to determine if we need to increase statutory
+reserves or adjust portfolio management strategies.
+
+  Market Risk Related to Interest Rates
+
+  Our "other than trading" assets that subject us to interest rate risk
+include fixed maturity securities, mortgage loans and policy loans. In the
+aggregate, the carrying value of these assets represented 63% of our
+consolidated assets, other than assets that we held in separate accounts, as
+of December 31, 2000 and 58% as of December 31, 1999.
+
+  With respect to "other than trading" liabilities, we are exposed to interest
+rate risk through policyholder account balances relating to interest-sensitive
+life insurance, annuity and investment-type contracts and through outstanding
+short-term and long-term debt.
+
+  We assess interest rate sensitivity for "other than trading" financial
+assets, financial liabilities and derivatives using hypothetical test
+scenarios that assume either upward or downward 100 basis point parallel
+shifts in the yield curve from prevailing interest rates. The following tables
+set forth the potential loss in fair value from a hypothetical 100 basis point
+upward shift at December 31, 2000 and 1999, because this scenario results in
+the greatest net exposure to interest rate risk of the hypothetical scenarios
+tested at those dates. While the test scenario is for illustrative purposes
+only and does not reflect our expectations regarding future interest rates or
+the performance of fixed-income markets, it is a near-term, reasonably
+possible hypothetical change that illustrates the potential impact of such
+events. These test scenarios do not measure the changes in value that could
+result from non-parallel shifts in the yield curve, which we would expect to
+produce different changes in discount rates for different maturities. As a
+result, the actual loss in fair value from a 100 basis point change in
+interest rates could be different from that indicated by these calculations.
+
+  This presentation does not include approximately $77 billion of insurance
+reserve and deposit liabilities at December 31, 2000 and $75 billion at
+December 31, 1999. We believe that the interest rate sensitivities of these
+insurance liabilities offset, in large measure, the interest rate risk of the
+financial assets set forth in the following tables. December 31, 2000
+                          --------------------------------------------------------
+                                                  Hypothetical Fair
+                           Notional   Estimated   Value After + 100   Hypothetical
+                           Value of     Fair     Basis Point Parallel  Change in
+                          Derivatives   Value     Yield Curve Shift    Fair Value
+                          ----------- ---------  -------------------- ------------
+                                               (in millions) Financial assets with
+ interest rate risk:
+ Fixed maturities:
+ Available for sale.....              $ 83,827         $ 79,312         $ (4,515)
+ Held to maturity.......                12,615           12,085             (530)
+ Mortgage loans on real
+  estate................                15,308           14,634             (674)
+ Mortgage securitization
+  inventory.............                 1,448            1,373              (75)
+ Policy loans...........                 8,659            8,147             (512)
+ Derivatives:
+ Swaps..................   $  4,765          4              125              121
+ Futures................      3,878         34               15              (19)
+ Forwards...............      3,247        (50)             (50)             --
+Financial liabilities
+ with interest rate
+ risk:
+ Short-term and long-
+  term debt.............               (13,800)         (13,683)             117
+ Investment contracts...               (25,359)         (25,122)             237
+ Securities sold but not
+  yet purchased.........                  (157)            (141)              16
+                                                                        --------
+Total estimated
+ potential loss.........                                                $ (5,834)
+                                                                        ======== 153 December 31, 1999
+                          --------------------------------------------------------
+                                                  Hypothetical Fair
+                           Notional   Estimated   Value After + 100   Hypothetical
+                           Value of     Fair     Basis Point Parallel  Change in
+                          Derivatives   Value     Yield Curve Shif

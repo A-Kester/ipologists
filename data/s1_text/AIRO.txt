@@ -1,0 +1,82 @@
+—Risks Related to Our Business.”
+In the jurisdictions where Jaunt plans to sell its products, the commercial use of its passenger-grade AAVs, and in some cases of its
+non-passenger-grade AAVs, is subject to an uncertain or lengthy approval process. We cannot predict when regulations will change, and
+any new regulations may impose onerous requirements and restrictions with which Jaunt, its AAVs and its potential customers may be unable
+to comply. As a result, Jaunt may be limited in, or completely restricted from, growing its business in the foreseeable future. 97 Avionics Aspen
+Avionics designs and manufactures equipment under worldwide aviation regulatory agency approvals. These include but are not limited to
+FAA, EASA, TCCA, and ENAC (Brazil) regulations. These govern the design test, certification, installation, and manufacturing of Aspen’s
+equipment. The
+FAA regulates the manufacture, repair and operation of all aircraft and aircraft parts operated in the United States. Its regulations
+are designed to ensure that all aircraft and aviation equipment are continuously maintained in proper condition to ensure safe operation
+of the aircraft. Similar rules apply in other countries. All aircraft must be maintained under a continuous condition monitoring program
+and must periodically undergo thorough inspection and maintenance. The inspection, maintenance and repair procedures for the various
+types of aircraft and equipment are prescribed by regulatory authorities and can be performed only by certified repair facilities utilizing
+certified technicians. Certification and conformance is required prior to installation of a part on an aircraft. Aircraft operators must
+maintain logs concerning the utilization and condition of aircraft engines, life-limited engine parts and airframes. In addition, the
+FAA requires that various maintenance routines be performed on aircraft engines, some engine parts, and airframes at regular intervals
+based on cycles or flight time. Engine maintenance must also be performed upon the occurrence of certain events, such as foreign object
+damage in an aircraft engine or the replacement of life-limited engine parts. Such maintenance usually requires that an aircraft engine
+be taken out of service. Aspen Avionics’ operations may in the future be subject to new and more stringent regulatory requirements.
+In that regard, Aspen Avionics closely monitors the FAA and industry trade groups in an attempt to understand how possible future regulations
+might impact it. Our businesses that sell defense products directly to the U.S. government or for use in systems delivered to the U.S.
+government can be subject to various laws and regulations that govern pricing and other factors. Import/Export
+Regulations . Aspen Avionics sells products and solutions to customers all over the world and is required to comply with U.S.
+Export Administration Regulations and U.S., EU and other economic and trade sanctions programs limiting or banning sales into certain
+countries. Countries outside of the United States have implemented similar controls and sanction regulations. Together these controls
+and regulations may impose licensing requirements on exports of certain technology and software from the United States and the EU and
+may impact Aspen Avionics’ ability to transact business in certain countries or with certain customers. Aspen Avionics has developed
+compliance programs and training to prevent violations of these programs and regulations, and regularly monitors changes in the law and
+regulations and create strategies to deal with changes. Changes in the law may restrict or further restrict Aspen’s ability to
+sell products and solutions. Anti-Corruption
+Regulations . Because Aspen Avionics has significant international operations, it must comply with complex regulations, including
+U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act and other local laws prohibiting corrupt payments to governmental officials,
+and anticompetition regulations. Aspen Avionics has compliance policies, programs and training to prevent non-compliance with such anti-corruption
+regulations in the United States and outside the United States. Aspen Avionics monitors pending and proposed legislation and regulatory
+changes that may impact its business and develops strategies to address the changes and incorporate them into existing compliance programs. Environmental
+Regulations . Aspen Avionics’ facilities and operations are subject to numerous domestic and international laws and regulations
+designed to protect the environment, particularly with regard to waste and emissions. The applicable environmental laws and regulations
+are common within the industries and markets in which Aspen Avionics operates and serves. Aspen Avionics believes that it has complied
+with these requirements and that such compliance has not had a material adverse effect on its financial condition, results of operations,
+cash flows or equity. Aspen Avionics has installed waste treatment facilities and pollution control equipment to satisfy legal requirements
+and to achieve its waste minimization and prevention goals. 98 Electronic
+products are subject to governmental environmental regulation in a number of jurisdictions, such as domestic and international requirements
+requiring end-of-life management and/or restricting materials in products delivered to customers, including the European Union’s
+Directive 2012/19/EU on Waste Electrical and Electronic Equipment and Directive 2011/65/EU on the Restriction of the use of certain Hazardous
+Substances in Electrical and Electronic Equipment, as amended. Other jurisdictions have adopted similar legislation. Such requirements
+typically are not applicable to most equipment produced by Aspen Avionics. Aspen Avionics believes that it has complied with such rules
+and regulations, where applicable, with respect to its existing products sold into such jurisdictions. Aspen Avionics intends to comply
+with such rules and regulations with respect to its future products. Wireless
+Communications Regulations . Wireless communications, whether radio, satellite or telecommunications, are also subject to governmental
+regulation. Equipment produced in Aspen Avionics’ Communication Systems and Space and Airborne Systems segments, in particular,
+is subject to domestic and international requirements to avoid interference among users of radio and television frequencies and to permit
+interconnection of telecommunications equipment. Aspen Avionics is also required to comply with technical operating and licensing requirements
+that pertain to its wireless licenses and operations. Aspen Avionics believes that it has complied with such rules and regulations and
+licenses with respect to its existing products and services, and it intends to comply with such rules and regulations and licenses with
+respect to its future products and services. Governmental reallocation of the frequency spectrum could impact Aspen Avionics’ business,
+financial condition, and results of operations. Environmental
+Regulation Operations
+in all of our segments are subject to extensive, and frequently changing, federal, state and local environmental laws and substantial
+related regulation by government agencies, including the Environmental Protection Agency. Among other matters, these regulatory authorities
+impose requirements that regulate the operation, handling, transportation and disposal of hazardous materials; protect the health and
+safety of workers; and require us to obtain and maintain licenses and permits in connection with our operations. This extensive regulatory
+framework imposes significant compliance burdens and risks on us. Notwithstanding these burdens, we believe that we are in material compliance
+with all federal, state and local environmental laws and regulations governing our operations. To date, there have been no material adverse
+effect to our consolidated financial statements nor competitive positions as a result of these environmental regulations. Other
+Regulation We
+are also subject to a variety of other regulations including work-related and community safety laws. The Occupational Safety and Health
+Act of 1970 mandates general requirements for safe workplaces for all employees and established the Occupational Safety and Health Administration
+(“OSHA”) in the Department of Labor. In particular, OSHA provides special procedures and measures for the handling of certain
+hazardous and toxic substances. In addition, specific safety standards have been promulgated for workplaces engaged in the treatment,
+disposal or storage of hazardous waste. Requirements under state law, in some circumstances, may mandate additional measures for facilities
+handling materials specified as extremely dangerous. We believe that our operations are in material compliance with OSHA’s health
+and safety requirements. Legal
+Proceedings A
+civil action was filed against Old AGI, Inc. in the Circuit Court of Cook County, State of Illinois in February 2022. The claimant alleges
+that an agreement for certain services entered into in March 2020 was breached and resulted in damages to claimant. This case was dismissed
+on July 5, 2022. However, the court allowed the claimant to amend its complaint. On August 5, 2022, the claimant filed its amended complaint,
+and we filed our response on October 12, 2022. The parties have engaged in discovery and mandatory arbitration. The arbitration resulted
+in an award in our favor, which was contested by the claimant. On December 19, 2024, the Circuit Court denied our motion for summary
+judgment. At this time, it is not possible to estimate the amount of loss or probable losses, if any, that might result from an adverse
+resolution of this matter. This matter was set for trial in June of 2025, but was voluntarily dismissed without prejudice on June 4,
+2025. 99 Civil
+actions were filed against CDI and individual guarantors in the Tioga County Court, State of P

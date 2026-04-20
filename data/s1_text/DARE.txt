@@ -1,0 +1,82 @@
+.” To
+the extent there are inconsistencies between this prospectus, any related prospectus supplement or free writing prospectus, and any documents
+incorporated by reference, the document with the most recent date will control. Unless
+the context otherwise requires, “Daré,” “Daré Bioscience,” “the Company,” “we,”
+“us,” “our” and similar terms refer to Daré Bioscience, Inc. and its subsidiaries. 1 PROSPECTUS
+SUMMARY This
+summary highlights information contained elsewhere in this prospectus. This summary provides an overview of selected information and
+does not contain all of the information you should consider before investing in our securities. We urge you to read this entire prospectus,
+including our consolidated financial statements, notes to the consolidated financial statements, the information in the section captioned
+“Risk Factors,” and other information incorporated herein by reference to our other filings with the Securities and Exchange
+Commission, or SEC, or included in any applicable prospectus supplement. Investing in our securities involves a high degree of risk and
+uncertainty. Therefore, carefully consider the risk factors described in this prospectus, including those incorporated herein by reference
+to our most recent annual and quarterly filings with the SEC, before purchasing our securities. Each of the risk factors could adversely
+affect our business, operating results and financial condition, as well as adversely affect the value of an investment in our securities. About
+Daré Bioscience We
+are a biopharmaceutical company committed to advancing innovative products for women’s health. We are driven by a mission to identify,
+develop and bring to market a diverse portfolio of differentiated therapies that prioritize women’s health and well-being, expand
+treatment options, and improve outcomes, primarily in the areas of contraception, sexual health, pelvic pain, fertility, infectious disease
+and menopause. Our business strategy is to in-license or otherwise acquire the rights to differentiated product candidates in our areas
+of focus, some of which have existing clinical proof-of-concept data, to take those candidates through mid to late-stage clinical development
+or regulatory approval, and to establish and leverage strategic collaborations to achieve commercialization. We and our wholly-owned
+subsidiaries operate in one business segment. The
+first product approved by the United States Food and Drug Administration, or FDA, to emerge from our portfolio of women’s
+health product candidates is XACIATO™ (clindamycin phosphate) vaginal gel 2%, or XACIATO (pronounced zah-she-AH-toe). We achieved
+FDA approval of XACIATO three years after acquiring rights to the program. XACIATO was approved by the FDA in December 2021 as a single-dose
+prescription medication for the treatment of bacterial vaginosis in females 12 years of age and older. In March 2022, we entered into
+an agreement with an affiliate of Organon & Co., Organon International GmbH, or Organon, which became fully effective in June 2022,
+whereby Organon licensed exclusive worldwide rights to develop, manufacture and commercialize XACIATO. In accordance with the license
+agreement, as amended, we are no longer working on the development, manufacture or commercialization of XACIATO. Organon commenced U.S.
+marketing of XACIATO in the fourth quarter of 2023 and, in January 2024, Organon announced that XACIATO was available nationwide. Our
+product pipeline includes diverse programs that target unmet needs in women’s health in the areas of contraception, sexual health,
+pelvic pain, fertility, infectious disease and menopause, and aim to expand treatment options, enhance outcomes and improve ease of use
+for women. We are primarily focused on progressing the development of our existing portfolio of product candidates. However, we also
+explore opportunities to expand our portfolio by leveraging assets to which we hold rights or obtaining rights to new assets, with continued
+focus solely on women’s health. 2 Our
+current portfolio includes five product candidates in advanced clinical development (Phase 2-ready to Phase 3): ● Ovaprene® ,
+                                            a hormone-free, monthly intravaginal contraceptive; ● Sildenafil
+                                            Cream, 3.6% , a proprietary cream formulation of sildenafil for topical administration
+                                            to the female genitalia on demand for the treatment of female sexual arousal disorder (FSAD); ● DARE-HRT1 ,
+                                            an intravaginal ring designed to deliver both bio-identical estradiol and progesterone together,
+                                            continuously over a 28-day period, for the treatment of moderate-to-severe vasomotor symptoms,
+                                            as part of menopausal hormone therapy; ● DARE-VVA1 ,
+                                            a proprietary formulation of tamoxifen for intravaginal administration being developed as
+                                            a hormone-free alternative to estrogen-based therapies for the treatment of moderate-to-severe
+                                            dyspareunia, or pain during sexual intercourse, a symptom of vulvar and vaginal atrophy associated
+                                            with menopause; and ● DARE-HPV ,
+                                            a proprietary, fixed-dose formulation of lopinavir and ritonavir in a soft gel vaginal insert
+                                            for the treatment of human papillomavirus (HPV)-related cervical diseases. Our
+portfolio also includes five product candidates in Phase 1 clinical development or that we believe are Phase 1-ready: ● DARE-PDM1, a proprietary hydrogel formulation of diclofenac, a nonsteroidal anti-inflammatory drug,
+                                            for vaginal administration as a treatment for primary dysmenorrhea; ● DARE-204 and DARE-214 , injectable formulations of etonogestrel designed to provide contraception
+                                            over 6-month and 12-month periods, respectively; ● DARE-FRT1 ,
+                                            an intravaginal ring designed to deliver bio-identical progesterone continuously for up to
+                                            14 days for luteal phase support as part of an in vitro fertilization treatment plan; and ● DARE-PTB1 ,
+                                            an intravaginal ring designed to deliver bio-identical progesterone continuously for up to
+                                            14 days for the prevention of preterm birth. In
+addition, our portfolio includes five preclinical stage programs: ● DARE-LARC1 ,
+                                            a contraceptive implant delivering levonorgestrel with a woman-centered design that has the
+                                            potential to be a long-acting, yet convenient and user-controlled contraceptive option; ● DARE-LBT ,
+                                            a novel hydrogel formulation for vaginal delivery of live biotherapeutics to support vaginal
+                                            health; ● DARE-GML ,
+                                            an intravaginally-delivered potential multi-target antimicrobial agent formulated with glycerol
+                                            monolaurate (GML), which has shown broad antimicrobial activity, killing bacteria and viruses; ● DARE-RH1 ,
+                                            a novel approach to non-hormonal contraception for both men and women by targeting the CatSper
+                                            ion channel; and ● DARE-PTB2 ,
+                                            a novel approach for the prevention and treatment of idiopathic preterm birth through inhibition
+                                            of a stress response protein. 3 The
+product candidates and potential product candidates in our portfolio will require review and approval from the FDA, or a comparable foreign
+regulatory authority, prior to being marketed or sold. Our
+primary operations have consisted of research and development activities to advance our portfolio of product candidates through late-stage
+clinical development and/or regulatory approval. We expect our research and development expenses will continue to represent the majority
+of our operating expenses for at least the next twelve months. Until we secure additional capital to fund our operating needs, we will
+focus our resources primarily on advancement of Ovaprene and Sildenafil Cream. In addition, we expect to incur significant research and
+development expenses for the DARE-LARC1 and DARE-HPV programs, but we also expect such expenses will be supported, with respect to DARE-LARC1,
+through at least 2026 by non-dilutive funding provided under a grant agreement we entered into in June 2021, and with respect to DARE-HPV,
+through October 2026 by non-dilutive funding provided under a subaward agreement we entered into in October 2024. We
+will need to raise substantial additional capital to continue to fund our operations and execute our current business strategy. We are
+also subject to a number of other risks common to biopharmaceutical companies, including, but not limited to, dependence on key employees,
+reliance on third-party collaborators, service providers and suppliers, being able to develop commercially viable products in a timely
+and cost-effective manner, dependence on intellectual property we own or in-license and the need to protect that intellectual property
+and maintain those license agreements, uncertainty of market acceptance of products, uncertainty of third-party payor coverage, pricing
+and reimbursement for products, rapid technology change, intense competition, compliance with government regulations, product liability
+claims,

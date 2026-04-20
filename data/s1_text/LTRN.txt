@@ -1,0 +1,80 @@
+” included elsewhere in this prospectus. Overview We are a clinical stage
+biotechnology company, focused on leveraging artificial intelligence (“A.I.”), machine learning and genomic data to
+streamline the drug development process and to identify the patients that will benefit from our targeted oncology therapies. Our
+portfolio of therapies consists of small molecules that others have tried, but failed, to develop into an approved commercialized
+drug, as well as new compounds that we are developing with the assistance of our proprietary A.I. platform and our biomarker driven
+approach. Our A.I. platform, known as RADR ® , currently includes more than one billion data points, and uses big
+data analytics (combining molecular data, drug efficacy data, data from historical studies, data from scientific literature, phenotypic
+data from trials and publications, and mechanistic pathway data) and machine learning to rapidly uncover biologically relevant
+genomic signatures correlated to drug response, and then identify the cancer patients that we believe may benefit most from our
+compounds. This data-driven, genomically-targeted and biomarker-driven approach allows us to pursue a transformational drug development
+strategy that identifies, rescues or develops, and advances potential small molecule drug candidates at what we believe is a fraction
+of the time and cost associated with traditional cancer drug development. Our strategy is to
+both develop new drug candidates using our RADR ® platform, and other machine learning driven methodologies, and
+to pursue the development of drug candidates that have undergone previous clinical trial testing or that may have been halted in
+development or deprioritized because of insufficient clinical trial efficacy (i.e., a meaningful treatment benefit relevant for
+the disease or condition under study as measured against the comparator treatment used in the relevant clinical testing) or for
+strategic reasons by the owner or development team responsible for the compound. Importantly, these historical drug candidates
+appear to have been well-tolerated in many instances, and often have considerable data from previous toxicity, tolerability and
+ADME (absorption, distribution, metabolism, and excretion) studies that have been completed. Additionally, these drug candidates
+may also have a body of existing data supporting the potential mechanism(s) by which they achieve their intended biologic effect,
+but often require more targeted trials in a stratified group of patients to demonstrate statistically meaningful results. Our dual
+approach to both develop de-novo, biomarker-guided drug candidates and “rescue” historical drug-candidates by leveraging
+A.I., recent advances in genomics, computational biology and cloud computing is emblematic of a new era in drug development that
+is being driven by data-intensive approaches meant to de-risk development and accelerate the clinical trial process. In this context,
+we intend to create a diverse portfolio of oncology drug candidates for further development towards regulatory and marketing approval
+with the objective of establishing a leading A.I.-driven, methodology for treating the right patient with the right oncology therapy. A key component of
+our strategy is to target specific cancer patient populations and treatment indications identified by leveraging our RADR ® platform, a proprietary A.I. enabled engine created and owned by us. We believe the combination of our therapeutic area expertise,
+our A.I. expertise, and our ability to identify and develop promising drug candidates through our collaborative relationships with
+research institutions in selected areas of oncology gives us a significant competitive advantage. Our RADR ® platform
+was developed and refined over the last four years and integrates millions of data points immediately relevant for oncology drug
+development and patient response prediction using artificial intelligence and proprietary machine learning algorithms. By identifying
+clinical candidates, together with relevant genomic and phenotypic data, we believe our approach will help us design more efficient
+pre-clinical studies, and more targeted clinical trials, thereby accelerating our drug candidates’ time to approval and eventually
+to market. Although we have not yet applied for or received regulatory or marketing approval for any of our drug candidates, we
+believe our RADR ® platform has the ability to reduce the cost and time to bring drug candidates to specifically
+targeted patient groups. We believe we have developed a sustainable and scalable biopharma business model by combining a unique,
+oncology-focused big-data platform that leverages artificial intelligence along with active clinical and preclinical programs that
+are being advanced in targeted cancer therapeutic areas to address today’s treatment needs. 67 Our current portfolio
+consists of three active compounds in development: two drug candidates in clinical phases and, one in preclinical studies. All
+of these drug candidates are leveraging precision oncology, A.I. and genomic driven approaches to accelerate and direct development
+efforts. We currently have two drug candidates in clinical development, LP-100 and LP-300, where we are leveraging data from prior
+preclinical studies and clinical trials, along with insights generated from our A.I. platform, to target the types of tumors and
+patient groups that would be most responsive to the drug. Both LP-100 and LP-300 showed promise in prior clinical testing, but
+failed pivotal Phase III trials where the overall results did not meet the required clinical endpoints due to what we believe was
+a lack of patient stratification driven by an inability to develop biomarker-driven, precision oncology trials. Additionally, we
+have one new drug candidate, LP-184, in preclinical development for two potentially distinct indications where we are leveraging
+machine learning and genomic data to streamline the drug development process and to identify the patients and cancer subtypes that
+will best benefit from the drug, if approved. Our development strategy
+is to pursue an increasing number of oncology focused, molecularly targeted therapies where artificial intelligence and genomic
+data can help us provide biological insights, reduce the risk associated with development efforts and help clarify potential patient
+response. We plan on strategically evaluating these on a program-by-program basis as they advance into clinical development, either
+to be done entirely by us or with our licensing partners to maximize the commercial opportunity and reduce the time it takes to
+bring the right drug to the right patient To date, except for
+a research grant in 2017, we have not generated any revenue, we have incurred net losses and our operations have been financed
+primarily by sales of our equity securities. Our net losses were approximately $2,428,000 and $1,726,000 for the years ended December
+31, 2019 and 2018, respectively. Our net losses for the nine months ended September 30, 2020 and September 30, 2019 were approximately
+($3,012,186) and ($1,753,018), respectively. Our net losses have
+primarily resulted from costs incurred in licensing and developing the drug candidates in our pipeline, planning, preparing and
+conducting preclinical studies, early stage clinical testing and general and administrative activities associated with our operations.
+We expect to continue to incur significant expenses and corresponding increased operating losses for the foreseeable future as
+we continue to develop our pipeline. Our costs may further increase as we conduct preclinical studies and clinical trials and potentially
+seek regulatory clearance for and prepare to commercialize our drug candidates. We expect to incur significant expenses to continue
+to build the infrastructure necessary to support our expanded operations, preclinical studies, clinical trials, commercialization,
+including manufacturing, marketing, sales and distribution functions. We have experienced and will continue to experience increased
+costs associated with operating as a public company. Our operations,
+including the development of our drug candidates, could be disrupted and materially adversely affected in the future by a pandemic,
+epidemic or outbreak of an infectious disease like the recent outbreak of COVID-19. For example, as a result of measures imposed
+by the governments in regions affected by COVID-19, businesses and schools have been suspended due to quarantines or “stay
+at home” orders intended to contain this outbreak. The spread of COVID-19 from China to other countries has resulted in
+the Director General of the World Health Organization declaring the outbreak of COVID-19 as a Public Health Emergency of International
+Concern (PHEIC), based on the advice of the Emergency Committee under the International Health Regulations (2005). On March 12,
+2020, the President of the United States imposed international travel restrictions between the U.S. and Europe to supplement the
+existing international travel restrictions between the US and certain Asian countries and, on March 13, 2020, declared a national
+emergency in response to the likely spread of COVID-19. COVID-19 continues to spread globally and, as of September 30, 2020, has
+spread to over 150 countries, including the United States. U.S. and international stock markets continue to experience fluctuations
+and to be impacted from time to time by uncertainty associated with the impact of COVID-19 on the U.S., Chinese, European and
+other economies and the reduced levels of international travel experienced since early 2020. The Dow Industrial Average and other
+domestic and international stock indices have experienced substantial fluctuations during 2020 largely attributed to assessments
+and expectations regarding the adverse effects of the pandemic on the world’s economies. We are continuing to assess our
+business plans and the i

@@ -1,0 +1,91 @@
+(e.g., portfolio growth and trends, credit concentrations, economic and regulatory factors, etc.), and 3) unallocated
+allowances. The first component,
+specific allowances, results from the analysis of identified problem credits and the evaluation of sources of repayment including
+collateral, as applicable. Through management’s ongoing credit monitoring process, individual loans are identified that
+have conditions indicating the borrower may be unable to pay all amounts due in accordance with contractual terms. These loans
+are evaluated for impairment individually by management. Management considers an originated loan to be impaired when it is probable
+that collection of all amounts due according to the contractual terms of the loan agreement is unlikely. Loans that experience
+insignificant payment delays and payment shortfalls generally are not classified as impaired. Management determines the significance
+of payment delays and payment shortfalls on a case-by-case basis, taking into consideration all of the facts and circumstances
+surrounding the loan and the borrower, including the length of the delay, the reasons for the delay, the borrower’s prior
+payment record, and the amount of the shortfall in relation to the principal and interest owed. Interest income is recognized
+on impaired loans in the same manner as non-accrual loans. When the fair
+value of the impaired loan is less than the recorded investment in the loan, the difference is recorded as an impairment through
+the establishment of a specific allowance. For loans determined to be impaired, the extent of the impairment is measured based
+on the present value of expected future cash flows discounted at the loan’s effective interest rate at origination, based on the
+loan’s observable market price, or based on the fair value of the collateral if the loan is collateral dependent or if foreclosure
+is imminent. Generally, with problem F- 10 FIVE STAR BANCORP
+AND SUBSIDIARY NOTES TO CONSOLIDATED
+FINANCIAL STATEMENTS December 31,
+2020 and 2019 NOTE 1 –
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) credits that are collateral dependent, management obtains appraisals of the collateral at
+least annually. Appraisals may be obtained more frequently if management believes the collateral value is subject to market volatility,
+if a specific event has occurred to the collateral, or if the Company believes foreclosure is imminent. The second
+component, general allowances, is an estimate of the probable inherent losses in each loan pool with similar characteristics.
+This analysis encompasses the entire loan portfolio, excluding individually identified impaired loans. The model determines
+general allowances by loan segment based on quantitative (loss history) and qualitative risk factors. The third component,
+unallocated allowances, is maintained to cover other uncertainties that could affect management’s estimate of probable losses.
+The unallocated allowances reflect the margin of imprecision inherent in the underlying assumptions used in the methodologies
+for estimating specific and general losses in the portfolio. While management believes the best information available is used
+to determine the allowance for loan losses, the results of operations could be significantly affected if circumstances differ
+substantially from the assumptions used in determining the allowance. A decline in local and national economic conditions, or
+significant changes in other assumptions, could result in a material increase in the allowance for loan losses and may adversely
+affect the Company’s financial condition and results of operations. While the Company believes the estimates and assumptions
+used in the determination of the adequacy of the allowance for loan losses are reasonable, there can be no assurance that such
+estimates and assumptions will not be proved incorrect in the future, or that the actual amount of future provisions will not
+exceed the amount of past provisions or that any increased provisions that may be required will not adversely impact the financial
+condition and results of operations of the Company. The Company
+considers a loan to be a troubled debt restructure (“TDR”) when the Company has granted a concession and the borrower
+is experiencing financial difficulty. In order to determine whether a borrower is experiencing financial difficulty, an evaluation
+is performed of the probability that the borrower will be in payment default on any of its debt in the foreseeable future without
+the modification. This evaluation is performed under the Company’s internal underwriting policy. A TDR loan generally is
+kept on non-accrual status until, among other criteria, the borrower has paid for six consecutive months with no payment defaults,
+at which time the TDR may be placed back on accrual status. In conjunction
+with the passage of the Coronavirus Aid, Relief, and Economic Security Act (“CARES Act”), as well as the revised interagency
+guidance issued in April 2020, “Interagency Statement on Loan Modifications and Reporting for Financial Institutions Working
+With Customers Affected by the Coronavirus (Revised)”, banks have been provided the option, for loans meeting specific criteria,
+to temporarily suspend certain requirements under GAAP related to TDRs for a limited time to account for the effects of COVID-19.
+As a result, the Company has not recognized eligible COVID-19 loan modifications as TDRs. Additionally, loans qualifying for these
+modifications are not required to be reported as delinquent, nonaccrual, impaired or criticized solely as a result of a COVID-19
+loan modification. Management has evaluated events related to COVID-19 that have occurred subsequent to December 31, 2020 and
+has concluded there are no matters that would require recognition in the accompanying consolidated financial statements. Federal Home
+Loan Bank Stock : Federal Home Loan Bank stock represents the Company’s investment in the stock of the Federal Home Loan
+Bank of San Francisco (“FHLB”) and is carried at par value. While technically these are considered equity securities,
+there is no market for the FHLB stock. Therefore, the shares are considered as other investment securities. F- 11 FIVE STAR BANCORP
+AND SUBSIDIARY NOTES TO CONSOLIDATED
+FINANCIAL STATEMENTS December 31,
+2020 and 2019 NOTE 1 –
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) Management periodically
+evaluates FHLB stock for other-than-temporary impairment. Management’s determination of whether these investments are impaired
+is based on its assessment of the ultimate recoverability of cost rather than by recognizing temporary declines in value. The
+determination of whether a decline affects the ultimate recoverability of cost is influenced by criteria such as (1) the significance
+of any decline in net assets of the FHLB as compared to the capital stock amount for the FHLB and the length of time this situation
+has persisted, (2) commitments by the FHLB to make payments required by law or regulation and the level of such payments in relation
+to the operating performance of the FHLB, (3) the impact of legislative and regulatory changes on institutions and, accordingly,
+the customer base of the FHLB, and (4) the liquidity position of the FHLB. Both cash and stock dividends are reported as noninterest
+income. Premises
+and Equipment : Premises and equipment are stated at cost less accumulated depreciation and amortization. Depreciation and
+amortization are provided for in amounts sufficient to relate the cost of depreciable assets to operations over their estimated
+service lives using the straight-line basis. The normal estimated lives used in determining depreciation are: Equipment 3–12 years Furniture &
+    Fixtures 5–10 years Leasehold Improvements 5–15 years Automobiles 3–5 years Leasehold improvements
+are amortized over the lesser of the useful life of the asset or the remaining term of the lease. The straight-line method of
+depreciation is followed for all assets for financial reporting purposes, but accelerated methods are used for tax purposes. When assets
+are sold or otherwise disposed of, the cost and related accumulated depreciation or amortization are removed from the accounts,
+and any resulting gain or loss is recognized in income for the period. The cost of maintenance and repairs is charged to expense
+as incurred. Other
+Real Estate : Real estate properties acquired through, or in lieu of, loan foreclosure (“OREO”) are to be
+sold and are initially recorded at fair value of the property at the date of foreclosure less estimated selling costs. Any
+write-downs in value are recorded against the allowance for loan losses. Subsequent to foreclosure, valuations are
+periodically performed and any revisions in the estimate of fair value are reported as adjustment to the carrying value of
+the real estate, provided the adjusted carrying amount does not exceed the original amount at foreclosure. Subsequent
+valuation adjustments are recognized as OREO write-downs. Revenues and expenses incurred from OREO property management are
+recorded in noninterest income and expense, respectively. During 2020 and 2019, the Bank did not foreclose on any
+loans. Bank
+Owned Life Insurance : Bank owned life insurance is recorded at the amount that can be realized under the insurance contract
+at the consolidated balance sheet date, which is the cash surrender value adjusted for other charges or other amounts due that
+are probable at settlement. Increases in contract value are recorded as noninterest income
+and insurance proceeds received are recorded as a reduction of the contract value. Long-Term
+Assets : Premises, equipment and other long-term assets are reviewed for impairment when events indicate their carrying amount
+may not be recoverable from future undiscounted cash flows. If impaired, the assets are adjusted to reflect their fair value. F- 12 FIVE STAR BANCORP
+AND SUBSIDIARY NOTES TO CONSOLIDATED
+FINANCIAL STATEMENTS December

@@ -1,0 +1,78 @@
+Please read “ Risk Factors ” and other information included in this prospectus for a discussion of factors you should carefully consider before deciding to invest in the securities offered in this prospectus. Emerging Growth Company under the JOBS Act As a company with less than $1.07 billion in revenue during our last fiscal year, we qualify as an “emerging growth company” under the Jumpstart Our Business Startups Act of 2012, or the JOBS Act. As an emerging growth company, we have elected to take advantage of reduced reporting requirements and are relieved of certain other significant requirements that are otherwise generally applicable to public companies. As an emerging growth company: ● we may present
+    only two years of audited financial statements and only two years of related Management’s Discussion and Analysis of Financial
+    Condition and Results of Operations; ● we
+    are exempt from the requirement to obtain an attestation and report from our auditors on whether we maintained effective internal
+    control over financial reporting under the Sarbanes-Oxley Act; ● we
+    are permitted to provide less extensive disclosure about our executive compensation arrangements; and ● we are not required to
+    give our stockholders non-binding advisory votes on executive compensation or golden parachute arrangements. We may take advantage of
+    these provisions until June 30, 2026 (the last day of the fiscal year following the fifth anniversary of our initial public offering)
+    if we continue to be an emerging growth company. We would cease to be an emerging growth company if we have more than $1.07 billion
+    in annual revenue, have more than $700 million in market value of our shares held by non-affiliates or issue more than $1.0 billion
+    of non-convertible debt over a three-year period. We may choose to take advantage of some but not all of these reduced burdens. We
+    have elected to provide two years of audited financial statements. Additionally, we have elected to take advantage of the extended
+    transition period provided in Section 7(a)(2)(B) of the Securities Act of 1933, as amended, or the Securities Act, for complying
+    with new or revised accounting standards that have different effective dates for public and private companies until the earlier of
+    the date we (i) are no longer an emerging growth company or (ii) affirmatively and irrevocably opt out of the extended transition
+    period provided in Section 7(a)(2)(B) of the Securities Act. 1 The number of shares of common stock shown above to be outstanding after this offering is based on 12,069,839 shares outstanding
+as of November 23, 2021 and assumes the exercise of the warrants into 750,000 shares of common stock. 10 RISK
+FACTORS An
+investment in the Company ’ s common stock involves a high degree of risk. In determining whether to purchase the Company ’ s
+common stock, an investor should carefully consider all the material risks described below, together with the other information contained
+in this prospectus before deciding to purchase the Company ’ s securities. An investor should only purchase the Company ’ s
+securities if he or she can afford to suffer the loss of his or her entire investment. RISKS
+RELATED TO OUR BUSINESS The
+Company is an early stage technology company We
+were incorporated on June 15, 2016 and are an early stage technology development company, comprised of a wholly-owned group of early
+stage companies in the VR and AR space. As such, we are subject to the risks associated with being an early stage company operating in
+an emerging industry, including, but not limited to, the risks set forth herein. Health
+epidemics, including the current COVID-19 pandemic, have had, and could in the future have, an adverse impact on our business, operations,
+and the markets and communities in which we, our partners and customers operate. For example, sales cycles have generally lengthened
+and some customers have delayed purchase decisions. Our
+business and operations could be adversely affected by health epidemics, including the current COVID-19 pandemic, impacting the markets
+and communities in which we, our partners and customers operate. The COVID-19 pandemic has caused and continues to cause significant
+business and financial markets disruption worldwide and there is significant uncertainty around the duration of this disruption on both
+a nationwide and global level, as well as the ongoing effects on our business. The
+full extent to which the COVID-19 pandemic will directly or indirectly impact our business, results of operations and financial condition
+will depend on future developments that are highly uncertain and cannot be accurately predicted, and we may be unable to accurately forecast
+our revenue or financial results. Further, as many of our customers or partners experience downturns or uncertainty in their own business
+operations or revenue resulting from the spread of COVID-19, they may decrease or delay their spending, request pricing concessions or
+seek renegotiations of their contracts, any of which may result in decreased revenue for us. As a result of the COVID-19 pandemic, we
+have seen the length of our sale cycles generally increase and some of our customers have delayed purchase decisions. In addition, we
+may experience customer or strategic partner losses, including due to bankruptcy or our customers or strategic partners ceasing operations,
+which may result in an inability to collect receivables from these parties. A decline in revenue or the collectability of our receivables
+could harm our business. In
+addition, in response to the initial outbreak of COVID-19, we required substantially all of our employees to work remotely to minimize
+the risk of the virus. While working remotely has proven to be effective to this point, it may eventually inhibit our ability to operate
+the business effectively (we have since returned to non-remote, in-person office work, initially several days per week.). Decreased effectiveness
+and availability of our team could adversely affect our results due to slow-downs in our sales cycles and recruiting efforts, delays
+in our entry into customer contracts, delays in addressing performance issues, delays in product development, delays and inefficiencies
+among various operational aspects of our business, including our financial organization, or other decreases in productivity that could
+seriously harm our business. Furthermore, we may decide to postpone or cancel planned investments in our business in response to changes
+in our business as a result of the spread of COVID-19, which may impact our ability to attract and retain customers and our rate of innovation,
+either of which could harm our business. In addition, our facilities needs could evolve based on continuing changes and impact on work
+environments as a result of the COVID-19 pandemic, and we may not be able to alter our contractual commitments to accommodate such changes,
+which could cause us to incur additional costs or otherwise harm our business. More generally, the COVID-19 outbreak has adversely affected
+economies and financial markets globally, which could decrease technology spending and adversely affect demand for our platforms and
+solutions. The
+global impact of COVID-19 continues to rapidly evolve, and we will continue to monitor the situation and the effects on our business
+and operations closely. We do not yet know the full extent of potential impacts on our business, operations or the global economy as
+a whole, particularly if the COVID-19 pandemic and related public health measures continue and persist for an extended period of time.
+Given the uncertainty, we cannot reasonably estimate the impact on our future results of operations, cash flows or financial condition.
+While the spread of COVID-19 may eventually be contained or mitigated, there is no guarantee that a future outbreak of this or any other
+widespread epidemics will not occur, or that the global economy will recover, either of which could harm our business. We
+have incurred significant net losses since inception and anticipate that we will continue to incur net losses for the foreseeable future
+and may never achieve or maintain profitability. Since
+inception, we have incurred significant net losses. As of September 30, 2021 and as of June 30, 2021, we had an accumulated deficit of
+approximately $23.8 million and $22.1 million, respectively. The net loss for the three months ended September 30, 2021 was approximately
+$1.7 million and for the fiscal year ended June 30, 2021 was approximately $6.1 million . To date,
+we have devoted our efforts towards securing financing, building and evolving our technology platform and creating an infrastructure
+that allows for the growth of such technology platform. In the past, the combination of operating losses, cash expected to be used to
+continue operating activities and uncertain conditions relating to additional capital raises and continued revenue growth created an
+uncertainty about the Company’s ability to continue as a going concern. Doubt about the Company’s ability to continue as
+a going concern was alleviated on our financial statements for the three months ended September 30, 2021 and for the year ended June
+30, 2021, supported by funding raised in our July 2021 initial public offering and the October 2021 Private Placement, which are more
+fully described later in this filing. Net proceeds from those fundings were approximately $11.8 million and $13.6 million, respectively.
+We expect to continue to incur significant expenses and potential operating losses for the foreseeable future. We anticipate that our
+expenses will increase if, and as, we continue to: ● hire and retain additional
+    sales, accounting and finance, marketing and engineering personnel; ● build out our product pipeline; ● add operational, financial
+    and management information systems and personnel; and ● maintain, expand, 

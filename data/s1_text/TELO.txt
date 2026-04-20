@@ -1,0 +1,89 @@
+-Risks Related to Our
+Operations and Financial Condition.” 46 Our
+funding requirements and timing and amount of our operating expenditures will depend on many factors, including, but not limited to: ■
+the rate of progress in the development of our TELOMIR-1 program and other development programs; ■
+the scope, progress, results and costs of pre-clinical studies and clinical trials for any other current and future programs; ■
+the number and characteristics of programs and technologies that we develop or may in-license; ■
+the costs and timing of future commercialization activities, including manufacturing, marketing, sales and distribution, for any of our
+programs for which we receive marketing approval; ■
+the costs necessary to obtain regulatory approvals, if any, for any approved products in the United States and other jurisdictions, and
+the costs of post-marketing studies that could be required by regulatory authorities in jurisdictions where approval is obtained; ■
+the costs and timing of preparing, filing and prosecuting patent applications, maintaining and enforcing our intellectual property rights
+and defending any intellectual property-related claims; ■
+the continuation of our existing licensing arrangements and entry into new collaborations and licensing arrangements; ■
+the costs we incur in maintaining business operations; ■
+the costs of hiring additional clinical, quality control, manufacturing and other scientific personnel; ■
+the costs adding operational, financial and management information systems and personnel; ■
+the costs associated with being a public company; ■
+the revenue, if any, received from commercial sales of our programs for which we receive marketing approval; ■
+the effect of competing technological and market developments; and ■
+the extent to which we acquire or invest in businesses, products and technologies, including entering into licensing or collaboration
+arrangements for programs. Identifying
+potential programs, product candidates, conducting pre-clinical studies and clinical trials is a time consuming, expensive and uncertain
+process that takes years to complete, and we may never generate the necessary data or results required to obtain marketing approval and
+achieve product sales. In addition, our programs, if approved, may not achieve commercial success. Our commercial revenues, if any, will
+be derived from sales of products that we do not expect to be commercially available for many years, if ever. Accordingly, we will need
+to obtain substantial additional funds to achieve our business objectives. Recently
+Issued and Adopted Accounting Pronouncements On
+January 1, 2022, we adopted Accounting Standards Codification (“ASC”) Topic 842 ASC Topic 842, which is intended to improve
+financial reporting about leasing transactions. Under the standard, organizations that lease assets, referred to as “Lessees”
+shall recognize on the balance sheet the assets and liabilities for the rights and obligations created by those leases. In addition,
+the standard requires disclosures including financial statements to assess the amount, timing and uncertainty of cash flows arising from
+leases. We do not expect that the adoption of Topic 842 will materially impact our Company’s operations. Off-Balance
+Sheet Arrangements During
+the periods presented, we did not have, nor do we currently have, any off-balance sheet arrangements as defined under Generally Accepted
+Accounting Principles (GAAP) and SEC rules. Quantitative
+and Qualitative Disclosures about Market Risk We
+are exposed to market risks in the ordinary course of our business. These risks primarily include interest rate risks and inflation risks.
+Periodically, we maintain deposits in accredited financial institutions in excess of the FDIC federally insured limits. We deposit our
+cash in financial institutions that we believe have high credit quality and have not experienced any losses on such accounts and do not
+believe we are exposed to any unusual credit risk beyond the normal credit risk associated with commercial banking relationships. Interest
+Rate Risk Our
+cash consists of cash in readily available checking accounts. We may also invest in short-term money market fund investments. Such interest-earning
+instruments carry a degree of interest rate risk; however, historical fluctuations in interest income have not been significant. Inflation
+Risk Inflation
+generally affects us by increasing our cost of labor and research and development contract costs. We do not believe inflation has had
+a material effect on our results of operations during the periods presented. 47 BUSINESS Overview We
+are a pre-clinical-stage pharmaceutical company focused on the development and commercialization of TELOMIR-1, a novel small molecule
+being developed to function as an oral in situ therapeutic treatment for human stem cells. Based on our pre-clinical studies and
+if approved by the FDA and comparable foreign regulators, we believe that TELOMIR-1 may effectively serve as a metal enzyme inhibitor
+of essential metals such as zinc and copper. These essential metals play an important role in the production and function of many enzymatic
+reactions and the modulation of key cellular pathways. In particular, zinc is essential to the function of pro-inflammatory cytokines
+such as Interleukin-17, or IL-17, that play a role in a host of age-related inflammatory conditions such as hemochromatosis and osteoarthritis
+as well as in post-chemotherapy health problems. IL-17 is a type of pro-inflammatory cytokine, and while the pro-inflammatory properties
+of IL-17 are key to its host-protective capacity, unrestrained IL-17 signaling is associated with immunopathology, inflammatory disease
+and cancer progression. Our initial focus will be on treatments to inhibit the production of pro-inflammatory cytokines, such as IL-17,
+by oral administration of TELOMIR-1 as a therapeutic treatment for stem cells in situ . To the best of our knowledge, there is
+no approved oral IL-17 inhibitor. Our goal is to advance the clinical development of TELOMIR-1 in the United States for the treatment
+of age-related inflammatory conditions such as hemochromatosis and osteoarthritis, as well as in post-chemotherapy recovery, with our
+initial targeted indications being hemochromatosis and post-chemotherapy recovery. Pluripotent
+stem cells are a type of stem cells that have the ability to undergo self-renewal and to give rise to various cell types of the tissues
+of the body. Based on pre-clinical studies, we believe that TELOMIR-1 may have the potential to protect stem cells in situ by
+reducing the overload of metals such as zinc and copper that accompany age-related inflammatory conditions and certain cancers by modulating
+pro-inflammatory cytokines such as IL-17. If demonstrated in clinical trials and approved by the FDA and comparable foreign regulators,
+we believe that TELOMIR-1 may protect the stem cells by elongating and stimulating the telomeres to sustain self-renewal of stem
+cells. Telomeres are repetitive DNA sequences at the end of chromosomes that protect the chromosomes from becoming frayed or tangled.
+Each time a cell divides, the telomeres become slightly shorter, and eventually they become so short that the cell can no longer divide,
+with the result being that the cell dies. Effectively, telomeres protect the ends of our chromosomes by forming a cap, much like the
+plastic tip on shoelaces, thereby allowing the chromosome to be replaced properly during cell division. TELOMIR-1
+is currently under investigation to provide a potential therapeutic intervention against age-related inflammatory conditions such as
+hemochromatosis, as well as for post-chemotherapy recovery, by interrupting and preventing the IL-17 induced inflammatory pathways that
+create the systemic imbalance of cellular metals. Our pre-clinical studies suggest that TELOMIR-1 may inhibit the concentration and accumulation
+of metals such as zinc and copper in the serum that drive the hyperactivity of pro-inflammatory cytokines such as IL-17. Our studies
+suggest that TELOMIR-1 may achieve this outcome by selectively binding to metal ions in a dose dependent manner, slowing enzyme reactivity,
+and protecting and lengthening telomeres in the human chromosome. We believe that TELOMIR-1 has potential as a non-toxic oral enzyme
+inhibitor that may regulate the overactivity of the enzymes caused by excessive metal reactivity. To
+date, we have completed several pre-clinical proof-of-concept studies with respect to TELOMIR-1 that were designed to demonstrate that
+TELOMIR-1 is not mutagenic and has good biological and metal binding capabilities. These studies included an Ames test for the TELOMIR-1
+compound and several Eurofins BioMap studies. We
+were organized as a Florida corporation in August 2021 for the purpose of pursuing the development and commercialization of TELOMIR-1
+in the United States in human applications. We were originally incorporated under the name “Metallo Therapies Inc.” and changed
+our name to “Telomir Pharmaceuticals, Inc.” in October 2022. Our rights to develop and commercialize TELOMIR-1 are licensed
+to us under a license agreement with MIRALOGX under which we have the exclusive right to develop and commercialize TELOMIR-1 for human
+and non-human applications in the United States. See “—Intellectual Property.” We
+are an early-stage company that had net losses of $3.9 million for the nine months ended September 30, 2023, $0.85 million for the year
+ended December 31, 2022, and $0.14 million for the year ended December 31, 2021. 48 In
+Situ Therapeutic Treatment of Stem Cells Stem
+cells have the potential to renew themselves. They can develop into many different cell types in the body during early and adult life.
+Pluripotent stem cells have the ability to differentiate into all of the cells of the adult body. Since pluripotent stem cells are undifferentiated,
+they do not have any tissue-specific characteristics that allo

@@ -1,0 +1,57 @@
+" section. Healthcare Fraud and Abuse Laws As a manufacturer and distributor of medical devices to hospitals and other healthcare providers, we and our customers are subject to
+laws which apply to Medicare, Medicaid, and other federal and state healthcare programs in the U.S. One such law, the Anti-kickback Statute, prohibits the solicitation, offer, payment or receipt of
+remuneration in return for referral or purchase, or in return for the recommending or arranging for the referral or purchase, of products covered by the programs. The Anti-kickback Statute provides a
+number of exceptions or "safe harbors" for particular types of transactions. While we generally do not file claims for reimbursement from government payers, the U.S. federal government has asserted
+theories of liability against manufacturers under the Federal False Claims Act, which prohibits the submission of false claims to Medicare, Medicaid, and other state and federal programs. Many states
+have similar fraud and abuse laws which may apply to us. Violations of these fraud and abuse-related laws are punishable by criminal or civil sanctions, including substantial fines, imprisonment and
+exclusion from participation in healthcare programs such as Medicare and Medicaid and health programs outside the United States. We have developed and implemented business practices and processes to
+train our personnel to perform their duties in compliance with healthcare fraud and abuse laws. While we conduct informal oversight to detect and prevent these types of fraud and abuse, we lack formal
+written policies and procedures at this time. If we were 77 Table of Contents unable
+to document and implement the controls and procedures required in a timely manner or otherwise violate such laws, we might suffer adverse regulatory consequences or face criminal sanctions,
+which could harm our operations, financial reporting or financial results. Anti-Bribery Laws Our global activities are subject to the U.S. Foreign Corrupt Practices Act, the U.K. Bribery Act, and other countries' anti-bribery
+laws that have been enacted in support of the Organization for Economic Cooperation and Development's Anti-bribery Convention. These laws generally prohibit companies and their intermediaries from
+making improper payments to non-U.S. government officials with the intent to inappropriately gain a business advantage. They also require companies to maintain accurate books and records and internal
+financial controls. The U.K. Bribery Act also prohibits commercial bribery and makes it a crime for a company to fail to prevent bribery. Companies have the burden of proving that they have adequate
+procedures in place to prevent bribery. The enforcement of such laws in the U.S. and elsewhere has increased dramatically in the past few years, and authorities have indicated that the pharmaceutical
+and medical device industry is a significant focus for enforcement efforts. Because
+of the predominance of government-sponsored healthcare systems around the world, many of our customer relationships outside of the United States are with governmental entities.
+Our policies mandate strict compliance with the anti-bribery laws. We operate in many parts of the world that have experienced governmental corruption to some degree, and in certain circumstances
+strict compliance with anti-bribery laws may conflict with local customs and practices. We
+are in the process of evaluating and implementing a compliance program to ensure compliance with these laws by our employees and agents and to communicate our expectations of
+compliance to third parties, including our distributors and suppliers. The anti-bribery compliance program will include a risk assessment, policies and procedures that address significant aspects of
+anti-bribery legislation and enforcement priorities, training and communication to employees in commercial and other positions, and monitoring and auditing of our facilities, commercial operations and
+third parties with whom we do business. Transparency Laws in the U.S. and Other Countries There are numerous requirements imposed by states in the U.S. on the interaction of pharmaceutical and medical device companies with
+physicians. For example, several states and the District of Columbia either require the tracking and reporting of specific types of interactions with healthcare professionals or restrict such
+interactions. A similar requirement was imposed at the federal level under the "sunshine" provision of Patient Protection and Affordable Care Act, (the "Sunshine Provisions"), to track and report
+payments and "transfers of value" to U.S. physicians or teaching hospitals by manufacturers of medical products that are available for reimbursement by a federal insurer. It is expected that the
+Sunshine Provisions will preempt some but not all disclosure requirements under state laws. We are developing and implementing systems and processes to ensure compliance with both state and federal
+requirements as well as any applicable requirements in other countries, such as the U.K. and France, which have adopted similar reporting requirements. Other Laws We are also subject to California's Proposition 65, which sets forth a list of substances that are deemed by the State of California to
+pose a risk of carcinogenicity or birth defects. If any product sold in California contains such substances, the product must be accompanied by a prominent warning label alerting consumers that the
+product contains an ingredient linked to cancer or birth defect risk. Private 78 Table of Contents actions
+as well as California attorney general actions may be brought against non-compliant parties and can result in substantial costs and fines. In
+the sale, delivery and servicing of our medical devices and software imbedded in some of our products outside of the United States, we must comply with various customs, export
+control, anti-boycott and trade embargo laws and regulations administered by U.S. and foreign government agencies, including the U.S. Customs and Border Protection, the Bureau of Industry and
+Security, the Department of Commerce and the Office of Foreign Assets Control Treasury Department, as well as others. We
+are also subject to a variety of other laws, directives and regulations in and outside of the U.S., including those related to the
+following: • environmental laws and regulations; • the safety and health laws of the U.S. Occupational Safety and Health Act, which sets forth requirements for workplace
+conditions; and • the laws administered by the U.S. Department of Transportation and similar foreign agencies related to transporting
+materials defined as "hazardous" over land, sea, or through the air. We
+use reasonable care to stay abreast of, and plan for, proposed legislation that could significantly affect our operations. Despite our training and compliance program, our internal
+control policies and procedures may not always protect us from reckless or criminal acts committed by our employees or agents in violation of any of these laws. Employees As of May 22, 2014, we had 46 full-time employees, including six in research and development, 21 in manufacturing, 14 in
+sales and marketing and customer support services, and five in finance and administration. No employees are represented by a labor union. We have not experienced any work stoppages and consider our
+relations with our employees to be good. Properties Our principal offices are currently located in a leased facility of approximately 9,000 square feet located in Winter Park, Florida.
+The lease on our current facility
+expires in June 2014 and we anticipate month-to-month extensions until the new facility described below is ready for occupancy. To
+accommodate our growing operations, we have plans to relocate during 2014 and have entered into a lease, commencing June 1, 2014, for a new, nearby facility in Winter Springs,
+Florida that is approximately 23,000 square-feet. The facility will house our manufacturing operations and corporate headquarters. The new facility has been leased from an entity controlled by our
+President and CEO, Roger Susi. Pursuant to the terms of our lease for the Winter Springs property, the monthly base rent will be $32,583, adjusted annually for changes in the consumer price index. The
+term of the lease expires on May 31, 2019. The lease will automatically renew for two successive terms of five years each beginning in 2019 and again in 2024, and thereafter, will be renewed
+for successive terms of one year each. The new manufacturing and office space is currently being constructed. We anticipate moving into the new space in July 2014 and having our operations fully
+functional in the new facility within 10 working-days. We do not believe a delay in moving would materially and adversely affect our ability to manufacture and ship products to our customers or
+otherwise affect our operations. We
+do not own any real property that is materially important to our business. 79 Table of Contents Legal Proceedings The technologies used in the medical device industry are protected by a wide array of patents and other intellectual property rights.
+As a result, third parties have in the past and may in the future assert infringement and misappropriation claims against us, our distribution partners or our content suppliers from time to time. On
+April 16, 2013, Rydex Technologies LLC ("Rydex") filed a lawsuit against us, in Federal District Court in Delaware, asserting that we infringed a patent held by Rydex
+relating to "a fluid delivery nozzle for wireless communication to either an active or a passive device located on a vehicle." Rydex sought damages in an unspecified amount and recovery of costs and
+attorneys' fees. Although the claim was later voluntarily dismissed by Rydex and we believe the Rydex allegations were meritless, there can be no assurance that these assertions, or any similar future
+assertions, will not result in liabil

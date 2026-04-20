@@ -1,0 +1,77 @@
+” and the financial
+statements and related notes and other information incorporated by reference into this prospectus, before making your investment decision. Entero Therapeutics, Inc. and its consolidated
+subsidiaries are referred to herein as “Entero,” “the Company,” “we,” “us” and “our,”
+unless the context indicates otherwise. Overview We are engaged in the research
+and development of targeted, non-systemic therapies for the treatment of patients with gastrointestinal (“GI”) diseases.
+Non-systemic therapies are non-absorbable drugs that act locally, i.e., in the intestinal lumen, skin or mucosa, without reaching an
+individual’s systemic circulation. In May 2024, we changed our name from First Wave Biopharma, Inc. to Entero Therapeutics, Inc. We are currently focused
+on developing the biologic Adrulipase, a recombinant lipase enzyme designed to enable the digestion of fats and other nutrients in cystic
+fibrosis and chronic pancreatitis patients with exocrine pancreatic insufficiency. Our prior programs consisted of Latiglutenase, a targeted
+oral biotherapeutic for celiac disease designed to breakdown gluten into non-immunogenic peptides; Capeserod, a selective 5-HT4 receptor
+partial agonist which was being developed as a gastroparesis therapeutic; and Niclosamide, an oral small molecule with anti-inflammatory
+properties for patients with inflammatory bowel diseases such as ulcerative colitis and Crohn’s disease. We have determined to
+discontinue the Latiglutenase, Capeserod and Niclosamide programs. In March 2024, we announced
+the closing of a merger (the “Merger”) with ImmunogenX, Inc. (“IMGX”), a private, clinical-stage biopharmaceutical
+company founded in 2013, which is developing the biologic Latiglutenase for the treatment of celiac disease. As a result of the Merger, IMGX
+became a limited liability company and our wholly owned subsidiary ImmunogenX LLC. As consideration for the Merger we issued the former
+shareholders of IMGX (a) 12,277 shares of common stock of the Company and (b) 11,777.418 shares of Series G Preferred
+Stock. In addition, we assumed (i) all IMGX stock options immediately outstanding prior to the Merger, each becoming an option to
+purchase Common Stock subject to adjustment pursuant to the terms of the merger agreement (the “Assumed Options”) and (ii) all
+IMGX warrants immediately outstanding prior to the Merger, each becoming a warrant to purchase Common Stock subject to adjustment pursuant
+to the terms of the merger agreement (the “Assumed Warrants”). The Assumed Options are exercisable for an aggregate of 22,295
+shares of Common Stock, have an exercise price of $2.43 and expire between February 1, 2031 and June 6, 2033. The Assumed Warrants
+are exercisable for an aggregate of 14,187 shares of Common Stock, have exercise prices ranging from $9.06 to $11.76 and expire between
+September 30, 2032 and September 6, 2033. Also in connection with the Merger we issued a consultant 6,158 shares of Common
+Stock and 595.808 shares of Series G Preferred Stock. ImmunogenX, LLC is developing CypCel, a metabolic marker compound that
+can measure the state of small-intestinal recovery of celiac patients undergoing gluten-free diets (“GFDs”). We have initiated
+a plan to dispose of substantially all assets and liabilities of ImmunogenX, LLC, including Latiglutenase and CypCel. As of December 31,
+2024, these were classified as assets and liabilities held for sale and due to the short period of time since the close of the Merger,
+are reported at their fair value less cost to sell. We determined that the discontinued operations of IMGX represents a strategic shift
+that will have a major effect on our operations and financial statements. 1 In
+March 2025, we announced that we entered into a rescission agreement (the “Rescission Agreement”), by and among the
+Company, ImmunogenX, LLC and the former shareholders of IMGX (the “IMGX Shareholders”). Under the terms of the Rescission
+Agreement, the parties have amicably determined that it is in their collective best interest to: (i) rescind the issuances of the
+shares of Common Stock and Series G Preferred Stock that the Company has issued to the IMGX Shareholders as part of the Merger,
+(ii) convey to the IMGX Shareholders all of the issued and outstanding membership interests (the “Membership Interests”)
+of ImmunogenX, LLC currently held by the Company, (iii) cancel the Assumed Options and Assumed Warrants, and (iv) provide for
+such additional agreements as are set forth in the Rescission Agreement. Also as set forth in the Rescission Agreement, following the
+closing, the Company will retain up to approximately $695,000 of ImmunogenX, LLC’s accounts payable (in addition to all accounts
+payable not related to the ImmunogenX, LLC business), and ImmunogenX, LLC will remain responsible for approximately $2,436,338 of its unsecured debt. The accounts payable liability of ImmunogenX, LLC retained by the Company may be further reduced from the approximately
+$695,000 as the Company has a right under the Rescission Agreement to negotiate the repayment of such accounts payable with the payees,
+with sole discretion over determining the payment amounts and timing for such payments. After the transactions contemplated by the Rescission
+Agreement have been consummated, ImmunogenX, LLC will no longer be a subsidiary of the Company, and the Company will no longer be
+holding any interest in ImmunogenX, LLC. See “ Background to the Rescission Agreement ” and “ Reasons for Entry
+into the Rescission Agreement ” below. The 6,158 shares of Common Stock and 595.808 shares of Series G Preferred Stock
+issued by the Company to a consultant in connection with services relating to the Merger are not affected by the Rescission Agreement
+as the Consultant was never a shareholder of IMGX and is not a party to the Rescission Agreement. Following consummation of the transactions
+contemplated by the Rescission Agreement, our director and Chief Scientific Officer Dr. Jack Syage, as one of the IMGX Shareholders,
+and his affiliated entities will own approximately 42% of the transferred membership interests of ImmunogenX, LLC. On
+July 15, 2025, the Company, Immuno LLC and the IMGX Shareholders entered into an Amendment to the Rescission Agreement
+whereby the parties agreed to add additional shareholder representations and warranties, including providing for an accredited investor
+representation by each IMGX Shareholders. We have not yet filed a preliminary
+proxy statement in relation to holding a shareholder meeting to obtain shareholder approval for the transfer of the Membership Interests
+to the IMGX Shareholders. Under the terms of the Rescission Agreement, the Rescission Agreement may be terminated and the transactions
+contemplated thereby may be abandoned by us or the representative of IMGX Shareholders if the transactions were not consummated by June 30,
+2025, unless the Company and the representative of the IMGX Shareholders, who is our director Jack Syage, shall have consented to a subsequent
+date. On June 30, 2025 the Company and the shareholder representative mutually agreed that the transactions contemplated by the
+Rescission Agreement may be consummated on or prior to September 30, 2025. We expect that the transactions contemplated by the Rescission
+Agreement will be consummated on or prior to September 30, 2025, subject to satisfaction of all conditions for closing, including
+obtaining shareholder approval by the Company for the transfer of the Membership Interests to the IMGX Shareholders. If
+we are unable to consummate the transactions contemplated under the Rescission Agreement, it may have an adverse effect on our business,
+financial condition and results of operations. Specifically, in the event the transactions contemplated under the Rescission Agreement
+do not close, as ImmunogenX, LLC’s holding company, we will be liable for the repayment of $2,436,338 of ImmunogenX, LLC’s unsecured debt as well as the additional approximately $46,000 of its accounts payable. Further, if the rescission is not consummated,
+we may become subject to a potential new lawsuit filed by Mattress Liquidators, Inc. against ImmunogenX, LLC in the event that we
+are unable to meet ImmunogenX LLC’s unsecured debt obligations. We may also be unable to effect a conversion of the Series G
+Preferred Stock in cash. We have incurred significant operating losses and negative cash flows
+from operations since inception. On June 30, 2025, we had cash and cash equivalents of approximately $4,474, and a net loss of approximately
+$2.3 million. We have incurred recurring losses, have experienced recurring negative operating cash flows, and require significant cash
+resources to execute our business plans. In January 2025, we closed on a revolving loan agreement in the principal amount of $2.0
+million. Based on cash on hand on August 18, 2025, the available loan proceeds and assuming successful financing efforts, which we
+cannot guarantee, we anticipate having sufficient cash to fund planned operations through April 2026. Historically, our major sources
+of cash have been comprised of proceeds from various public and private offerings of its capital stock. We are dependent on obtaining
+additional working capital funding from the sale of equity and/or debt securities in order to continue to execute our development plans
+and continue operations. 2 We have a history of net losses and may be unable to achieve or sustain
+profitability in the future. We also received a going concern qualification in our audits for the financial years ended December 31,
+2024 and 2023. As of December 31, 2024 and 2023, we had cash and cash equivalents of approximately $0.2 million and $3.7 million,
+and an accumulated deficit of approximately $202.4 million and $184.3 million, respectively. During the years ended December 31,
+2024 and 2023, we incurred net losses of approximately $18.1 million and $15.8 million, respectively. We do not know if our bu

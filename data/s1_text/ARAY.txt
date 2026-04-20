@@ -1,0 +1,58 @@
+." Overview We have developed the first and only commercially available intelligent robotic radiosurgery system, the CyberKnife system, designed to treat solid tumors
+anywhere in the body as an alternative to traditional surgery. The CyberKnife system combines continuous image-guidance technology with a compact linear accelerator, or linac, that moves in three
+dimensions according to the treatment plan. This combination, which we refer to as intelligent robotics, extends the benefits of radiosurgery to the treatment of tumors anywhere in the body. The
+CyberKnife system autonomously tracks, detects and corrects for tumor and patient movement in real-time during the procedure, enabling delivery of precise, high dose radiation typically
+with sub-millimeter accuracy. The CyberKnife procedure requires no anesthesia, can be performed on an outpatient basis and allows for the treatment of patients that otherwise would not
+have been treated with radiation or who may not have been good candidates for surgery. In addition, the CyberKnife procedure avoids many of the potential risks and complications that are associated
+with other treatment options and is more cost effective than traditional surgery. In
+July 1999, we obtained 510(k) clearance from the FDA to market the CyberKnife system for the treatment of tumors and certain other conditions in the head, neck and upper spine.
+In August 2001, we received FDA clearance for the treatment of tumors anywhere in the body where radiation treatment is indicated. In September 2002, we received a CE mark for the sale
+of the CyberKnife system in Europe. The CyberKnife system has also been approved for various indications in Japan, Korea, Taiwan, China and other countries. We estimate that over 20,000 patients
+worldwide have been treated with the CyberKnife system since its commercial introduction. In
+the United States, we sell to customers, including hospitals and stand-alone treatment facilities, directly through our sales organization, which as of September 30,
+2006 included 19 sales personnel. Outside the United States, we sell to customers in over 30 countries directly and through distributors. We have sales and service offices in
+Paris, France and Hong Kong, China. Our
+CyberKnife systems are either sold to our customers or placed with our customers pursuant to our shared ownership programs. As of September 30, 2006, we had 83 CyberKnife
+systems installed at customer sites, including 73 sold and 10 pursuant to shared ownership programs and 78 pending installation, including 66 sold and 12 pursuant to shared ownership programs. Of the
+73 systems sold and installed, 42 are in the United States, 24 are in Asia and 7 are in Europe. Of the 66 sold and pending installation, 35 are in the
+United States, 25 are in Asia and 6 are in Europe. Under the shared ownership program, we retain title to the CyberKnife system while the customer has use of the system. Our shared ownership
+contracts generally require a minimum monthly payment from the customer, and we may earn additional revenue through the use of the system at the site. Generally, minimum monthly payments are
+equivalent to the revenue generated from treating three to four patients per month, and any revenue received from additional patients is shared between us and the customer. As of September 30,
+2006, we had 22 shared ownership programs, of which 10 are installed and 12 are pending installation. Our legacy shared ownership program was known as the placement program. We
+manufacture and assemble our CyberKnife systems at our manufacturing facility in Sunnyvale, California. We purchase major components, including the robotic manipulator, treatment
+table, 35 magnetron,
+imaging cameras and computers, from outside suppliers, some of which are single source. We manufacture certain other electronic and electrical subsystems, including the linear accelerator.
+We then assemble and integrate these components with our proprietary software and perform testing prior to shipment to customer sites. We
+generate revenue by selling the CyberKnife system and by providing ongoing services and upgrades to customers following installation of the CyberKnife system. The current list price
+for the CyberKnife system is approximately $4.1 million, which includes installation, initial training and a one-year warranty. We also offer optional hardware and software,
+technical enhancements and upgrades to the CyberKnife system, as part of our multiyear service plans. Currently, our most comprehensive service plan is our Diamond Elite multiyear service plan, or
+Diamond plan. Under our Diamond plan, customers are eligible to receive up to two upgrades per year, when and if available. The Diamond plan has a list price of $460,000 per year, and provides for
+annual renewal for four years including the one-year warranty period. The customer may cancel the service plan at any time. As of September 30, 2006, 59 of our customers had purchased
+service plans. Our
+total net revenue was $19.6 million, $22.4 million and $52.9 million during the years ended June 30, 2004, 2005 and 2006, respectively. Our net loss was
+$11.7 million, $25.2 million and $33.7 million during the years ended June 30, 2004, 2005 and 2006, respectively. Our net cash provided by operating activities was
+$4.9 million, $18.0 million and $25.5 million during the years ended June 30, 2004, 2005 and
+2006, respectively. As of June 30, 2006, our backlog was approximately $312.2 million. We anticipate that this backlog will be recognized over the next five years as we complete
+installations, deliver upgrades and provide service. Material Weaknesses in Internal Controls In connection with the audit of our consolidated financial statements for the years ended June 30, 2004, 2005 and 2006, our independent registered public
+accounting firm identified material weaknesses and significant deficiencies in our internal controls over financial reporting. These weaknesses and deficiencies relate to a lack of segregation of
+duties and the misapplication of accounting policies, including policies related to revenue recognition and stock-based compensation. Our
+efforts to remediate these material weaknesses in our internal controls over financial reporting consist of the following corrective actions: (i) hiring and training
+additional, qualified finance and accounting personnel; and (ii) strengthening our processes and procedures related to complex revenue recognition and equity transactions. However, even after
+these corrective actions are implemented, the effectiveness of our controls and procedures may be limited by a variety of risks. Although
+we have taken measures to remediate the material weaknesses as well as the other significant deficiencies and control deficiencies, we cannot assure you that we have identified
+all, or that we will not in the future have additional material weaknesses, significant deficiencies and control deficiencies. 36 Financial Operations Sales and Installation Cycle The CyberKnife system has a relatively long sales and installation cycle because it is a major capital item and requires the approval of senior management at
+purchasing institutions. The typical sales and installation cycle is 12 to 18 months in duration and involves multiple steps, which may include pre-selling activity, execution of a
+letter of intent, or LOI, execution of contracts for the purchase or acquisition of the CyberKnife system and multiyear service plans, and installation of the CyberKnife system. Prior to installation,
+a purchasing institution must typically obtain a radiation device installation permit, and in some cases, a certificate of need, both of which must be granted by state and local government bodies. In
+addition, the purchasing institution must build a radiation shielded facility or upgrade an existing facility to house the CyberKnife system. On average it takes three months from the signing
+of an LOI to the execution of a contract. We typically receive a $450,000 deposit at the time the CyberKnife system purchase contract is executed, and the remaining balance for the purchase of
+the CyberKnife system upon installation. The customer also typically signs a service plan contract at the time of signing a CyberKnife system purchase contract. Upon
+installation, we recognize the CyberKnife system purchase price minus the fair value of one year of service. We recognize the fair value of the first year of service as revenue pro
+rata over the twelve months following installation. In addition, if the customer has purchased our Diamond plan and assuming annual renewals, we would receive the $460,000 payment at the beginning of
+the second, third and fourth years of the multiyear service plan and recognize the revenue pro rata over each year. Legacy Service Plans Prior to introducing our Diamond plan, we offered a Platinum Elite multiyear service plan, or Platinum plan. These legacy service plans are structured so that we
+have an obligation to deliver two upgrades per year over the course of the multiyear service plan. If we fail to deliver the upgrades, our customers
+are entitled to receive refunds of up to $200,000. We no longer offer these legacy service plans to new customers. The
+Platinum plan obligates us to deliver two upgrades per year during the term of the contract. We have not yet established fair value for those future obligations; hence, generally
+accepted accounting principles in the United States, or GAAP, requires that we cannot begin to recognize any of the revenue derived from the sale of the CyberKnife system or the associated service
+plans until those obligations have been fulfilled. Therefore, the payments made by our customers who have our legacy Platinum plan are categorized as deferred revenue and will be recognized as revenue
+when we fulfill all obligations to deliver upgrades. Once we fulfill all upgrade obligations with respect to a specific Platinum plan, we will ratably recognize the

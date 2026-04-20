@@ -1,0 +1,171 @@
+Any investment in shares of our common stock involves a high degree of risk.
+You should consider carefully the following information about these risks,
+together with the other information contained in this prospectus, before you
+decide to buy our common stock. If any of the following risks actually occur,
+our business, results of operations and financial condition would likely
+suffer. In these circumstances, the market price of our common stock could
+decline, and you may lose all or part of the money you paid to buy our common
+stock.
+
+                         Risks Related to Our Business
+
+Variations in quarterly operating results, due to factors including changes in
+demand for our products and changes in our mix of net revenues, could cause our
+stock price to decline.
+
+   Our quarterly net revenues, expenses and operating results have varied in
+the past and might vary significantly from quarter to quarter in the future. We
+therefore believe that quarter-to-quarter comparisons of our operating results
+are not a good indication of our future performance, and you should not rely on
+them to predict our future performance or the future performance of our stock
+price. Our short-term expense levels are relatively fixed and are based on our
+expectations of future net revenues. If we were to experience a reduction in
+net revenues in a quarter, we would likely be unable to adjust our short-term
+expenditures. If this were to occur, our operating results for that quarter
+would be harmed. If our operating results in future quarters fall below the
+expectations of market analysts and investors, the price of our common stock
+would likely fall. Other factors that might cause our operating results to
+fluctuate on a quarterly basis include:
+
+  . changes in the mix of net revenues attributable to higher-margin and
+    lower-margin products;
+
+  . customers' decisions to defer or accelerate orders;
+
+  . variations in the size or timing of orders for our products;
+
+  . short-term fluctuations in the cost or availability of critical
+    components, such as flash memory;
+
+  . changes in demand for our products generally;
+
+  . loss of significant customers;
+
+  . announcements or introductions of new products by our competitors;
+
+  . defects and other product quality problems; and
+
+  . changes in demand for devices that incorporate our connectivity products.
+
+If we make unprofitable acquisitions or are unable to successfully integrate
+any acquisition, our business could suffer.
+
+   We have in the past and intend to continue in the future to acquire
+businesses, client lists, products or technologies that we believe complement
+or expand our existing business. In October 1998, we acquired ProNet GmbH, a
+German supplier of industrial application Device Server Technology. In December
+2000, we acquired USSC, a company that provides software solutions for use in
+embedded technology applications. In June 2001, we acquired Lightwave, a
+company that provides console management solutions. We have also announced that
+we may acquire Premise Systems, a developer of client-side software
+applications, and Synergetic, a provider of embedded network communications
+solutions. Acquisitions of this type involve a number of risks, including:
+
+  . difficulties in assimilating the operations and employees of acquired
+    companies;
+
+  . diversion of our management's attention from ongoing business concerns;
+
+                                       6 . our potential inability to maximize our financial and strategic position
+    through the successful incorporation of acquired technology and rights
+    into our products and services;
+
+  . additional expense associated with amortization of acquired assets;
+
+  . maintenance of uniform standards, controls, procedures and policies; and
+
+  . impairment of existing relationships with employees, suppliers and
+    customers as a result of the integration of new management employees.
+
+   Any acquisition or investment could result in the incurrence of debt and the
+loss of key employees. Moreover, we often assume specified liabilities of the
+companies we acquire. Some of these liabilities, such as environmental and tort
+liabilities, are difficult or impossible to quantify. If we do not receive
+adequate indemnification for these liabilities our business may be harmed. In
+addition, acquisitions are likely to result in a dilutive issuance of equity
+securities. For example, we issued common stock and assumed options to acquire
+our common stock in connection with our acquisitions of USSC and Lightwave. We
+cannot assure you that any acquisitions or acquired businesses, client lists,
+products or technologies associated therewith will generate sufficient net
+revenues to offset the associated costs of the acquisitions or will not result
+in other adverse effects. Moreover, from time to time we may enter into
+negotiations for the acquisition of businesses, client lists, products or
+technologies, but be unable or unwilling to consummate the acquisition under
+consideration. This could cause significant diversion of managerial attention
+and out of pocket expenses to us. We could also be exposed to litigation as a
+result of an unconsummated acquisition, including claims that we failed to
+negotiate in good faith, misappropriated confidential information or other
+claims.
+
+We intend to continue to devote significant resources to our research and
+development which, if not successful, could cause a decline in our revenues and
+could harm our business.
+
+   We intend to continue to devote significant resources to research and
+development in the coming years to enhance and develop additional products. For
+the nine months ended March 31, 2001, we spent $3.2 million on research and
+development, which comprised 8.4% of our net revenues. Over the next two years
+we intend to substantially increase our research and development expenditures,
+including planned increases in personnel, material costs and depreciation
+resulting from higher expenditures. If we are unable to develop new products as
+a result of this effort, or if the products we develop are not successful, our
+business could be harmed. Even if we do develop new products that are accepted
+by our target markets, the net revenues from these products might not be
+sufficient to justify our investment in research and development.
+
+Net revenues from our legacy products, which include our Print Servers,
+switches, hubs and other products, have decreased significantly and we expect
+that net revenues from these lines of products will continue to decline in the
+future as we focus our efforts on the development of other product lines.
+
+   Since 1993, net revenues from our legacy products have accounted for a
+significant portion of our net revenues but have declined significantly
+recently. For example, for the year ended June 30, 1999, net revenues from our
+legacy products were $12.2 million or 37.1% of our net revenues, compared to
+$9.9 million or approximately 21.9% of our net revenues for the year ended June
+30, 2000. For the nine months ended March 31, 2000, net revenues from our
+legacy products were $8.1 million or 24.7% of our net revenues compared to $3.0
+million or 7.9% of our net revenues for the nine months ended March 31, 2001.
+We anticipate that net revenues from our legacy products will continue to
+decline in the future as we plan to continue to focus on the development of our
+current Device Server product line, which we introduced in mid-1998. We do not
+know if this transition in product development will be successful. We do not
+know whether our new product line will be accepted by our current and future
+target markets to the extent we anticipate. If the expected decline in net
+revenues attributable to our legacy products is not offset by increases in net
+revenues from our Device Server line of products, our business would be harmed.
+
+                                       7 There is a risk that our OEM customers will develop their own internal
+expertise in network-enabling products, which could result in reduced sales of
+our products.
+
+   For most of our existence we primarily sold our products to VARs, system
+integrators and OEMs. Although we intend to continue to use all of these sales
+channels, we have begun to focus more heavily on selling our products to OEMs.
+Selling products to OEMs involves unique risks, including the risk that OEMs
+will develop internal expertise in network-enabling products or will otherwise
+provide network functionality to their products without using our Device
+Server Technology. If this were to occur, our stock price could decline in
+value and you could lose part or all of your investment.
+
+We might be unable to manage our growth, and if we cannot do so, our business
+would be harmed.
+
+   Our business has grown rapidly. At March 31, 1999, we had 77 employees and
+as of March 31, 2000, we had 128 employees. As of March 31, 2001, we had 197
+employees. In addition, we have experienced expansion in our manufacturing and
+shipping requirements, our product lines and our customer base. This rapid
+expansion has placed significant strain on our administrative, operational and
+financial resources. These changes have increased the complexity of managing
+our company. Our current systems, management and other resources will need to
+grow rapidly in order to meet the demands of any future growth. If we are
+unable to successfully expand and improve our systems as required, or if we
+are otherwise unable to manage any future growth, our business will be harmed.
+
+New product introductions and pricing strategies by our competitors could
+adversely affect our ability to sell our products and could reduce our market
+share or result in pressure to reduce the price of our products.
+
+   The market for our products is intensely competitive, subject to rapid
+change and is significantly affected by new product introductions and the
+pricing strategies of our competitors. We face competition pr

@@ -1,0 +1,89 @@
+See
+    “Risk Factors” and other information appearing elsewhere in this prospectus and in the documents incorporated by reference
+    for a discussion of factors you should carefully consider before deciding whether to invest in our securities. The
+    Nasdaq Capital Market ticker symbol “AIXC” (1) Represents
+    the number of shares of common stock issuable upon the exercise of 39,943 shares of Series B Preferred held by the Selling Stockholders,
+    Each share of Series B Preferred has a stated value of $1,000 and is convertible into a number of shares of our common stock equal
+    to the stated value divided by the conversion price of $2.246 per share of Series B Preferred. Under Nasdaq Listing Rule 5635(d),
+    stockholder approval is required before we may issue shares of common stock upon conversion of the Series B Preferred in excess of
+    19.99% of the number of shares of Common Stock outstanding as of the date of closing of the offering of the Series B Preferred Shares.
+    Based on the conversion price, the Series B Preferred are convertible into up to 17,784,064 shares of common stock, with each Selling
+    Stockholder’s fractional shares rounded up to the nearest whole share, which represents the number of shares being registered
+    for resale pursuant to this prospectus. (2) As
+    of November 30, 2025 and excludes: ● 1,570
+    shares of common stock issuable upon the exercise of outstanding options granted under our 2020 Stock Incentive Plan with a weighted
+    exercise price of $ 2,028.88 per share; ● 139,222 shares of common stock issuable upon exercise of outstanding warrants with a weighted average exercise price of $5.76; ● 47,143
+    shares of common stock issuable upon the conversion of a Senior Convertible Note issued to Alpha Capital Anstalt for $2.80 per share; ● 329,944 shares of common stock issuable upon the conversion
+    of 600.5 shares of Series A-2 Preferred Stock (based on $1.82 conversion price); and ● 17,784,061 shares of common stock issuable upon the
+    conversion of 39,943 shares of Series B Preferred Stock (based on $2.246 conversion price). Unless
+otherwise indicated, all information in this prospectus gives effect to the 1-for-50 reverse stock split of our common stock on November
+5, 2024. 17 RISK
+FACTORS Investing
+in our securities involves risks. You should carefully consider the risks, uncertainties and other factors described in our most recent
+Annual Report on Form 10-K, as supplemented and updated by subsequent Quarterly Reports on Form 10-Q and Current Reports on Form 8-K
+that we have filed or will file with the SEC, and in other documents which are incorporated by reference into this prospectus, including
+all future filings we make with the SEC pursuant to Sections 13(a), 13(c), 14 or 15(d) of the Securities Exchange Act of 1934, as amended
+(the “Exchange Act”), as well as the risk factors and other information contained in or incorporated by reference into any
+accompanying prospectus supplement before investing in any of our securities. Our financial condition, results of operations or cash
+flows could be materially adversely affected by any of these risks. The risks and uncertainties described in the documents incorporated
+by reference herein are not the only risks and uncertainties that you may face. For more information about our SEC filings, please see
+“Where You Can Find More Information” and “Incorporation of Certain Information by Reference.” Risks
+Related to This Offering Sales
+of a substantial number of shares by the Selling Stockholders may cause the price of our common stock to decline. The
+resale of the Conversion Shares by the Selling Stockholders could significantly depress the market price of our common stock. A large
+volume of sales over a short period of time, or even the perception that such sales could occur, may adversely affect the trading price
+of our common stock and could make it more difficult for us to raise additional capital through future equity offerings. The
+issuance of common stock upon conversion of the Series B Preferred will cause substantial dilution to existing stockholders. Each
+share of Series B Preferred has a stated value of $1,000 and is convertible into a number of shares of our common stock equal to the
+stated value divided by the conversion price of $2.246 per share of Series B Preferred. Any conversion of the Series B Preferred will
+dilute the ownership interests of existing stockholders and may depress the market price of our common stock. Risks
+Related to Our Common Stock and Listing If
+we fail to maintain compliance with Nasdaq continued listing requirements, our common stock could be delisted. On
+July 23, 2025, we received a notice from the Nasdaq Listing Qualifications Department stating that we were not in compliance with the
+minimum $2.5 million stockholders’ equity requirement under Nasdaq Listing Rule 5550(b)(1). Nasdaq subsequently granted us an extension
+after reviewing our compliance plan and noting our July 28, 2025 private placement of Series A-3 Preferred. If we fail to continue to
+satisfy Nasdaq’s listing requirements, including the equity and minimum bid price requirements, our common stock could be delisted,
+which would negatively impact liquidity, reduce the trading market for our stock, and impair our ability to raise capital. Our
+common stock has experienced and may continue to experience significant price and volume volatility. The
+trading price of our common stock has fluctuated significantly and may continue to do so in response to various factors, including developments
+in our business and industry, dilution from future equity issuances, Nasdaq compliance issues, and general market conditions. Volatility
+in our stock price could cause investors to lose all or part of their investment. Future
+equity financings may further dilute stockholders or adversely affect our stock price. We
+may need to raise additional capital through equity or equity-linked financings. Such financings may occur at prices below the current
+market price of our common stock and may involve securities with terms that are more favorable to new investors, such as preferences,
+senior voting rights, or additional warrants. These transactions could further dilute stockholders, put downward pressure on our stock
+price, and make it more difficult for us to raise additional capital on acceptable terms. 18 Risks
+Related to Our Business and Financial Condition Our
+financial condition raises substantial doubt about our ability to continue as a going concern. We
+have incurred significant losses since inception and had an accumulated deficit of approximately $123.1 million as of December 31, 2024.
+Our auditors have included a going concern explanatory paragraph in their audit report. Our continuation as a going concern is dependent
+on our ability to generate positive cash flows and secure additional equity and/or debt financing. There can be no assurance that such
+financing will be available on terms acceptable to us, if at all. If we are unable to continue as a going concern, investors could lose
+all or a portion of their investment. If
+we fail to remediate our material weaknesses in internal controls, our business and stock price could be adversely affected. We
+have identified material weaknesses in our internal control over financial reporting, including a lack of accounting resources and inadequate
+segregation of duties. These weaknesses have resulted in audit adjustments and delayed SEC filings. Although we are taking steps to improve
+our controls, if we are unable to remediate these weaknesses and maintain effective controls, we could be subject to further financial
+reporting errors, regulatory scrutiny, loss of investor confidence, and a decline in the market price of our common stock. Risks
+Related to the Marizyme Amended Note There
+can be no assurance that Marizyme will be able to repay the Amended Note when due. On
+August 21, 2025, we entered into an Amended and Restated Secured Demand Promissory Note with Marizyme, Inc. in the principal amount of
+approximately $4.45 million. The Amended Note matures on August 21, 2026, with all amounts due in a single balloon payment. Marizyme
+may not generate sufficient cash flows or obtain additional financing to satisfy its obligations, which could result in nonpayment or
+default. The
+Amended Note is secured by substantially all of Marizyme’s assets, but the value of the collateral may be insufficient. Although
+Marizyme granted us a security interest in substantially all of its assets, including intellectual property, inventory, accounts receivable,
+and equipment, the value of those assets may be uncertain or difficult to realize. If Marizyme defaults and we seek to enforce our security
+interest, we may be unable to recover the full amount owed. If
+Marizyme defaults, we may be required to take costly and time-consuming enforcement actions. Our
+remedies in the event of default include foreclosing on Marizyme’s assets. Such actions could be expensive, time-consuming, and
+uncertain, and could divert management attention from our core operations. There is no assurance that any recovery would be timely or
+sufficient. Risks
+Relating to Investing in Cryptocurrency Our
+operating results have and will significantly fluctuate, including due to the highly volatile nature of crypto. Due
+to the highly volatile nature of the cryptoeconomy and the prices of crypto assets, our operating results have, and will continue to,
+fluctuate significantly in accordance with market sentiments and movements in the broader cryptoeconomy. Our operating results will continue
+to fluctuate significantly as a result of a variety of factors, many of which are unpredictable and in certain instances are outside
+of our control, including: ● crypto
+    asset trading activity, including trading volume and the prevailing trading prices for crypto assets, which can be highly volatile; ● our
+    ability to attract, maintain, 

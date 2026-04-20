@@ -1,0 +1,75 @@
+” appearing elsewhere in this
+prospectus and in documents incorporated by reference. Unless the context requires otherwise, references in this prospectus to “Actuate,”
+the “Company,” “we,” “us,” and “our” refer to Actuate Therapeutics, Inc. Overview We are a clinical stage biopharmaceutical
+company focused on developing therapies for the treatment of high impact, difficult to treat cancers through the inhibition of glycogen
+synthase kinase-3 (“GSK-3”). We are developing elraglusib (formerly 9-ING-41), an ATP-competitive small molecule that is designed
+to enter cancer cells and block the function of the enzyme glycogen synthase kinase-3 beta (“GSK-3β”), a master regulator
+of complex biological signaling cascades, including those mediated by oncogenes, that lead to tumor cell survival, growth, migration,
+and invasion. We believe that the blockade of GSK-3β signaling ultimately results in the death of the cancer cells and the regulation
+of anti-tumor immunity. We have exclusively licensed
+a portfolio of GSK-3 inhibitors developed in a collaboration between The Board of Trustees of the University of Illinois-Chicago (“UIC”)
+and Northwestern University (“NU”). Elraglusib is the lead investigational product in our portfolio and is being evaluated
+in a Phase 2 trial in patients with metastatic pancreatic ductal adenocarcinoma (“mPDAC”), our most advanced clinical indication
+to date. We have also advanced a Phase 1/2 clinical trial in refractory pediatric malignancies, including Ewing sarcoma (“EWS”),
+which we recently completed in July 2025. Elraglusib represents a broad
+opportunity for us to potentially initiate and advance multiple drug development programs around our lead asset based on data emerging
+from completed or ongoing Phase 1/2 trials and non-clinical biological, cellular, and animal data. Animal tumor model data, Phase 1/2
+clinical data and AI-based computational approaches have identified a number of areas of unmet clinical need in cancer where elraglusib
+may play an interventional role, including pancreatic, metastatic melanoma, lung, colon, breast, renal, and ovarian cancer, leukemias
+and lymphomas, as well as some pediatric cancers including Ewing sarcoma, neuroblastoma and pediatric leukemias. Corporate Information Our principal executive offices
+are located at 1751 River Run, Suite 400, Fort Worth, Texas 76107. Our telephone number is (817) 887-8455. Our website address is www.actuatetherapeutics.com.
+Information contained on our website or connected thereto does not constitute part of, and is not incorporated by reference into, this
+prospectus or the registration statement of which it forms a part. 1 Recent Developments On June 25, 2025, we entered
+into a securities purchase agreement (the “Securities Purchase Agreement”) for a private placement (the “Private Placement”)
+with certain institutional and accredited investors, or the Selling Stockholders. Pursuant to the Securities Purchase Agreement, we issued
+and sold to the Selling Stockholders an aggregate of (i) 666,497 shares of Common Stock, at a purchase price of $7.00 per share, and (ii)
+Warrants to purchase up to an aggregate of 666,497 shares of Common Stock with an exercise price of $7.00 per Warrant. The Warrants are
+exercisable on a cash only basis at any time after the date of issuance and expire 20 days following the Milestone Date (as defined below)
+for additional proceeds to the Company of up to approximately $4.7 million if all Warrants are exercised in full. The “Milestone
+Date” is the earliest to occur of (i) the U.S. Food and Drug Administration (“FDA”) issuing Breakthrough Therapy designation
+for elraglusib and (ii) the date that the FDA provides written communication available to the Company of its determination as to whether
+the Company may pursue registration for elraglusib using existing Phase 2 clinical data or data from a future Phase 3 clinical trial. Bios 2024 Co-Invest, LP, a
+current stockholder of the Company purchased 71,428 shares and Warrants to purchase 71,428 shares in the Private Placement for an aggregate
+purchase price of $499,996, and, together with its affiliates following the closing of the Private Placement is deemed to beneficially
+own approximately 49.9% of the Common Stock. Dr. Aaron G.L. Fletcher, who is the Managing Partner and co-founder of Bios Partners, is
+the Chairman of the Company’s Board of Directors. The Private Placement closed
+on June 27, 2025 (the “Closing Date”). The Company received gross proceeds from the Private Placement of approximately $4.7
+million, before deducting fees and offering expenses. The Company intends to use the net proceeds from the Private Placement for working
+capital and general corporate purposes. In connection with the Private
+Placement, on June 25, 2025, we entered into a registration rights agreement (the “Registration Rights Agreement”) with the
+Selling Stockholders, pursuant to which we agreed to file a registration statement with the SEC covering the resale of the Shares sold
+in the Private Placement. We agreed to file such registration statement within 45 days following the Closing Date. The Registration Rights
+Agreement includes customary indemnification rights in connection with the registration statement providing for the resale of the Shares.
+The registration statement of which this prospectus forms a part has been filed in accordance with the Registration Rights Agreement. The foregoing summary descriptions
+of the Securities Purchase Agreement and the Registration Rights Agreement do not purport to be complete and are qualified in their entirety
+by reference to the full text of such documents, which are filed as exhibits to the registration statement of which this prospectus forms
+a part and are incorporated by reference herein. Risk Factor Summary Our business is subject to
+many significant risks. You should read and carefully consider the risks summarized below. These risks are discussed more fully in the
+“Risk Factors” section of our Annual Report on Form 10-K filed with the SEC on March 13, 2025, our Quarterly Report on Form
+10-Q for the quarter ended March 31, 2025, filed with the SEC on May 15, 2025, and the other documents incorporated by reference in this
+prospectus. If any of the risks summarized below actually occurs, our business, prospects, financial condition or operating results could
+be materially and adversely affected. In particular, our risks include, but are not limited to, the following: 2 Risks Related to the Offering · Our financial condition raises substantial doubt as to our ability to continue as
+a going concern. · Investors who buy shares at different times will likely pay different prices. · Sales of a substantial number of our securities in the public market by our existing
+stockholders could cause the price of our shares of Common Stock to fall. · Our management team has broad discretion over the use of any proceeds received pursuant
+to the exercise of the Warrants, and you may not agree with how we use the proceeds, and the proceeds may not be invested successfully. Risks Related to Our Limited Operating History, Financial Condition
+and Capital Requirements · We have a limited operating history, have incurred significant operating losses
+and expect to incur significant operating losses for the foreseeable future. We have a high risk of never generating revenue or becoming
+profitable or, if we achieve profitability, it may not be sustained. · We require substantial additional capital in the near term to finance our operations,
+and a failure to obtain this necessary capital when needed on acceptable terms, or at all, could force us to delay, limit, reduce or terminate
+our development programs, commercialization efforts or other operations. · Raising additional capital may cause dilution to our stockholders, restrict our
+operations or require us to relinquish rights to our technologies or product candidates. In addition, any capital obtained by us may be
+obtained on terms that are unfavorable to us, our investors, or both. · Under the common stock purchase agreement, dated March 27, 2025 (the “Committed
+Equity Facility”) with B. Riley Principal Capital II (“B. Riley”), it is not possible to predict the actual number of
+shares we will sell to B. Riley, or the actual gross proceeds resulting from those sales. Risks Related to Clinical Development and Potential Regulatory
+Approval · We do not have, and may never have, any approved products on the market. Our business
+is highly dependent upon receiving approvals from various governmental agencies and will be severely harmed if we are not granted approval
+to manufacture and sell our product candidates. · We currently depend entirely on the success of elraglusib, which is our only product
+candidate. If we are unable to advance elraglusib in clinical development, obtain regulatory approval and ultimately commercialize elraglusib
+in a timely manner, our business will be materially harmed. 3 · Even if we complete all planned clinical trials including a Phase 3 trial in the
+future, there is no guarantee that at the time of submission the FDA will accept our NDA. · Clinical and preclinical drug development involves a lengthy and expensive process
+with uncertain timelines and outcomes, and results of prior preclinical studies and early clinical trials are not necessarily predictive
+of future results. Elraglusib or any future product candidates may not achieve favorable results or receive regulatory approval on a timely
+basis, if at all. · We may not be successful in our efforts to advance elraglusib in additional indications.
+We may expend our limited resources to pursue a new product candidate or a particular indication for elraglusib and fail to capitalize
+on more profitable or successful alternatives. · Use of elraglusib or any future product candidates could be associated with side
+effects, adverse events or other properties or safety risks, which could delay or preclude regulatory appro

@@ -1,0 +1,75 @@
+Investment in our common stock involves substantial risks. See “Risk Factors” beginning on
+page 8 and other information included in this prospectus for a discussion of factors to consider carefully before deciding to invest
+in shares of our common stock. Proposed market symbol “HRLR” The number of shares of our common stock
+to be outstanding after this offering is based on 27,555,001 shares of our common stock outstanding as of December 19, 2023 and
+excludes as of that date: ● 155,000 shares of
+    common stock issuable upon exercise of outstanding stock purchase warrants at an exercise price of $0.60 per share; ● 350,000 shares of
+    common stock issuable upon exercise of outstanding stock options with a weighted average exercise price of $0.58 per share; ● 151,250 time-based restricted stock units vesting at the rate of approximately 4,583 RSUs per month
+through September 2026; ● 220,000 performance-based restricted stock
+units issued to employees subject to the completion of various performance milestones; ● shares
+    of common stock reserved for future issuance under our 2023 equity incentive plan; ● shares
+    of common stock issuable upon exercise of warrants to be issued to the representative of the underwriters as part of this
+    offering at an exercise price of $      (assuming an initial public offering price of $     per
+    share). 6 Summary
+Consolidated Financial Data The
+following tables summarizes our consolidated financial data as of and for (i) the nine month periods ended September 30, 2023
+and 2022 which have been derived from our unaudited condensed consolidated financial statements included elsewhere in this prospectus
+and (ii) the fiscal years ended December 31, 2022 and 2021 which have been derived from our audited consolidated financial statements
+included elsewhere in this prospectus. Our historical results are not necessarily indicative of the results that may be expected
+in the future for any period. You should read the consolidated financial data set forth below in conjunction with our consolidated
+financial statements and the accompanying notes and the information in the section titled “Management’s Discussion
+and Analysis of Financial Condition and Results of Operations” included elsewhere in this prospectus. The summary consolidated
+financial data included in this section is not intended to replace the consolidated financial statements and related notes included
+elsewhere in this prospectus. Consolidated
+Statements of Operations Data: Nine Months Ended September 30, Years Ended (unaudited) December 31, 2023 2022 2022 2021 Revenue $ 22,484,426 $ 11,628,721 $ 18,491,548 $ 13,445,065 Operating expenses Direct operating costs 10,129,561 4,550,784 7,542,798 1,513,601 General and administrative 7,521,418 4,857,241 7,232,256 5,356,021 Advertising and promotions 5,355,824 3,412,534 4,650,827 4,887,505 Product and software development 435,004 1,001,934 1,089,490 687,745 Loss on impairment of intangible assets — — 935,263 — Total operating expenses 23,441,807 13,822,493 21,450,634 12,444,872 (Loss) income from operations (957,381 ) (2,193,772 ) (2,959,086 ) 1,000,193 Interest expense, net (90,893 ) (76,936 ) (106,552 ) (2,004 ) Other expense (38,625 ) — — — (Loss) income before income taxes (1,086,899 ) (2,270,708 ) (3,065,638 ) 998,189 Income tax expense (benefit) 8,611 (2,539 ) (7,311 ) 19,743 Net (loss) income $ (1,095,510 ) $ (2,268,169 ) $ (3,058,327 ) $ 978,446 Other Comprehensive (loss) income Foreign current translation adjustments (120,673 ) (152,545 ) (9,430 ) 726,369 Comprehensive (loss) income $ (1,216,183 ) $ (2,420,714 ) $ (3,067,757 ) $ 1,704,815 Net (loss) income per common share Net (loss) income per common share – basic and diluted $ (0.04 ) $ (0.11 ) $ (0.14 ) $ 0.05 Weighted average common shares outstanding – basic and diluted 25,851,453 21,487,180 22,123,000 18,000,000 Consolidated Balance Sheet Data: At September 30, 2023 Actual Pro Forma (1) (unaudited) Cash and cash equivalents, and restricted cash (current and non-current) $ 3,993,777 Total assets 10,985,323 Total liabilities 7,187,329 Accumulated deficit (19,497,618 ) Total stockholders’ equity 3,797,994 (1) On a pro forma basis after giving effect to
+    the sale of shares of common stock by us in this offering at an assumed public offering price of $           per
+    share, after deducting estimated underwriting discounts and commissions and estimated offering expenses payable by us. 7 RISK
+FACTORS Any
+investment in our common stock involves a high degree of risk. You should carefully consider the risks and other uncertainties
+described below, which we believe represent certain of the material risks to our business, together with the information contained
+elsewhere in this prospectus, before you make a decision to invest in our common stock. The risks and uncertainties described
+below are not the only ones that we may face. Additional risks and uncertainties that we are unaware of, or that we currently
+believe are immaterial or unlikely to occur could also impair our operations. If any of the following events occur or any additional
+risks presently unknown to us actually occur, our business, financial condition, results of operations, and prospects could be
+materially and adversely affected. In that event, the price of our common stock could decline and you could lose all or part of
+your investment. Risks
+Related to Our Business Competition
+in the retail and online iCasino industry is intense and, as a result, we may fail to attract and retain users, which may negatively
+impact our operations and growth prospects. The
+industries in which we operate are characterized by intense competition. We compete against other providers of retail or online
+iCasino gaming, as well as against providers of online and mobile entertainment and leisure products more generally. Other companies
+producing online gaming and/or interactive entertainment products and services are often established and well-financed, and other
+well-capitalized companies may introduce competitive services. Our competitors may spend more money and time on developing and
+testing products and services, undertake more extensive marketing campaigns, adopt more aggressive pricing or promotional policies
+or otherwise develop more commercially successful products or services than ours, which could negatively impact our business.
+Our competitors may also develop products, features, or services that are similar to ours or that achieve greater market acceptance.
+Such competitors may also undertake more far-reaching and successful product development efforts or marketing campaigns or may
+adopt more aggressive pricing policies. Furthermore, in the future, new competitors, whether licensed or not, may enter the online
+iCasino gaming industries. If we are not able to maintain or improve our market share, or if our offerings do not continue to
+be popular, our business, financial condition, results of operations and prospects could be adversely affected. Competitive
+pressures may also adversely affect our margins. For example, as we expand the competition may increase, and we may need to increase
+our marketing expenses, thereby lowering our margins, in order to compete. We
+operate in the global entertainment and gaming industries within the broader entertainment industry with our business-to-consumer
+(“B2C”), offerings such as online casino wagering, social gaming, and our B2B offerings through our Casino Room platform
+and other services. Our users face a vast array of entertainment choices. Other forms of entertainment, such as television, movies,
+sporting events and in-person casinos, are more well-established and may be perceived by our users to offer greater variety, affordability,
+interactivity and enjoyment. We compete with these other forms of entertainment for the discretionary time and income of our users.
+If we are unable to sustain sufficient interest in our online casino wagering, and social gaming platforms in comparison to other
+forms of entertainment, including new forms of entertainment, our business, financial condition, results of operations and prospects
+could be adversely affected. In
+addition, our ability to achieve growth in revenue in the future will depend, in large part, upon our ability to attract new users
+to our offerings and retain existing users of our offerings, as well as continued user adoption of online casino more generally.
+Growth in the online casino and gaming industries and the level of demand for and market acceptance of our product offerings will
+be subject to a high degree of uncertainty. We cannot assure that consumer adoption of our product offerings will continue or
+exceed current growth rates, that the industry will achieve more widespread acceptance or that we will be able to retain our customers
+if we are unable to keep pace with technological innovation and customer experiences. Our
+business depends on the success, including win or hold rates, of existing and future online gaming products, which rely on a variety
+of factors and are not completely controlled by us. The
+online casino gaming industries are characterized by an element of chance. Our revenue is impacted by variations in the hold percentage
+(the ratio of net win to total amount wagered), or actual outcome, on the online casino games that we offer to our customersz.
+We use the hold percentage as an indicator of an online casino game’s performance against its expected outcome. Although
+each online casino game generally performs within a defined statistical range of outcomes, actual outcomes may vary for any given
+period, particularly in the short term however should normalize over time to the return to player percentage as designed by the
+game mathematics combined with the outcome from the random number generator. 8 In
+the short term, for online casino wagering, the element of chance may affect win rates (hold percentages); these win rates, may
+also be affect

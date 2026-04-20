@@ -1,0 +1,59 @@
+section included in this prospectus. We
+rely on a limited number of suppliers and contract manufacturers to produce components of our solutions. We have no long-term contracts with these manufacturers and purchase from them
+on a purchase-order basis. Our outsourced manufacturers generally procure the components directly from third-party suppliers. Our contract manufacturers handle fulfillment and shipment of our
+products, but do not hold inventory. Although we use a limited number of suppliers and contract manufacturers, we believe that we could find alternate suppliers or manufacturers if circumstances
+required us to do so, in
+part because a significant portion of the components required by our solutions is available off the shelf. For a discussion of the risks associated with our limited number of suppliers, see risk
+entitled "We rely on a limited number of suppliers and contract manufacturers, and our proprietary ShotSpotter sensors are manufactured by a single contract manufacturer" in the Risk Factors section
+included in this prospectus. We
+generated revenues of $11.8 million and $15.5 million for the years ended December 31, 2015 and 2016, respectively, a year-over-year increase of 32%. The increase
+was attributable to an increase in the number of customers. For 2015 and 2016, revenues from our ShotSpotter Flex public safety solution were approximately 98% of total revenues. While we intend to
+continue to devote resources to increase sales of our SST SecureCampus and ShotSpotter SiteSecure Solutions, we expect that revenues from our ShotSpotter Flex solution will continue to comprise a
+majority of our revenues going forward. For the year ended December 31, 2016, our two largest customers, the City of New York and the Puerto Rico Housing Administration, each accounted for 12%
+of our total revenues. We
+generated revenues of $3.0 million and $4.6 million for the three months ended March 31, 2016 and 2017, respectively, a year-over-year increase of 50%. For both
+of the three months ended March 31, 2016 and 2017, revenues from our ShotSpotter Flex public safety solutions represented 100% of our total revenues. For the three months ended March 31,
+2016, one customer, the Puerto Rico Housing Administration, accounted for 11% of our total revenues. For the three months ended March 31, 2017, our two largest customers, the City of New York
+and the Puerto Rico Housing Administration, accounted for 17% and 10%, respectively, of our total revenues. The increase in revenues from the three months ended March 31, 2016 to the three
+months ended March 31, 2017 was attributable to an increase in the number of customers. All of our revenues for 2015 and over 97% of our revenues for 2016 were derived from customers within the
+United States (including Puerto Rico and the U.S. Virgin Islands). Over 96% of our revenues for the three months ended March 31, 2017 were derived from customers within the United States
+(including Puerto Rico and the U.S. Virgin Islands). The remaining revenues were attributed to our customer in South Africa. We
+have not yet achieved profitability and had net losses of $6.2 million, $6.9 million and $1.6 million for the years ended December 31, 2015 and 2016 and
+the three months ended March 31, 2017, respectively. Our accumulated deficit was $80.8 million, $87.6 million and $89.2 million as of December 31, 2015 and 2016 and
+March 31, 2017, respectively. We
+have focused on rapidly growing our business and believe that its future growth is dependent on many factors, including our ability to increase our customer base, expand the coverage
+of our solutions among our existing customers, increase sales of our security solutions, and expand our international presence. Our future growth will primarily depend on the market acceptance for
+gunshot 52 Table of Contents detection
+solutions. Challenges we face in this regard include our target customers not having access to adequate funding sources, the fact that contracting with government entities can be complex,
+expensive time-consuming and the fact that our typical sales cycle is often very long and can be costly. To combat these challenges, we intend to continue to maintain our position as a market leader,
+invest in research and development, increase awareness of our solutions, and hire additional sales representatives to drive sales. In addition, we believe that entering into strategic partnerships
+with other service providers to cities and municipalities offers another potential avenue for expansion, particularly for our ShotSpotter Flex solution. We
+will also focus on expanding our business by increasing sales of our security solutions. By developing additional solutions through SST SecureCampus and ShotSpotter SiteSecure, we
+believe that our potential for growth has increased and that we are still in the early stages of penetrating the market for our security solutions. Our ability to penetrate these new markets will
+depend on the quality of our solutions and their perceived value as a risk management tool, as well as our ability to design our solutions to meet the demands of these customers. If these security
+solution markets do not develop as we expect, our revenues may not grow at the rate we expect. With
+respect to international sales, we believe that we have the potential to expand our coverage within South Africa and to pursue opportunities in Europe, South America and other
+regions of the world. By adding additional sales resources in strategic locations, we believe we will be better positioned to reach these markets. However, we recognize that we have limited
+international operational experience and currently operate only in three regions outside the United States: Puerto Rico, the U.S. Virgin Islands and South Africa. Operating successfully in
+international markets will require significant resources and management attention and will subject us to additional regulatory, economic and political risks. Moreover, we anticipate that different
+political and regulatory considerations that vary across different jurisdictions could extend what is already a lengthy sales cycle. Given
+the importance of these strategies and challenges we face, we expect to continue to incur losses in the near term and, if we are unable to achieve our growth objectives, we may not
+be able to achieve profitability. Key Business Metrics We focus primarily on two key business metrics in order to measure our operational performance and inform strategic decisions. The key business
+metrics presented below are
+calculated annually using internal data and may be calculated in a manner different than similar metrics used by other companies. Year Ended December 31, 2015 2016 Revenue retention rate 112 % 127 % Sales and marketing spend per $1.00 of new annualized contract value $ 0.37 $ 0.28 Revenue Retention Rate We calculate our revenue retention rate for a period by dividing the (a) total revenues for such year from those customers who were
+customers during the corresponding prior year by (b) the total revenues from all customers in the corresponding prior year. For the purposes of calculating our revenue retention rate, we count
+as customers all entities with which we had contracts in the applicable year. We focus on our revenue retention rate because we believe that this metric provides insight into revenue related to and
+retention of existing customers. If our revenue retention rate for a year exceeds 100%, as it did in the years presented above, this indicates a low churn and means that the revenues 53 Table of Contents retained
+during the year, including customer expansions, more than offset the revenues that we lost from customers that did not renew their contracts during the year. We measure revenue retention rate
+on an annual basis. Sales and Marketing Spend per $1.00 of New Annualized Contract Value We calculate sales and marketing spend as the total sales and marketing expense during a year divided by the first 12 months of contract
+value for contracts entered into during the same year. We use this metric to measure the efficiency of our sales and marketing operations in acquiring customers, renewing customer contracts and
+expanding their coverage areas. We measure sales and marketing spend on an annual basis. Components of Results of Operations Presentation of Financial Statements Our consolidated financial statements include the accounts of our wholly owned South African subsidiary, ShotSpotter (Pty) Ltd. All
+intercompany balances and transactions have been eliminated in consolidation. Revenues We derive substantially all of our revenues from subscription services. We recognize subscription fees ratably, on a straight-line basis, over
+the term of the subscription, which for new customers is typically initially one to five years in length. Customer contracts include one-time set-up fees for the set-up of our sensors in the
+customer's coverage areas, training and third-party integration licenses. These set-up fees are recognized ratably, on a straight-line basis, over the estimated customer life of five years. We
+generally invoice customers for 50% of the total contract value when the contract is fully executed and for the remaining 50% when the subscription service is operational and ready to
+go live – that is, when the customer has acknowledged the completion of all the deliverables in the signed customer acceptance form. All fees billed in advance of services being
+delivered are recorded as deferred revenue. For our public safety solution, our pricing model is based on a per-square-mile basis. For our security solutions, our pricing model is on a customized-site
+basis. As a result of our process for invoicing contracts and renewals upon execution, our cash flow from operations and accounts receivable can fluctuate due to timing of contract execution and
+timing of deployment. We
+generally invoice subscription service renewals for 100% of the total contract value when the ren

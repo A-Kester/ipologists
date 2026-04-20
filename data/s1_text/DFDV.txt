@@ -1,0 +1,80 @@
+See the section titled
+    “Risk Factors” of this prospectus and in the documents incorporated herein by reference for a discussion of certain factors
+    you should carefully consider before deciding to invest in shares of our CHAD Stock. Material
+    United States Federal Income Tax Considerations For a description of material
+    United States federal income tax consequences of purchasing, owning, and disposing of the CHAD Stock, see “Material United
+    States Federal Income Tax Considerations.” 13 Book-Entry
+    Form We will initially issue the CHAD Stock in the form of one or more global certificates registered in the name of Cede & Co., as nominee of The Depository Trust Company (which we refer to as “DTC”), which we will deposit with the transfer agent as custodian for DTC. Beneficial interests in global certificates will be shown on, and transfers of CHAD Stock represented by global certificates will be effected only through, the records maintained by DTC. Except in limited circumstances, we will not issue physical certificates representing any CHAD Stock. See “Description of Variable Rate Series C Perpetual Preferred Stock—Book Entry, Settlement and Clearance.” Shares
+    Outstanding After This Offering Immediately after the consummation of this offering,                shares of CHAD Stock, and 27,718,159 shares of our common stock will be outstanding. The number of shares of our common stock that will be outstanding immediately after this offering as shown above is based on 27,718,159 shares outstanding as of September 30, 2025. The number of shares outstanding as of September 30, 2025 as used throughout this prospectus, unless otherwise indicated, excludes: ● 1,483,992 shares of common
+    stock issuable upon exercise of stock options outstanding as of September 30, 2025 at a weighted average exercise price of $5.24
+    per share; ● 242,375 shares of common
+    stock issuable upon the vesting of restricted stock units outstanding as of September 30, 2025; ● 950,305 additional shares
+    of common stock available as of September 30, 2025 for future issuance under our 2023 Equity Incentive Plan; ● 1,832,128 shares of common
+    stock issuable upon the conversion of the convertible notes issued to PIPE investors under a purchase agreement entered into on April
+    4, 2025; ● 4,404,750 shares of common
+    stock issuable upon the exercise of the warrants issued to PIPE investors under a purchase agreement entered into on April 4, 2025; ● up to 5,300,453 shares
+    of common stock potentially issuable upon the conversion of our 5.50% Convertible Senior Notes due 2030 (subject to customary anti-dilution
+    adjustment provisions); ● up to 4,080,895 shares
+    of common stock potentially issuable upon the exercise of the prefunded warrants issued to PIPE investors under the Subscription
+    Agreements entered August 24, 2025; ● up to approximately 3,898,856
+    shares of common stock potentially issuable upon the exercise of the warrants which were distributed to the Company’s common
+    stockholders and noteholders on October 27, 2025; and ● up to 36,238,732 shares of common stock issuable under
+    the ELOC. 14 RISK
+FACTORS Investing
+in our securities involves a high degree of risk. You should carefully consider the risks and uncertainties described under “Risk
+Factors” in our most recent annual report on Form 10-K as supplemented or updated in our most recent quarterly report on Form 10-Q,
+any current report on Form 8-K, as well as any accompanying prospectus supplement, together with all of the other information included
+or incorporated by reference in this prospectus and in any accompanying prospectus supplement, including our financial statements and
+related notes, before deciding whether to purchase our securities. Our
+business, financial condition and results of operations could be materially and adversely affected by any or all of these risks or by
+additional risks and uncertainties not presently known to us or that we currently deem immaterial that may adversely affect us in the
+future. The Company is supplementing the risk factors previously disclosed in its Annual Report on Form 10-K for the year ended December
+31, 2024, as amended (the “Form 10-K”) with the following risk factors. These risk factors should be read in conjunction
+with the risk factors included in the Form 10-K. Risks
+Related to Our Business Our
+financial results and the market price of our Common Stock may be affected by the prices of digital assets that we hold. As
+part of our capital allocation strategy for assets that are not required to provide working capital for our ongoing operations, we have
+invested and will continue to invest in SOL and other digital assets. The price of digital assets has historically been subject to dramatic
+price fluctuations and is highly volatile. Moreover, digital assets, such as SOL, are relatively novel and the application of securities
+laws and other regulations to such assets is unclear in many respects. It is possible that regulators may interpret laws in a manner
+that adversely affects the liquidity or value of digital assets. Any
+decrease in the fair value of digital assets below our carrying value for such assets currently would require us to incur a loss due
+to the decrease in fair market value, and such charge could be material to our financial results for the applicable reporting period,
+which may create significant volatility in our reported earnings. Any decrease in reported earnings or increased volatility of such earnings
+could have a material adverse effect on the market price of our Common Stock. In addition, the application of generally accepted accounting
+principles in the United States, with respect to digital assets, may change in the future and could have a material adverse effect on
+our financial results and the market price of our common stock. In
+addition, if investors view the value of our common stock as dependent upon or linked to the value or change in the value of our digital
+asset holdings, the price of digital assets may significantly influence the market price of our common stock. The
+price of our Common Stock has been and may continue to be volatile and fluctuate substantially, which could result in substantial losses
+for purchasers of our Common Stock. Our
+stock price has been and is likely to continue to be volatile. The stock market in general has experienced extreme volatility that has
+often been unrelated to the operating performance of particular companies. With the adoption of our new SOL treasury strategy, we expect
+to see additional volatility. As a result of this volatility, you may not be able to sell your Common Stock. The market price for our
+Common Stock may be influenced by many factors, including: ● our digital asset treasury
+    strategy; ● the SOL developer community
+    and whether people continue to engage in building; ● the recruitment or departure of key personnel at SOL; 15 ● downtime and congestion of the SOL network; ● changes in staking rewards or validator incentives
+    in the SOL ecosystem; ● the success of competitive products to SOL, alternative
+    services or technologies in the blockchain and technology community; ● regulatory or legal developments in the United States
+    and other countries related to digital assets, blockchain and AI; ● variations in our financial
+    results or those of companies that are perceived to be similar to us that also have a SOL treasury strategy; ● general economic, industry
+    and market conditions in the cryptocurrency industry and broader macroeconomic trends related to the digital asset industry; and ● the other factors described
+    in this ‘‘Risk Factors’’ section and in the “Risk Factors” section of our other SEC filings,
+    including our most recent annual report on Form 10-K. Our
+digital asset holdings are less liquid than our existing cash and cash equivalents and may not be able to serve as a source of liquidity
+for us to the same extent as cash and cash equivalents. We are also subject to the credit risk of custodians. Historically,
+crypto markets have been characterized by significant volatility in price, limited liquidity and trading volumes compared to sovereign
+currencies markets, relative anonymity, a developing regulatory landscape, potential susceptibility to market abuse and manipulation,
+compliance and internal control failures at exchanges, and various other risks inherent in their entirely electronic, virtual form and
+decentralized network. During times of market instability, we may not be able to sell our digital asset holdings at favorable prices
+or at all. Further, we hold digital assets with centralized custodians and transact with trade execution partners. These entities do
+not have the same protections as are available to cash or securities deposited with or transacted by institutions subject to regulation.
+For example, U.S. banks are insured by the Federal Deposit Insurance Corporation (“FDIC”) up to $250,000 per depositor in
+the case of the bank’s insolvency. U.S. broker-dealers are covered by the Securities Investor Protection Corporation (“SIPC”),
+which ensures recovery of the securities by the depositor. In contrast, cryptocurrency custodians do not offer such protections. If a
+custodian were to become insolvent, it is possible that we face delays or difficulties obtaining our digital assets. Moreover, there
+have been a number of instances in which custodians have used customer funds to fund their own operations. If that were the case with
+our custodian and the custodian were to become insolvent and file for bankruptcy, we may not be able to obtain all of the digital assets
+that we had deposited with the custodian. Even if we were to obtain our digital assets, it may require a considerable amount of time,
+which could adversely impact our financial stability. Apart
+from the risk of insolvency of the custodian, there is also a risk of custodians freezing withdr

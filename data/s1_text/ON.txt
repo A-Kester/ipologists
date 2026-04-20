@@ -1,0 +1,142 @@
+You should carefully consider the risks described below and
+other information in this prospectus before making any decision
+to invest in our common stock. If any of the following risks
+actually occurs, our business, financial condition or operating
+results could be materially adversely affected. In this case, the
+ trading price of our common stock could decline, and you could
+lose all or part of your investment. Risks Related to Our Business Cyclical Industry—If Our Industry Were To Experience A
+	 Downturn In The Business Cycle, Our Revenues Could Be Adversely
+	Affected. The semiconductor industry is highly cyclical and is generally
+characterized by average selling price fluctuations. Since the
+fourth quarter of 1997, we have experienced significant declines
+in the pricing of our products as customers reduced demand and
+manufacturers reduced prices to avoid a significant decline in
+capacity utilization. We believe these pricing declines were due
+primarily to the Asian economic crisis and excess semiconductor
+manufacturing capacity. Although the semiconductor market has
+recently improved, we cannot assure you that these improvements
+are sustainable or will continue or that the semiconductor market
+ will not experience subsequent, and possibly more severe and/or
+prolonged, downturns in the future. We cannot assure you that any
+ future downturn in the semiconductor market will not have a
+material adverse effect on our revenues. Short-Term Performance—Fluctuations In Our Quarterly
+	Operating Results May Cause Our Stock Price To Decline. Given the nature of the markets in which we participate, we
+cannot reliably predict future revenues and profitability, and
+unexpected changes may cause us to adjust our operations. A high
+proportion of our costs are fixed, due in part to our significant
+ sales, research and development and manufacturing costs. Thus,
+small declines in revenue could disproportionately affect our
+operating results in a quarter. Factors that could affect our
+quarterly operating results include: • the timing and size of orders from our customers, including
+	cancellations and reschedulings; • the timing of introduction of new products; • the gain or loss of significant customers, including as a result
+	of industry consolidation; • seasonality in some of our target markets; • changes in the mix of products we sell; • changes in demand by the end users of our customers’
+	products; • market acceptance of our current and future products; • variability of our customers’ product life cycles; • changes in manufacturing yields or other factors affecting the
+	cost of goods sold, such as the cost and availability of raw
+	materials and the extent of utilization of manufacturing
+	capacity; • changes in the prices of our products, which can be affected by
+	the level of our customers’ and end users’ demand,
+	technological change, product obsolescence or other factors; and • cancellations, changes or delays of deliveries to us by our
+	third-party manufacturers, including as a result of the
+	availability of manufacturing capacity and the proposed terms of
+	manufacturing arrangements. New Product Development And Technological Change—An
+	Inability To Introduce New Products Could Adversely Affect Us,
+	And Changing Technologies Or Consumption Patterns Could Reduce
+	The Demand For Our Products. Rapidly changing technologies and industry standards, along with
+frequent new product introductions, characterize the industries
+that are currently the primary end-users of semiconductors. As
+these industries evolve and introduce new products, our success
+will depend on our ability to adapt to such changes in a timely 8 Table of Contents and cost-effective manner by designing, developing,
+manufacturing, marketing and providing customer support for our
+own new products and technologies. We cannot assure you that we will be able to identify changes in
+the product markets of our customers and end-users and adapt to
+such changes in a timely and cost-effective manner. Nor can we
+assure you that products or technologies that may be developed in
+ the future by our competitors and others will not render our
+products or technologies obsolete or noncompetitive. A
+fundamental shift in technologies or consumption patterns in our
+existing product markets or the product markets of our customers
+or end users could have a material adverse effect on our business
+ or prospects. Competition—Competition In Our Industry Could Prevent
+	Us From Maintaining Our Level Of Revenues And From Raising Prices
+	 To Reflect Increases In Costs. The semiconductor industry, particularly the market for
+semiconductor components, is highly competitive. Although only a
+few companies compete with us in all of our product lines, we
+face significant competition within each of our product lines
+from major international semiconductor companies as well as
+smaller companies focused on specific market niches. Many of
+these competitors have substantially greater financial and other
+resources than we have with which to pursue development,
+engineering, manufacturing, marketing and distribution of their
+products and are better able than we are to withstand adverse
+economic or market conditions. In addition, companies not
+currently in direct competition with us may introduce competing
+products in the future. Significant competitors in the discrete
+market include International Rectifier, Philips, Rohm, Siliconix,
+ ST Microelectronics and Toshiba. Significant competitors in the
+standard analog markets include Analog Devices, Fairchild, Linear
+ Technology, Maxim Integrated Products, National Semiconductor,
+ST Microelectronics and Texas Instruments. Significant
+competitors in the standard logic product market include
+Fairchild, Hitachi, Philips, Texas Instruments and Toshiba. The
+semiconductor components industry has also been undergoing
+significant restructuring and consolidations that could adversely
+ affect our competitiveness. Because our components are often building block semiconductors
+that in some cases can be integrated into more complex integrated
+ circuits, we also face competition from manufacturers of
+integrated circuits, application-specific integrated circuits and
+ fully customized integrated circuits, as well as customers who
+develop their own integrated circuit products. We compete in different product lines to various degrees on the
+basis of price, quality, technical performance, product features,
+ product system compatibility, customized design, availability,
+delivery timing and reliability and sales and technical support.
+Gross margins in the industry vary by geographic region depending
+ on local demand for the products in which semiconductors are
+used, such as personal computers, industrial and
+telecommunications equipment, consumer electronics and automotive
+ goods. In regions where there is a strong demand for such
+products, price pressures may also emerge as competitors attempt
+to gain a greater market share by lowering prices. Our ability to
+ compete successfully depends on elements both within and outside
+ of our control, including industry and general economic trends. Manufacturing Risks—Unless We Maintain Manufacturing
+	Efficiency And Avoid Manufacturing Difficulties, Our Future
+	Profitability Could Be Adversely Affected. Manufacturing semiconductor components involves highly complex
+processes that require advanced and costly equipment. We and our
+competitors continuously modify these processes in an effort to
+improve yields and product performance. Impurities or other
+difficulties in the manufacturing process can lower yields. Our
+manufacturing efficiency will be an important factor in our
+future profitability, and we cannot assure you that we will be
+able to maintain our manufacturing efficiency or increase
+manufacturing efficiency to the same extent as our competitors. From time to time we have experienced difficulty in beginning
+production at new facilities or in effecting transitions to new
+manufacturing processes that have caused us to suffer delays in
+product deliveries or reduced yields. We cannot assure you that
+we will not experience manufacturing problems in achieving
+acceptable yields or experience product delivery delays in the
+future as a result of, among other things, capacity constraints,
+construction delays, upgrading or expanding existing facilities
+or changing our process 9 Table of Contents technologies, any of which could result in a loss of future
+revenues. Our results of operations could also be adversely
+affected by the increase in fixed costs and operating expenses
+related to increases in production capacity if revenues do not
+increase proportionately. Lack Of Independent Identity—We Have Recently
+	Established A Trade Name Identity Independent Of Motorola. A
+	Failure To Establish The Same Level Of Goodwill As Motorola Could
+	 Harm Our Long-Term Business Prospects. Our future success and competitive position depend, in part, on
+our ability to establish goodwill in our products and services
+and to associate that goodwill with our trade name, ON
+Semiconductor™. In order for us to establish goodwill,
+customers must acknowledge the quality of our products and
+services and associate our trade name with that quality and those
+ products and services. Prior to our recapitalization, all of the
+ products and services we offered were sold, distributed and
+advertised under the Motorola trade name. Consequently, the
+goodwill of the Motorola trade name may have been associated, in
+part, with success of those products and services. We have begun marketing our products under the ON
+Semiconductor™ name. However, for one year after our
+recapitalization, an agreement we have with Motorola gives us the
+ limited ability to use the Motorola trade name in connection
+with the sale, distribution and advertisement of some products we
+ offer. We are presently using our best efforts to cease using
+licensed Motorola trademarks as soon as commercially reasonable.
+If t

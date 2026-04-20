@@ -1,0 +1,180 @@
+INVESTING IN OUR SHARES OF COMMON STOCK INVOLVES A HIGH DEGREE OF RISK. IF
+ANY OF THE FOLLOWING RISKS OCCUR, THE MARKET PRICE OF OUR SHARES OF COMMON STOCK
+COULD DECLINE AND YOU COULD LOSE ALL OR PART OF YOUR INVESTMENT.
+
+                        RISKS RELATED TO OUR OPERATIONS
+
+OUR LIMITED OPERATING HISTORY MAKES IT DIFFICULT TO EVALUATE OUR FUTURE
+PROSPECTS.
+
+    We were founded in 1997 and have a limited operating history, which makes an
+evaluation of our future prospects difficult. In addition, the revenue and
+income potential of our business and markets are unproven. We began shipments of
+our first product in December 1998. Accordingly, we face risks and difficulties
+frequently encountered by early stage companies in new and rapidly evolving
+markets. If we do not successfully address these risks and difficulties, we
+would likely not achieve anticipated levels of revenue growth. In this event, we
+would be unable to achieve profitability or build a sustainable business.
+
+WE HAVE INCURRED NET LOSSES SINCE OUR INCEPTION, AND WE MAY NOT ACHIEVE OR
+SUSTAIN ANNUAL PROFITABILITY.
+
+    We incurred net losses of approximately $376,000, $1.6 million and $4.9
+million in 1997, 1998 and 1999, respectively, and had an accumulated deficit of
+approximately $6.9 million as of December 31, 1999. In the future we expect our
+research and development and selling, general and administrative expenses to
+increase. In addition, we will incur substantial non-cash charges relating to
+the amortization of deferred stock compensation. Accordingly, we expect to
+continue to incur additional operating losses for at least the next 12 months,
+and these losses may be substantial. Although we have experienced revenue growth
+in recent quarters, this growth is not necessarily indicative of future
+operating results, and we cannot assure you that we will be able to sustain the
+growth in our revenues. We cannot be certain that we will achieve profitability
+or that, if we do, that we can sustain or increase profitability on a quarterly
+or annual basis in the future or at all. This may in turn cause the price of our
+common stock to decline. In addition, if we do not achieve or sustain
+profitability in the future, we may be unable to continue our operations.
+
+FLUCTUATIONS IN OUR QUARTERLY OPERATING RESULTS MAKE IT DIFFICULT TO PREDICT OUR
+FUTURE PERFORMANCE AND MAY RESULT IN VOLATILITY IN THE MARKET PRICE OF OUR
+COMMON STOCK.
+
+    Our quarterly operating results are likely to vary significantly in the
+future based on a number of factors related to our industry and the markets for
+our products, some of which are not in our control and any of which may cause
+the price of our common stock to fluctuate. These factors include:
+
+    - demand for flat panel monitors, advanced television displays, multimedia
+      projectors and Internet appliances;
+
+    - demand for our products and the timing of orders for our products;
+
+    - the deferral of customer orders in anticipation of our new products or
+      product enhancements or due to a reduction in our customers' end demand;
+
+    - the loss of one or more of our key distributors or customers or a
+      reduction, delay or cancellation of orders from one or more of these
+      parties;
+
+    - changes in the available production capacity at the semiconductor
+      fabrication foundries that manufacture our products and changes in the
+      costs of manufacturing;
+
+    - our ability to provide adequate supplies of our products to customers and
+      avoid excess inventory;
+
+                                       7 - announcement or introduction of products and technologies by our
+      competitors;
+
+    - changes in product mix, product costs or pricing, or distribution
+      channels; and
+
+    - general economic conditions and economic conditions specific to the
+      personal computer, display and semiconductor markets.
+
+    These factors are difficult to forecast, and these or other factors could
+seriously harm our business. We anticipate the rate of new orders may vary
+significantly from quarter to quarter. Our operating expenses and inventory
+levels are based on our expectations of future revenues and our operating
+expenses are relatively fixed in the short term. Consequently, if anticipated
+sales and shipments in any quarter do not occur when expected, operating
+expenses and inventory levels could be disproportionately high, and our
+operating results for that quarter and, potentially, future quarters may be
+negatively impacted. Any shortfall in our revenues would have a direct impact on
+our business. In addition, fluctuations in our quarterly results could adversely
+affect the price of our common stock in a manner unrelated to our long-term
+operating performance. Because our operating results are volatile and difficult
+to predict, you should not rely on the results of one quarter as an indication
+of our future performance. It is likely that in some future quarter our
+operating results will fall below the expectations of securities analysts and
+investors. In this event, the price of our common stock may decline
+significantly.
+
+IF WE DO NOT ACHIEVE ADDITIONAL DESIGN WINS IN THE FUTURE, OUR ABILITY TO GROW
+WOULD BE SERIOUSLY LIMITED.
+
+    Our future success will depend on developers of advanced display devices
+designing our products into their systems. To achieve design wins we must define
+and deliver cost-effective, innovative and integrated solutions. Once a
+supplier's products have been designed into a system, the developer may be
+reluctant to change its source of components due to the significant costs
+associated with qualifying a new supplier. Accordingly, the failure on our part
+to obtain additional design wins with leading branded manufacturers or
+integrators, and to successfully design, develop and introduce new products and
+product enhancements could harm our business, financial condition and results of
+operations.
+
+    Achieving a design win does not necessarily mean that a developer will order
+large volumes of our products. A design win is not a binding commitment by a
+developer to purchase our products. Rather, it is a decision by a developer to
+use our products in the design process of that developer's products. Developers
+can choose at any time to discontinue using our products in their designs or
+product development efforts. If our products are chosen to be incorporated into
+a developer's products, we may still not realize significant revenues from that
+developer, if that developer's products are not commercially successful.
+
+WE MAY NOT BE ABLE TO DEVELOP NEW PRODUCTS OR PRODUCT ENHANCEMENTS IN A TIMELY
+MANNER.
+
+    Successful development and timely introduction of new or enhanced products
+depends on a number of factors, including:
+
+    - accurate prediction of market requirements and evolving customer and
+      industry standards;
+
+    - development of advanced technologies and capabilities;
+
+    - definition of new products which satisfy customer requirements;
+
+    - timely completion and introduction of new product designs;
+
+    - use of advanced foundry processes and achievement of high manufacturing
+      yields; and
+
+    - market acceptance of the new products.
+
+As a result of the increased challenges associated with more complex
+mixed-signal designs, we have experienced increased development time and delays
+in introducing new products. We will not always
+
+                                       8 succeed in developing new products or product enhancements or do so in a timely
+manner. If we are not able to successfully develop and introduce our products in
+a timely manner, our business and results of operations will be adversely
+affected.
+
+INTEGRATION OF SOFTWARE IN OUR PRODUCTS ADDS COMPLEXITY AND COST WHICH MAY
+AFFECT OUR ABILITY TO ACHIEVE DESIGN WINS AND MAY AFFECT OUR PROFITABILITY.
+
+    Our products incorporate software and software development tools. The
+integration of software adds complexity, may extend our internal development
+programs and could impact our customers' development schedules. This complexity
+requires increased coordination between hardware and software development
+schedules and may increase our operating expenses without a corresponding
+increase in product revenue. This additional level of complexity lengthens the
+sales cycle and may result in customers selecting competitive products requiring
+less software integration.
+
+OUR HIGHLY INTEGRATED PRODUCTS ARE DIFFICULT AND COSTLY TO MANUFACTURE.
+
+    The manufacture of semiconductors is a complex process and it is often
+difficult for semiconductor foundries to achieve acceptable product yields.
+Product yields depend on both product design and the manufacturing process
+technology unique to the semiconductor foundry. Given the increasing demands to
+integrate additional system-level functionality and provide mixed-signal
+system-on-a-chip solutions, our products are becoming more complex and
+increasingly difficult to design, develop and manufacture. Because our products
+are highly integrated and incorporate mixed signal and embedded memory
+technology, yields are further reduced. Since lower yields may result from
+either design or process difficulties, identifying yield problems may occur only
+when our integrated circuits can be analyzed and tested in a system after they
+have been manufactured. Failure to achieve expected yields may result in an
+increase in our cost and delays in the availability of our products.
+
+A SIGNIFICANT AMOUNT OF OUR REVENUES COMES FROM A FEW CUSTOMERS AND DISTRIBUTORS
+AND ANY DECREASE IN REVENUES FROM, OR LOSS OF ANY OF, THESE CUSTOMERS OR
+DISTRIBUTORS COULD SIGNIFICANTLY REDUCE OUR TOTAL REVENUES.
+
+    We are and will continue for the foreseeable future to be dependent on a
+limited number of large customers for a substantial portion of our revenues. In
+1999, sales to Tokyo Electron Device Limited, our Japanese distributor,
+represented 54.8% of our total revenue and sales to MicroMax International

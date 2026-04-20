@@ -1,0 +1,169 @@
+Investing in our securities involves significant risks. Before
+making a decision whether to invest in our securities, please read
+the information contained in or incorporated by reference under the
+heading “ Risk
+Factors ” in this
+prospectus, the documents we have incorporated by reference herein,
+and under similar headings in other documents filed after the date
+hereof and incorporated by reference into this prospectus. See
+“ Incorporation of Certain
+Information by Reference ”
+and “ Where You Can Find More
+Information .” Nasdaq Capital Market Symbol “BLIN.” -3- Table of Contents The number of shares of our common stock that will
+be outstanding immediately after the offering is based on 4,241,225
+shares outstanding as of September 18 , 2018. Unless we specifically state otherwise,
+the share information in this prospectus excludes: ● 459,846
+shares of our common stock issuable upon the exercise of stock
+options outstanding at a weighted-average exercise price of $6.81
+per share; ● 584,308
+shares of common stock issuable upon the exercise of warrants at a
+weighted-average exercise price of $6.58 per share; ● 260,534
+shares of common stock reserved for future issuance under our 2016
+Plan; ● 161,455 shares of common stock issuable upon
+conversion of 262,364 outstanding shares of Series A Convertible
+Preferred Stock
+(“ Series A
+Preferred ”);
+and ● shares of common stock issuable upon the
+exercise of the Representative’s Warrants to be issued to the
+representative of the underwriters upon closing of this
+offering. The above numbers reflect the 1-for-5 stock split effectuated by
+the Company on July 24, 2017. Unless otherwise indicated, all information in this prospectus
+assumes: ● no conversion of
+outstanding shares of Series A Preferred; ● no exercise of
+outstanding warrants or the outstanding stock options issued under
+the 2016 Plan, as described above; and ● no exercise by the
+underwriters of their option to purchase up to an
+additional               
+shares of common stock from us in this offering to cover
+over-allotments, if any. -4- SUMMARY FINANCIAL DATA The following tables set forth a summary of our historical
+financial data as of, and for the periods ended on, the dates
+indicated. We have derived the statements of operations data for
+the years ended September 30, 2017 and 2016 from our audited
+financial statements and the related notes appearing in our Annual
+Report on Form 10-K for the year ended September 30, 2017 (the
+“ 2017
+10-K ”), which is
+incorporated by reference into this prospectus. The statements of
+operations data for the nine-months ended June 30, 2018 and 2017
+and the balance sheet data as of June 30, 2018 have been derived
+from our unaudited financial statements appearing in our Quarterly
+Report on Form 10-Q for the period ended June 30, 2018 (the “June
+10-Q ”), which is
+incorporated by reference into this prospectus. In the opinion of
+the management, the unaudited data reflects all adjustments,
+consisting of normal and recurring adjustments, necessary for a
+fair presentation of results as of and for these
+periods. The following summary financial data should be read together with
+our consolidated financial statements and related notes appearing
+in the 2017 10-K and in the June 10-Q, as well as in the sections
+entitled “ Management’s
+Discussion and Analysis of Financial Condition and Results of
+Operations ” in each of the
+2017 10-K and in our June 10-Q, each of which are incorporated by
+reference into this prospectus. Our audited consolidated financial
+statements have been prepared in U.S. dollars in accordance with
+U.S. generally accepted accounting principles. Our historical results for any prior period are
+not indicative of our future results, and our results for the
+nine-months ended June 30, 2018 may not be indicative of our
+results for the year ending September 30, 2018. -5- Table of Contents Statement of Operations Data: (dollars in thousands) Nine Months Ended Years Ended June 30, September 30, 2018 2017 2017 2016 Revenue (unaudited ) Digital
+engagement services $ 5,559 $ 6,298 $ 8,498 $ 8,520 Subscription
+and perpetual licenses 4,367 5,018 6,788 6,084 Managed
+service hosting 839 743 1,007 1,291 Total revenue 10,765 12,059 16,293 15,895 Cost of revenue Digital
+engagement services 3,666 3,569 4,911 5,143 Subscription
+and perpetual licenses 1,503 1,468 1,969 1,835 Managed
+service hosting 213 209 280 304 Total
+cost of revenue 5,382 5,246 7,160 7,282 Gross
+profit 5,383 6,813 9,133 8,613 Operating expenses Sales
+and marketing 3,045 3,661 4,807 4,934 General
+and administrative 2,156 2,395 3,256 3,456 Research
+and development 1,221 1,175 1,587 1,578 Depreciation
+and amortization 305 468 582 1,309 Goodwill
+impairment 4,615 - - - Restructuring
+expenses 187 249 286 879 Total operating expenses 11,529 7,948 10,518 12,156 Loss
+from operations (6,146 ) (1,135 ) (1,385 ) (3,543 ) Interest
+and other expense, net (115 ) (122 ) (201 ) (914 ) Loss
+on inducement of debt (convertible notes) - - - (3,414 ) Loss
+before income taxes (6,261 ) (1,257 ) (1,586 ) (7,871 ) (Benefit)/provision
+for income taxes 11 13 16 (47 ) Net
+loss $ (6,272 ) $ (1,270 ) $ (1,602 ) $ (7,824 ) Dividends
+on convertible preferred stock (231 ) (207 ) (281 ) (131 ) Net
+loss applicable to common shareholders (6,503 ) (1,477 ) (1,883 ) (7,955 ) Net
+loss per share attributable to common shareholders: Basic
+and diluted $ (1.54 ) $ (0.36 ) $ (0.45 ) $ (4.20 ) Number
+of weighted average shares outstanding: Basic
+and diluted 4,222,848 4,129,481 4,147,140 1,893,003 -6- Table of Contents Consolidated Balance Sheet Data: As of June 30, 2018 Pro Forma (unaudited, dollars in thousands) Actual Pro Forma (1) As Adjusted (2) Cash
+and cash equivalents $ 427 $ 1,187 $ Total
+assets 11,422 12,182 Debt, current portion, less unamortized discount and issuance
+costs 198 958 Debt,
+net of current portion 2,810 2,810 Total
+liabilities 6,090 6,850 Total stockholders’ equity 5,332 5,332 (1) T he pro forma figures give effect to the sale by
+the Company of certain term promissory notes (the
+“ Term
+Notes ”) in the aggregate
+principal amount of $941,176, which sales occurred
+on September 7, 2018. After recording $141,176 of original
+issue discount and debt issuance costs of $40,000, the Company
+received net cash proceeds in the aggregate amount of $760,000 for
+the Term Notes. The original issue discount and debt issuance costs
+are recorded as a contra liability and will be amortized over the
+life of the Term Notes. The Term Notes have an original issue
+discount of fifteen percent (15%), bear interest at a rate of
+twelve percent (12%) per annum, and mature on the earlier to occur
+of (i) six months from September 7, 2018, or (ii) the consummation
+of a debt or equity financing resulting in gross proceeds to the
+Company of at least $3.0 million. In connection with the issuance of the Term Notes,
+each purchaser also entered into a Subordination Agreement with the
+Company’s lenders, Heritage Bank of Commerce and Montage
+Capital II, L.P. (the “ Lenders ”), pursuant to which the purchasers agreed
+to subordinate (i) all of the Company’s indebtedness and
+obligations to the purchasers, whether presently existing or
+arising in the future, to all of the Company’s indebtedness
+the Lenders and (ii) all of the purchasers’ security
+interests, if any, to all of the Lenders’ security interests
+in property of the
+Company. (2) Pro forma as adjusted balance sheet data reflects the items
+described in footnote 1 and our sale
+of                shares
+of common stock in this offering at an assumed public offering
+price of
+$            per
+share, which was the last reported sale price of our common stock
+on the Nasdaq Capital Market on September   , 2018, after
+deducting underwriting discounts and commissions and estimated
+offering expenses payable by us as well as the repayment of the
+Term Notes out of proceeds of the offering. Pro forma as adjusted
+balance sheet data is illustrative only and will change based on
+the actual public offering price and other terms of this offering
+determined at pricing. Each $0.25 increase (decrease) in the
+combined public offering price per share would increase (decrease)
+the amount of cash and cash equivalents, working capital, total
+assets, and total stockholders’ equity by approximately
+$      million, assuming the number of
+securities offered by us, as set forth on the cover page of this
+prospectus, remains the same, and after deducting underwriting
+discounts and commissions, estimated offering expenses payable by
+us, and the amounts necessary to repay the Term Notes. We may also
+increase or decrease the number of securities to be issued in this
+offering. Each increase (decrease) of 1.0 million shares
+offered by us would increase (decrease) the as adjusted amount of
+cash and cash equivalents, working capital, total assets and total
+stockholders’ deficit by approximately
+$      million, assuming the assumed
+public offering price remains the same, and after deducting
+underwriting discounts and commissions, estimated offering expenses
+payable by us, and the amounts necessary to repay the Term Notes.
+The pro forma information discussed above is illustrative only and
+will be adjusted based on the actual public offering price and
+other terms of this offering determined between us and the
+underwriters at pricing. -7- Table of Contents RIS K FACTORS An
+investment in our securities involves a high degree of risk. You
+should consider the risks, uncertainties and assumptions discussed
+below as well as all of the other information contained or
+incorporated by reference in this prospectus, including our
+Quarterly Reports on Form 10-Q for the quarters ended December 31,
+2017, March 31, 2018 and June 30, 2018, and our Annual Report on
+Form 10-K for the fiscal year ended September 30, 2017. See
+“Incorporation of Certain Information by Reference” and
+“Where You Can Find More Information.” It is not possible to predict or identify all such
+risks. Consequently, we could al

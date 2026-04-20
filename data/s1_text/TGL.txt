@@ -1,0 +1,76 @@
+An investment in our common stock involves a high degree of risk. See
+    the information contained in or incorporated by reference under “ Risk Factors ” on page 11 of this prospectus
+    supplement and under similar headings in the other documents that are incorporated by reference herein, as well as the other
+    information included in or incorporated by reference in this prospectus supplement and the accompanying prospectus. The Nasdaq Capital Market symbol TGL Transfer Agent and Registrar VStock Transfer LLC 10 RISK FACTORS Investing in our securities
+involves a high degree of risk. Before investing in our securities, you should carefully consider the risks described below and discussed
+under the section captioned “Risk Factors” contained in our Annual Report on Form 10-K for the fiscal year ended June 30,
+2024 as well as any amendment or update to our risk factors reflected in subsequent filings with the SEC. Each of these risk factors,
+either alone or taken together, could adversely affect our business, operating results and financial condition, as well as adversely affect
+the value of an investment in our common stock. There may be additional risks that we do not presently know of or that we currently believe
+are immaterial, which could also impair our business and financial position. If any of the events described below were to occur, our financial
+condition, our ability to access capital resources, our results of operations and/or our future growth prospects could be materially and
+adversely affected and the market price of our common stock could decline. As a result, you could lose some or all of any investment you
+may make in our common stock. Risks Related to Our
+Business There is substantial doubt about our ability
+to continue as a going concern. We have incurred substantial operating losses
+since our inception. For the year ended June 30, 2024, we had approximately $200,013 cash on hand, an accumulated deficit of approximately
+$38.0 million at June 30, 2024, a net loss of approximately $6.59 million for the year ended June 30, 2024, and approximately $4.7 million
+net cash used by operating activities for the year ended June 30, 2024. For the three month period ended September 30, 2024, we had approximately
+$72,561cash on hand, an accumulated deficit of approximately $39.0 million at September 30, 2024, a net loss of approximately $950,707
+for the three month period ended September 30, 2024, and approximately $(976,319) million net cash used by operating activities for the
+three month period ended September 30, 2024. The accompanying consolidated financial statements have been prepared on a going concern
+basis, which contemplates the realization of assets and satisfaction of liabilities in the normal course of business. We anticipate incurring
+additional losses until such time, if ever, that we will be able to effectively market our products. Also, we will seek to obtain additional capital
+through the sale of debt or equity financing or other arrangements to fund operations; however, there can be no assurance that we will
+be able to raise needed capital under acceptable terms, if at all. The sale of additional equity may dilute existing stockholders and
+newly issued shares may contain senior rights and preferences compared to currently outstanding shares of common stock. Issued debt securities
+may contain covenants and limit our ability to pay dividends or make other distributions to stockholders. If we are unable to obtain such
+additional financing, future operations would need to be scaled back or discontinued. Due to these factors, management believes that there
+is substantial doubt in our ability to continue as a going concern for twelve months from the issuance of these consolidated financial
+statements. If we have insufficient capital to operate our
+business under our current business plan, we have contingency plans for our business that include, among other things, the delay of the
+introduction of new products and a reduction in headcount which is expected to substantially reduce revenue growth and delay our profitability.
+There can be no assurance that our implementation of these contingency plans will not have a material adverse effect on our business. We have a limited operating history in an
+evolving industry, which makes it difficult to evaluate our future prospects and may increase the risk that we will not be successful. We have a limited operating history on which to
+base an evaluation of our business and prospects. We are subject to all the risks inherent in a small company seeking to develop, market
+and distribute new services, particularly companies in evolving markets such as the internet, technology and payment systems. The likelihood
+of our success must be considered, in light of the problems, expenses, difficulties, complications and delays frequently encountered in
+connection with the development, introduction, marketing and distribution of new products and services in a competitive environment. Such risks for us include, but are not limited
+to, dependence on the success and acceptance of our services, the ability to attract and retain a suitable client base and the management
+of growth. To address these risks, we must, among other things, generate increased demand, attract a sufficient clientele base, respond
+to competitive developments, increase the “ZCITY” brand names’ visibility, successfully introduce new services, attract,
+retain and motivate qualified personnel and upgrade and enhance our technologies to accommodate expanded service offerings. In view of
+the rapidly evolving nature of our business and our limited operating history, we believe that period-to-period comparisons of our operating
+results are not necessarily meaningful and should not be relied upon as an indication of future performance. We are therefore subject to many of the risks
+common to early-stage enterprises, including under-capitalization, cash shortages, limitations with respect to personnel, financial and
+other resources and lack of revenues. 11 If we fail to raise capital when needed
+it will have a material adverse effect on our business, financial condition and results of operations. We have limited revenue-producing operations and
+will require the proceeds from this offering to execute our full business plan. We believe the proceeds from our November 2023 offering
+and this offering plus other transactions will be sufficient to cover our funding needs through the middle of the second calendar quarter
+of our fiscal year 2025 (i.e., the fourth quarter of the year ending December 31, 2024). Further, no assurance can be given if additional
+capital is needed as to how much additional capital will be required or that additional financing can be obtained, or if obtainable, that
+the terms will be satisfactory to us, or that such financing would not result in a substantial dilution of shareholder interest. A failure
+to raise capital when needed would have a material adverse effect on our business, financial condition and results of operations. In addition,
+debt and other equity financing may involve a pledge of assets and may be senior to interests of equity holders. Any debt financing secured
+in the future could involve restrictive covenants relating to capital raising activities and other financial and operational matters,
+which may make it more difficult for us to obtain additional capital or to pursue business opportunities, including potential acquisitions.
+If adequate funds are not obtained, we may be required to reduce, curtail or discontinue operations. None of our material contracts are long
+term and if not renewed could have a material adverse effect on our business. We have entered into material contracts with a
+number of companies that directly or indirectly provide the goods and services that appear on our ZCITY App. The majority of these contracts
+can be terminated by any party with 30 days’ notice. The contract with iPay88 (the “iPay88 Agreement”), which provides
+the payment gateway for many of the brands that can be accessed through the ZCITY App, has no termination clause which means that iPay88
+could terminate the iPay88 Agreement without any notice. If one or more of these contracts were not renewed or were terminated and we
+were not able to enter into agreements with others that could replace these services, the ZCITY App could lose material features and in
+turn we could find it harder to maintain and grow our user base, which would have a material adverse effect on our business. For a description
+of these material contracts See “ Business-About ZCITY App .” We rely on email, internet search engines
+and application marketplaces to drive traffic to our ZCITY App, certain providers of which offer products and services that compete directly
+with our products. If links to our applications and website are not displayed prominently, traffic to our ZCITY App could decline and
+our business would be adversely affected. Email continues to be a verification source of
+organic traffic for us. If email providers or internet service providers implement new or more restrictive email or content delivery or
+accessibility policies, including with respect to net neutrality, it may become more difficult to deliver emails to our users or for user
+verification process. For example, certain email providers, including Google, categorize our emails as “promotional,” and
+these emails are directed to an alternate, and less readily accessible, section of a users’ inbox. If email providers materially
+limit or halt the delivery of our emails, or if we fail to deliver emails to users in a manner compatible with email providers’
+email handling or authentication technologies, our ability to contact users through email could be significantly restricted. In addition,
+if we are placed on “spam” lists or lists of entities that have been involved in sending unwanted, unsolicited emails, marketing
+campaigns and busines

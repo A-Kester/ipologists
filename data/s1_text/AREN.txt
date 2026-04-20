@@ -1,0 +1,81 @@
+” section. Because
+of the effects of COVID-19 pandemic and the uncertainty about their persistence, we may need to raise more capital to continue operations. At September 30, 2021, we had cash of approximately $8.2 million. We have seen stabilization in our markets since May 2020 and
+believe that based on our current assessment of the impact of COVID-19, we have sufficient resources to fully fund our business operations
+through 12 months from the filing date of this registration statement. However, due to the continuing uncertainty regarding the duration
+of the impact of COVID-19 and its effect on our financial performance and the potential that our traffic and advertising revenue becomes
+destabilized again, we may require additional capital. We did not have difficulties accessing the capital markets during 2020 and 2021,
+however, due to the continuing uncertainty surrounding COVID-19, we may experience difficulties in the future. 4 As
+market conditions present uncertainty as to our ability to secure additional capital, there can be no assurances that we will be able
+to secure additional financing on acceptable terms, or at all, as and when necessary to continue to conduct operations. Our future
+liquidity and capital requirements will depend upon numerous factors, including the success of our offerings and competing technological
+and market developments. We may need to raise funds through public or private financings, strategic relationships, or other arrangements.
+There can be no assurance that such funding will be available on terms acceptable to us, or at all. Furthermore, any equity financing
+may be dilutive to existing stockholders, and debt financing, if available, may involve restrictive covenants that may limit our operating
+flexibility with respect to certain business matters. Strategic arrangements may require us to relinquish our rights or grant licenses
+to some or substantial parts of our intellectual property. If funds are raised through the issuance of equity securities, the percentage
+ownership of our stockholders will be reduced, stockholders may experience additional dilution in net book value per share, and such
+equity securities may have rights, preferences, or privileges senior to those of the holders of our existing capital stock. If adequate
+funds are not available on acceptable terms, we may not be able to continue operating, develop or enhance products, take advantage of
+future opportunities, or respond to competitive pressures, any of which could have a material adverse effect on our business, operating
+results, and financial condition. We
+have incurred losses since our inception, have yet to achieve profitable operations, and anticipate that we will continue to incur losses
+for the foreseeable future. We have had losses from inception, and as a result, have relied on capital funding or borrowings
+to fund our operations. Our accumulated deficit as of December 31, 2020 was approximately $162.3 million. Our accumulated deficit
+as of September 30, 2021 was approximately $233.1 million. While we anticipate generating positive cash flow in fiscal 2022, the uncertainty
+surrounding the COVID-19 pandemic yields some doubt as to our ability to do so and could require us to raise additional capital. We cannot
+predict whether we will be able to continue to find capital to support our business plan if the negative effects of the COVID-19 pandemic
+continue longer than anticipated. We
+identified material weaknesses in our internal control over financial reporting. If we do not adequately address these material weaknesses
+or if other material weaknesses or significant deficiencies in our internal control over financial reporting are discovered, our financial
+statements could contain material misstatements and our business, operations and stock price may be adversely affected. As disclosed
+under Item 9A, Controls and Procedures , of our Annual Report on Form 10-K for the year ended December 31, 2020 (the “Annual
+Report”), our management identified material weaknesses in our internal control over financial reporting at December 31, 2020.
+We continued to have material weaknesses in our internal controls over financial reporting at March 31, 2021, June 30, 2021, and September
+30, 2021. We expect to have remediated our material weaknesses in our internal control over financial reporting by December 31, 2021,
+which would be determined and disclosed in our Annual Report on Form 10-K for the year ended December 31, 2021, of which there can
+be no assurance. Under standards established by the Public Company Accounting Oversight Board, a material weakness is a deficiency, or
+a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material
+misstatement of our financial statements will not be prevented or detected on a timely basis. Although no material misstatement of our
+historical financial statements was identified, the existence of these material weaknesses or significant deficiencies could result in
+material misstatements in our financial statements and we could be required to restate our financial statements. Further, significant
+costs and resources may be needed to remediate the identified material weaknesses or any other material weaknesses or internal control
+deficiencies. If we are unable to remediate, evaluate, and test our internal controls on a timely basis in the future, management will
+be unable to conclude that our internal controls are effective and our independent registered public accounting firm will be unable to
+express an unqualified opinion on the effectiveness of our internal controls. If we cannot produce reliable financial reports, investors
+may lose confidence in our financial reporting, the price of our common stock could be adversely impacted and we could be subject to
+sanctions or investigations by the SEC or other regulatory authorities, which could negatively impact our business, financial condition,
+and results of operations. As
+of the date of filing this registration statement, we currently lack certain internal controls over our financial reporting. While we have six independent directors serving on our Board, have added to our accounting staff, and have hired a Chief Technology Officer,
+we are still implementing such internal controls at this time. The lack of such controls makes it difficult to ensure that information
+required to be disclosed in our reports filed and submitted under the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”), is recorded, processed, summarized, and reported as and when required. 5 We
+cannot assure you that we will be able to develop and implement the necessary internal controls over financial reporting. The absence
+of such internal controls may inhibit investors from purchasing our shares and may make it more difficult for us to raise debt or equity
+financing. If
+we fail to retain current users or add new users, or if our users decrease their level of engagement with the Platform, our business
+would be seriously harmed. The success of our business heavily depends on the size of our user base and the level of engagement
+of our users. Thus, our business performance will also become increasingly dependent on our ability to increase levels of user engagement
+in existing and new markets. We are continuously subject to a highly competitive market in order to attract and retain our users’
+attention. A number of factors could negatively affect user retention, growth, and engagement, including if: ● users
+    increasingly engage with competing platforms instead of ours; ● we
+    fail to introduce new and exciting products and services, or such products and services do not achieve a high level of market acceptance; ● we
+    fail to accurately anticipate consumer needs, or we fail to innovate and develop new software and products that meet these needs; ● we
+    fail to price our products competitively; ● we
+    do not provide a compelling user experience because of the decisions we make regarding the type and frequency of advertisements that
+    we display; ● we
+    are unable to combat spam, bugs, malwares, viruses, hacking, or other hostile or inappropriate usage on our products; ● there
+    are changes in user sentiment about the quality or usefulness of our existing products in the short-term, long-term, or both; ● there
+    are increased user concerns related to privacy and information sharing, safety, or security; ● there
+    are adverse changes in our products or services that are mandated by legislation, regulatory authorities, or legal proceedings; ● technical
+    or other problems frustrate the user experience, particularly if those problems prevent us from delivering our products in a fast
+    and reliable manner; ● we,
+    our Publisher Partners, or other companies in our industry are the subject of adverse media reports or other negative publicity,
+    some of which may be inaccurate or include confidential information that we are unable to correct or retract; or ● we
+    fail to maintain our brand image or our reputation is damaged. Any
+decrease in user retention, growth, or engagement could render our products less attractive to users, advertisers, or our Publisher Partners,
+thereby reducing our revenues from them, which may have a material and adverse impact on our business, financial condition, and results
+of operations. In addition, there can be no assurance that we will succeed in developing products and services that eventually become
+widely accepted, that we will be able to timely release products and services that are commercially viable, or that we will establish
+ourselves as a successful player in a new business area. Our inability to do so would have an adverse impact on our business, financial
+condition, and results of operations. 6 The
+market in which we participate is intensely competitive, and if we do not compete effectively, our operating res

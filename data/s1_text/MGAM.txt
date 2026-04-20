@@ -1,0 +1,77 @@
+Investing in our securities involves risks. Before
+purchasing the securities offered by this prospectus you should carefully read the risk factors set forth herein and the information contained
+in any applicable prospectus supplement. The risks and uncertainties we discuss in this prospectus are those that we currently believe
+may materially affect our company. Additional risks not presently known, or currently deemed immaterial, also could materially and adversely
+affect our financial condition, results of operations, business and prospects. Risks Related to Our Business and Industry We may not be successful in creating a sustainable
+or profitable business based on our proprietary fantasy entertainment technology platforms, which could adversely affect our financial
+condition and results of operations. Our business plan contemplates the development
+and commercialization of proprietary technology platforms offering skill-based fantasy entertainment products, and we may not be successful
+in creating a sustainable or profitable business. If our proprietary data-driven scoring engines,
+behavioral-logic systems, and simulated fantasy outputs fail to function as intended or achieve market acceptance, our business, operating
+results, and prospects could be materially harmed. Our Company is developing proprietary data-driven
+scoring engines, behavioral-logic systems, and simulated fantasy outputs designed to personalize user engagement while giving owners the
+opportunities to directly own and run their organization. These products remain in active development, and there is no assurance that
+they will function as intended, achieve regulatory qualification, produce meaningful user adoption, or generate material revenues. The
+fantasy sports and digital entertainment sectors are intensely competitive, subject to shifting consumer trends, rapidly evolving technology
+standards, data-licensing limitations, and significant marketing costs. We may not be able to acquire or retain users at commercially
+viable costs, and there can be no assurance that we will generate substantial revenues or profits from our technology, platforms, or associated
+engagement models. If we are unable to successfully generate
+audience traffic or monetize content through advertising-supported channels and partnerships, our efforts to diversify revenue streams
+may not yield the anticipated results and could negatively impact our financial performance. The Company intends to evaluate advertising-supported
+and content-monetization channels beginning in 2026. These channels depend on the ability to generate audience traffic, secure advertising
+participation, negotiate access to distribution, and comply with applicable regulations. There can be no assurance that consumer traffic
+will scale, that advertisers or distribution partners will engage, that the economics of content monetization will prove viable, or that
+these efforts will produce material revenues within anticipated timeframes, if at all. If development of our Dominus scoring engine
+for additional sports applications is delayed or unsuccessful, or fails to achieve acceptance in the marketplace, our business expansion
+opportunities may be limited and our operating results could suffer. The Company is adapting its Dominus scoring engine
+for potential use in additional sports-based applications, including college and professional football. These initiatives remain subject
+to development, data availability, product-integration challenges, regulatory considerations, technology dependencies, and funding constraints.
+The Company’s internal expectations for beta evaluation in 2026 are inherently uncertain, and there can be no assurance that such
+products will be completed, released, or accepted by the market. If our PUHZL behavioral-logic and personalization
+engine does not operate effectively or fails to enhance user engagement, our product adoption and competitiveness could be materially
+and adversely affected. Our PUHZL behavioral-logic and personalization
+engine may not operate effectively or deliver meaningful results. PUHZL is intended to support personalization, preference modeling,
+and engagement optimization; however, the system relies on data inputs, predictive models, and algorithmic outputs that may prove inaccurate,
+unreliable, or commercially unimportant. Errors, biases, system failures, privacy restrictions, or data-licensing limitations could materially
+impair PUHZL’s functionality, reduce user satisfaction, and adversely affect the adoption of the Company’s products. 5 If
+our acquisition of RSO’s assets does not result in the anticipated benefits or user migration, our user-acquisition assumptions, growth
+prospects, and financial results may be adversely impacted. Our acquisition of substantially all of RSO’s
+assets may not generate the expected benefits. Although the seller reported a historical audience of more than 7,500 active seasonal fantasy
+participants and a database exceeding 40,000 email records, there can be no assurance that RSO users will migrate to MGAM products, that
+integration will proceed efficiently, or that historical retention patterns will continue. Failure to retain or convert RSO users could
+adversely affect our user-acquisition assumptions, product commercialization, and anticipated growth plans. If our access to third-party data sources,
+technology partners, and cloud infrastructure is interrupted or compromised, or if we experience cybersecurity incidents, product reliability
+and user engagement may be materially impaired, which could adversely affect our business and reputation. We depend on third-party data sources, software
+partners, cloud infrastructure, and licensed content to support product functionality. Disruptions, failures, outages, cost escalations,
+or loss of access to data inputs could materially impair product reliability and user engagement. Unauthorized access, cybersecurity breaches,
+data-loss events, or manipulation of predictive-model outputs could adversely affect our business, operating results, or reputation. Economic downturns and political and market
+conditions beyond our control could adversely affect our business, financial condition and results of operations. Our financial performance is subject to global
+and U.S. economic conditions and their impact on levels of spending by users and advertisers. Economic recessions have had, and may continue
+to have, far reaching adverse consequences across many industries, including the global entertainment and gaming industries, which may
+adversely affect our business and financial condition. The global and U.S. economies experienced tepid
+growth immediately following the global financial crisis in 2008 – 2009 and more recently experienced a period of increased volatility
+during the global COVID-19 pandemic. Ongoing or intensifying economic weakness, including recessions, economic slowdowns, uncertainties
+in the global financial markets and other adverse economic conditions, including inflation, changes in monetary policy and increased interest
+rates, actual or perceived instability in the global banking sector, changes in the labor market, supply chain disruptions or other changes
+in economic and political conditions may result in a material adverse effect on our business, financial condition, results of operations
+or prospects. In addition, changes in general market, economic
+and political conditions in domestic and foreign economies or financial markets, including fluctuation in stock markets resulting from,
+among other things, trends in the economy as a whole may reduce users’ disposable income and advertisers’ budgets. Any one
+of these changes could have a material adverse effect on our business, financial condition, results of operations or prospects. Reductions in discretionary consumer spending
+could have an adverse effect on our business, financial condition, results of operations and prospects. Our business is particularly sensitive to reductions
+from time to time in discretionary consumer spending. Demand for entertainment and leisure activities, including gaming, can be affected
+by changes in the economy and consumer tastes, both of which are difficult to predict and beyond our control. Unfavorable changes in general
+economic conditions, including recessions, economic slowdowns, sustained high levels of unemployment, and rising prices or the perception
+by consumers of weak or weakening economic conditions, may reduce our users’ disposable income or result in fewer individuals engaging
+in entertainment and leisure activities, such as sports betting and online gaming. As a result, we cannot ensure that the demand for our
+product offerings will remain consistent. Adverse developments affecting economies throughout the world, and particularly in the United
+States, including a general tightening of availability of credit, decreased liquidity in certain financial markets, inflation, increased
+interest rates, foreign exchange fluctuations, increased energy costs, the impact of higher tariffs or escalating trade disputes, acts
+of war or terrorism, transportation disruptions, natural disasters, declining consumer confidence, sustained high levels of unemployment
+or significant declines in stock markets, as well as concerns regarding pandemics, epidemics and the spread of contagious diseases, could
+lead to a reduction in discretionary spending on leisure activities, such as our product offerings. 6 We will require additional financing in
+order to implement and execute our business plan, and we cannot be certain that such additional financing will be available on reasonable
+terms when required, or at all. As of September 30, 2025, we had a cash balance
+of approximately $810,000. We may need to raise additional funding to meet our cash, operational and liquidity requirements to continue
+operating. We have obtained some additional financing during
+the nine months ended September 30, 2025. Howeve

@@ -1,0 +1,82 @@
+based on the NIST SP 800-171 framework (which provides recommended requirements
+for protecting the confidentiality of controlled unclassified information) that affect data security within our internal network and
+external products. These audits include compliance reviews and penetration tests where applicable. A prioritized list of remediations
+to strengthen our security posture are in progress, and there are risks associated with unaddressed vulnerabilities in the meantime including
+risk of data loss, malware, and ransomware. We have taken steps to protect customer data within our products by applying strong encryption
+to files both in transit and at rest. Our
+reputation and financial condition could be adversely affected if, as a result of a significant cyber-event or otherwise: ● our
+                                            operations are disrupted or shut down; ● our
+                                            or our customers’ or employees’ confidential, proprietary information is stolen
+                                            or disclosed; ● we
+                                            incur costs or are required to pay fines in connection with stolen customer, employee or
+                                            other confidential information; ● we
+                                            must dedicate significant resources to system repairs or increase cyber security protection;
+                                            or ● we
+                                            otherwise incur significant litigation or other costs. If
+our computer systems are damaged or cease to function properly, or, if we do not replace or upgrade certain systems, we may incur substantial
+costs to repair or replace them and may experience an interruption of our normal business activities or loss of critical data. Any such
+disruption could adversely affect our reputation and financial condition. We
+also rely on information technology systems maintained by third parties, including third-party cloud computing services and the computer
+systems of our suppliers for both our internal operations and our customer-facing infrastructure related to our additive manufacturing
+solutions. These systems are also vulnerable to the types of interruption and damage described above but we have less ability to take
+measures to protect against such disruptions or to resolve them if they were to occur. Information technology problems faced by third
+parties on which we rely could adversely impact our business and financial condition as well as negatively impact our brand reputation. 21 Our
+current levels of insurance may not be adequate for our potential liabilities. We
+maintain insurance to cover our potential exposure for most claims and losses, including potential product and non-product related claims,
+lawsuits and administrative proceedings seeking damages or other remedies arising out of our commercial operations. However, our insurance
+coverage is subject to various exclusions, self-retentions and deductibles. We may be faced with types of liabilities that are not covered
+under our insurance policies, such as environmental contamination or terrorist attacks, or that exceed our policy limits. Even a partially
+uninsured claim of significant size, if successful, could have an adverse effect on our financial condition. In
+addition, we may not be able to continue to obtain insurance coverage on commercially reasonable terms, or at all, and our existing policies
+may be cancelled or otherwise terminated by the insurer. Maintaining adequate insurance and successfully accessing insurance coverage
+that may be due for a claim can require a significant amount of our management’s time, and we may be forced to spend a substantial
+amount of money in that process. Changes
+in tax laws or tax rulings could materially affect our financial position, results of operations and cash flows. The
+tax regimes we are subject to or operate under, including income and non-income taxes, are unsettled and may be subject to significant
+change. Changes in tax laws, regulations, or rulings, or changes in interpretations of existing laws and regulations, could materially
+affect our financial position and results of operations. For example, the 2017 Tax Cuts and Jobs Act (the “Tax Act”) made
+broad and complex changes to the U.S. tax code, including changes to U.S. federal tax rates, additional limitations on the deductibility
+of interest, both positive and negative changes to the utilization of future net operating loss (“NOL”) carryforwards, allowing
+for the expensing of certain capital expenditures, and putting into effect the migration from a “worldwide” system of taxation
+to a more territorial system. Future guidance from the IRS with respect to the Tax Act may affect us, and certain aspects of the Tax
+Act could be repealed or modified in future legislation. The Coronavirus Aid, Relief, and Economic Security Act (the “CARES Act”)
+has already modified certain provisions of the Tax Act. The Inflation Reduction Act of 2022 (the “IRA”), enacted on August
+16, 2022, further amended the U.S. tax code, imposing a 15% minimum tax on “adjusted financial statement income” of certain
+corporations as well as an excise tax on the repurchase or redemption of stock by certain corporations, beginning in the 2023 tax year.
+The One Big Beautiful Bill Act (the “OBBBA”), enacted on July 4, 2025, makes permanent several provisions that were temporary
+under the TCJA, reducing uncertainty. The OBBBA enhances deductions and expensing options, such as the permanent 100% bonus depreciation
+and increased deduction limits on certain business expenses, which were more restrictive under the TCJA. The OBBBA also makes some changes
+to the international tax provisions. In addition, it is uncertain if and to what extent various states will conform to the Tax Act,
+the CARES Act, the IRA, the OBBBA or any newly enacted federal tax legislation. The issuance of additional regulatory or accounting
+guidance related to the Tax Act, the CARES Act, the IRA and the OBBBA could materially affect our tax obligations and effective
+tax rate in the period issued. As we continue to expand internationally, we will be subject to other jurisdictions around the world with
+increasingly complex tax laws, the application of which can be uncertain. The amount of taxes we pay in these jurisdictions could increase
+substantially as a result of changes in the applicable tax principles, including increased tax rates, new tax laws or revised interpretations
+of existing tax laws and precedents, which could have an adverse impact on our liquidity and results of operations. In addition, the
+authorities in several jurisdictions could review our tax returns and impose additional tax, interest and penalties, which could have
+an impact on us and on our results of operations. In addition, many countries in Europe and a number of other countries and organizations,
+have recently proposed or recommended changes to existing tax laws or have enacted new laws that could significantly increase our tax
+obligations in the countries where we do or intend to do business or require us to change the manner in which we operate our business. As
+we expand the scale of our international business activities, these types of changes to the taxation of our activities could increase
+our worldwide effective tax rate, increase the amount of taxes imposed on our business, and harm our financial position. Such changes
+also may apply retroactively to our historical operations and result in taxes greater than the amounts estimated and recorded in our
+consolidated financial statements. 22 Some
+members of our management have limited experience in operating a public company. Some
+of our executive officers have limited experience in the management of a publicly traded company. Our management team may not successfully
+or effectively manage the significant public company regulatory oversight and reporting obligations under federal securities laws. Our
+limited experience in dealing with the increasingly complex laws pertaining to public companies could be a significant disadvantage in
+that it is likely that an increasing amount of their time may be devoted to these activities, which will result in less time being devoted
+to the management and growth of the company. We may not have adequate personnel with the appropriate level of knowledge, experience and
+training in the accounting policies, practices or internal control over financial reporting required of public companies. The development
+and implementation of the standards and controls and the hiring of experienced personnel necessary to achieve the level of accounting
+standards required of a public company may require costs greater than expected. Market
+conditions, economic uncertainty or downturns could adversely affect our business and operating results. In
+recent years, the United States and other significant markets have experienced cyclical downturns and worldwide economic conditions remain
+uncertain, including as a result of outbreaks of epidemic diseases (including COVID-19 and variants), supply chain disruptions, the war
+in Ukraine and the war in Israel, instability in the U.S. and global banking systems, rising fuel prices, increasing interest rates or
+foreign exchange rates, changes in U.S. presidential administrations and government policies and priorities and, as discussed in more
+detail below, high inflation and the possibility of a recession. Economic uncertainty and associated macroeconomic conditions make it
+extremely difficult for our customers and us to accurately forecast and plan future business activities, and could cause our customers
+to slow spending on our products, which could delay and lengthen sales cycles. A
+significant downturn in economic activity, or general spending on additive manufacturing systems, may cause our current or potential
+customers to react by reducing their capi

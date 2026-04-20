@@ -1,0 +1,54 @@
+—Risks Related to Our Business—We have identified a material weakness in our internal controls over financial reporting. If we are unable to implement and maintain
+effective internal controls over financial reporting in the future, investors may lose confidence in the accuracy and completeness of our financial reports and the market price of our common stock may
+be negatively affected." For
+the year ending December 31, 2016, pursuant to Section 404 of the Sarbanes-Oxley Act, management will be required to deliver a report that assesses the effectiveness of
+our internal control over financial reporting. Under current SEC rules, our independent registered public accounting firm will eventually be required to deliver an attestation report on the
+effectiveness of our internal control over financial reporting when we no longer qualify as an emerging growth company. We may qualify as an emerging growth company for as long as five years, although
+we may lose that status under certain circumstances. See "Risk Factors—Risks Related to Our Business—We are an "emerging growth company" and we cannot be certain if the reduced
+disclosure and other requirements applicable to emerging growth companies will make our common stock less attractive to investors." Quantitative and Qualitative Disclosures about Market Risk Key Input Price Risks Our profitability is dependent on, among other things, our ability to anticipate and react to changes in the costs of key operating
+resources, including EMV microchips, polyvinyl chloride ("PVC"), energy and other commodities. We have been able to offset cost increases, which have historically not been significant, by increasing
+our selling prices, as well as, making other operational adjustments that increase productivity. However, substantial increases in costs and expenses could impact our operating results to the extent
+that such increases cannot be offset by selling price increases. Labor and Benefits Costs We are exposed to inflation in wage and benefits costs which represented 19.5% of net sales for the year ended December 31,
+2014. Due to the high-security nature of our business, the availability of potential applicants is limited by the security and other requirements of the Payment Card Brands and applicants are required
+to undergo a rigorous background screening process. Due to these factors, we 87 Table of Contents have
+historically provided a starting wage that is above the minimum wage in place for the particular states or provinces in which we do business to attract qualified applicants. We further believe
+that this enables us to attract a higher caliber employee and this translates directly to higher quality and productivity. There can be no assurance that we will generate sales growth in an amount
+sufficient to offset increases in minimum wage or other inflationary pressures. Interest Rate Risk We are exposed to interest rate risk through fluctuations in interest rates on our Term Loan obligations. Our Revolving Credit Facility
+and Term Loans carry interest at a floating rate. We seek to manage exposure to adverse interest rate changes through our normal operating and financing activities. As of March 31, 2015, we had
+$163.3 million in outstanding floating rate debt obligations under our Term Loan. Each quarter point increase or decrease in the interest rate on our Term Loans would change our annual interest
+expense by approximately $0.4 million. If our Revolving Credit Facility was fully-drawn, each quarter point increase or decrease in the interest rate on our Revolving Credit Facility would
+change our annual interest expense by approximately $0.5 million. Foreign Currency Exchange Risk We are not currently subject to significant foreign currency exchange risk. While we have foreign currency risks related to our revenue
+and operating expenses denominated in currencies other than the U.S. dollar, primarily the British Pound Sterling and the Canadian Dollar, historically we have not been impacted materially by the
+changes in exchange rates. We have experienced and will continue to experience fluctuations in our consolidated statement of operations as a result of transaction gains or losses related to revaluing
+certain current asset and current liability balances that are denominated in currencies other than the functional currency of the entities in which they are recorded. Risk can be estimated by
+measuring the impact of a near-term adverse movement of 10% in foreign currency rates against the U.S. Dollar. If foreign currency exchange rates were 10% higher or lower at December 31, 2014,
+there would not have been a material adverse impact on our net income from continuing operations or financial position. Pricing Risk While we have been able to partially offset historical pricing pressure and other changes in the price of our products and services by
+offering higher-value added products and services, cross-selling additional products and services, selectively implementing pricing increases, coupled with more efficient purchasing practices,
+productivity improvements and greater economies of scale, there can be no assurance that we will be able to continue to do so in the future. From time to time, competitive conditions could limit our
+pricing flexibility and macroeconomic conditions could
+increase pricing pressure. There can be no assurance that future pricing pressure can be offset by our ability to reduce our costs. In addition, there can be no assurance that we will generate sales
+growth in an amount sufficient to offset pricing pressures. Recent Accounting Pronouncements The FASB issued ASU 2014-09, Revenue from Contracts with Customers, in May 2014. ASU 2014-09 requires an entity to
+recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods
+or services. An entity should also disclose sufficient quantitative and qualitative information to enable users of financial statements to understand the nature, amount, timing and uncertainty of
+revenue and cash flows arising from contracts with customers. The new standard is effective for annual reporting periods beginning after December 15, 2017. We will implement the provisions of
+ASU 2014-09 as of January 1, 2018. We are in the process of determining 88 Table of Contents the
+method of adoption and assessing the impact of ASU 2014-09 on our results of operations, financial position and consolidated financial statements. The
+FASB issued ASU 2015-03, Interest—Imputation of Interest, in April 2015. ASU 2015-03 requires debt issuance costs related to a recognized debt liability to
+be presented on the balance sheet as a direct deduction from the debt liability, similar to the presentation of debt discounts. The new standard is effective for public entities annual reporting
+periods beginning after December 15, 2015. We will implement the provisions of ASU 2015-03 as of January 1, 2016. The adoption of ASU 2015-03 will require us to reclassify
+deferred loan costs as a direct deduction from the carrying amount of debt on our balance sheet. We do not expect any material impact to our balance sheet from this change. The
+FASB issued ASU 2015-11, Inventory—Simplifying the Measurement of Inventory, in July 2015. ASU 2015-11 requires that inventory be at the lower of cost and net realizable
+value. Net realizable value is the estimated selling prices in the ordinary course of business, less reasonably predictable cost of completion, disposal, and transportation. The new standard is
+effective for public business entities for fiscal years beginning after December 15, 2016. We will implement the provisions of ASU 2015-11 as of January 1, 2017. We are in the process of
+assessing the impact of ASU 2015-11 on our results of operations, financial position and consolidated financial statements. 89 Table of Contents INDUSTRY Overview Consumer payments in the United States and globally have shifted over the last several decades from paper-based media such as cash and
+checks to card-based media such as credit, debit and Prepaid Debit Cards, and electronic methods such as pre-authorized payments through ACH. The Nilson Report estimates that card-based payments have
+increased from 38.3% of U.S. transactions in 2005 to 56.5% in 2013, and electronic payments have increased from 4.3% to 7.2% over the same period. By 2018, card-based payments are projected to
+comprise 69.2% of U.S. transactions, with cash and checks accounting for 21.4% and electronic payments representing the remaining 9.4%. We believe that this long-term trend of card-based and
+electronic payments replacing cash and checks will continue. Financial Payment Card Production and Service Our primary market is production of and services for Financial Payment Cards, which are cards issued on the networks of the Payment
+Card Brands (Visa, MasterCard, American Express and Discover) and Interac (in Canada), that require high levels of security throughout the card production and issuance process. According to First
+Annapolis, 976 million Financial Payment Cards were produced for the U.S. market in 2014 and this number is estimated to grow to 1.2 billion cards by 2019, representing a CAGR of 4.3%.
+The primary driver of growth is predicted to be an increasing adoption of Prepaid Debit Cards, along with anticipated steady growth in debit and credit cards. On a dollar basis, the U.S. Financial
+Payment Card market (excluding services)
+was $371 million in 2014 (up from $180 million in 2013), and is anticipated to grow to $1.2 billion by 2019, driven by the EMV conversion and unit volume growth. Annual U.S. Financial Payment Card Production (number of cards
+in millions) Source: First Annapolis According to First Annapolis, the demand for bank debit and general purpose credit cards has been predictable and recurring in nature, with 88% of cards issued in
+the United States 

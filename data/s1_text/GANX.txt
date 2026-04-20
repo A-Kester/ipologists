@@ -1,0 +1,75 @@
+”, our consolidated financial statements and the related notes and the other information incorporated
+by reference into this prospectus before making an investment decision. This prospectus and the information incorporated
+by reference herein contain references to trademarks, service marks and trade names owned by us or other companies. Solely for convenience,
+trademarks, service marks and trade names referred to in this prospectus and the information incorporated by reference herein, including
+logos, artwork, and other visual displays, may appear without the ® or ® symbols, but such references
+are not intended to indicate, in any way, that we will not assert, to the fullest extent under applicable law, our rights or the rights
+of the applicable licensor to these trademarks, service marks and trade names. We do not intend our use or display of other companies’
+trade names, service marks or trademarks to imply a relationship with, or endorsement or sponsorship of us by, any other companies. Other
+trademarks, trade names and service marks appearing in this prospectus and the documents incorporated by reference herein are the property
+of their respective owners. Corporate Overview We are a clinical stage biotechnology
+company developing novel small molecule therapeutics to treat diseases across several therapeutics areas, including, lysosomal storage
+disorders, or LSDs, central nervous system disorders, or CNS, metabolic disorders, and oncology. We use our exclusively in-licensed computational
+target and drug discovery platform, Site-Directed Enzyme Enhancement Therapy, or SEE-Tx, to discover novel allosteric binding sites on
+proteins implicated in a disease and to identify proprietary small molecules that bind these sites to modulate protein function and treat
+the underlying cause of the disease. We believe that SEE-Tx is uniquely suited to identify allosteric binding sites on the protein surface,
+which are different from the active (or orthosteric) binding site where the natural ligand of the protein binds. Targeting an allosteric
+binding site instead of the active binding site of a protein provides numerous advantages, including: the ability to restore or disrupt
+the function of proteins implicated in disease through several different mechanisms of action covering both functional and conformational
+effects, including stabilization, destabilization, targeted degradation, allosteric inhibition, and allosteric activation of the targeted
+protein; improved specificity of small molecules because binding to an allosteric binding site is non-competitive with the natural substrate
+that binds to the active binding site; and the ability to identify small molecules with more favorable drug-like properties. The SEE-Tx
+platform has been used to identify novel allosteric sites and small molecules for all of our pipeline programs. Discovering and targeting
+novel allosteric sites with our platform not only reduces traditional drug discovery timelines but enables rational drug design and offers
+the potential for superior small molecule drugs that are highly specific and that can penetrate hard to reach tissues and cross the blood-brain
+barrier where necessary. We have generated an extensive
+preclinical data package providing evidence of the mechanism of action and effect of our lead product candidate GT-02287 for the treatment
+of misfolded beta-glucocerebrosidase, or GBA1 Parkinson’s disease, including restoration of the lysosomal enzyme β-Glucocerebrosidase
+(GCase) function, reduction of toxic lipid substrates and toxic forms of alpha-synuclein, improved survival of dopaminergic neurons, increased
+dopamine levels and improved locomotor function in animal models. In September 2023, we received approval from the Bellberry Human Research
+Ethics Committee (HREC) to conduct a Phase 1 clinical trial in Australia. The Phase 1 clinical trial is intended to evaluate the administration
+of both single and multiple ascending dose levels of GT-02287 in healthy volunteers to assess the safety, tolerability and pharmacokinetics
+of GT-02287. In addition, in the multiple ascending dose part of the Phase 1 clinical trial, we will evaluate the pharmacodynamic response
+to GT-02287 by analyzing GCase levels and activity. As of August 10, 2023, the first of five cohorts of the single ascending dose part
+was completed, and the dose was escalated to the second dose level. No drug-related adverse effects have been observed as of the present
+time. We expect to complete the Phase 1 clinical trial of GT-02287 in the first half of 2024. We have filed four
+patent applications for our novel small molecule drug candidates for the treatment of neurodegenerative diseases including GBA
+Parkinson’s disease and idiopathic Parkinson’s disease. We announced the publication of two PCT patent applications with
+the first directed at compounds targeting GBA1, addressing CNS diseases such as Parkinson’s disease, Gaucher disease,
+Alzheimer’s disease, and Lewy body dementia. The second patent application was directed at compounds targeting
+galactosylceramidase, or GALC, addressing demyelinating disorders such as Krabbe disease and multiple sclerosis. 1 Our Pipeline We are leveraging our SEE-Tx
+technology platform to develop a pipeline of novel small molecule drug candidates to address complex diseases. The platform is disease
+agnostic and provides us with the ability to expand our pipeline, quickly, efficiently and at low cost. We are currently focusing on progressing
+our programs in Parkinson’s and Gaucher disease. We are also continuing to develop our program in Krabbe disease and liver and lung
+disease, and applying our SEE-Tx platform to establish new programs in oncology. We are seeking non-dilutive funding in order to progress
+our other research programs in additional lysosomal storage disorders and metabolic diseases. The following table sets forth the status of our
+product candidates: Risks Associated with Our Business Our business is subject to numerous risks. You should
+read these risks before you invest in our securities. In particular, our risks include, but are not limited to, the following: · there is substantial doubt about our ability to continue as a going concern.
+We have a history of operating losses and expect to incur losses for the foreseeable future. We may never generate revenues or, if we
+are able to generate revenues, achieve profitability; · we have a limited operating history, and we expect a number of factors to
+cause our operating results to fluctuate on a quarterly and annual basis, which may make it difficult to predict our future performance; · if preclinical studies or clinical trials for our product candidates cannot
+be initiated or completed or if they are delayed or unsuccessful, we will be unable to meet our future development and commercialization
+goals; · the disorders we seek to treat have low prevalence and it may be difficult
+to identify patients with these disorders, which may lead to delays in enrollment for our trials or slower commercial revenue if approved,
+and we may also face enrollment challenges as a result of other factors; · our product candidates are novel and still in development. If we are unable
+to successfully develop, receive regulatory approval for and commercialize our current or future product candidates, our business will
+be harmed; 2 · we have just started testing one of our product candidates in clinical trials.
+Success in early preclinical studies or clinical trials may not be indicative of results obtained in later preclinical studies and clinical
+trials; · clinical trials required for our product candidates are expensive and time-consuming,
+and their outcome is uncertain; · we will need to raise additional capital, which may cause dilution to our
+stockholders, restrict our operations or require us to relinquish rights to our technologies or product candidates, and additional capital
+may not be available on favorable terms or at all, which may force us to delay, reduce the scope of or eliminate our research and development
+programs, reduce our commercialization efforts or curtail our operations; · we are subject to extensive and costly government regulation; · even if we obtain regulatory approval to market our product candidates, our
+product candidates may not be accepted by the market and we might not receive coverage or adequate reimbursement from government and third-party
+payors for any approved products; · we rely on third parties to manufacture the compounds used in our studies.
+If these third parties do not manufacture these compounds in sufficient quantities and at acceptable cost, or if these third parties experience
+delays in production or are required by government regulators to halt or modify their operations, progress of our clinical trials and
+development and commercialization of our products could be delayed, prevented, or impaired; · we rely on a license to use the technology that is material to our business
+and if the agreement underlying the license were to be terminated or if other rights that may be necessary for commercializing our intended
+products cannot be obtained, it would halt our ability to market our products and technology, as well as have an immediate material adverse
+effect on our business, operating results and financial condition; · we are subject to stringent and evolving U.S. and foreign laws, regulations,
+rules, contractual obligations, policies and other obligations related to data privacy and security. Our actual or perceived failure to
+comply with such obligations could lead to regulatory investigations or actions, litigation (including class actions) and mass arbitration
+demands, fines and penalties, disruptions of our business operations, reputational harm, loss of revenue or profits and other adverse
+business consequences; and · global and macroeconomic conditions, including worldwide economic, political
+and social instability could adversely affect our revenue

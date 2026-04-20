@@ -1,0 +1,76 @@
+,” on page 9 of this prospectus, before
+making an investment decision. Overview of the Company We are a clinical-stage company developing innovative
+drug therapies for the treatment of neurological and neurodegenerative disorders and advanced liver disease. Neurodegenerative Disease Program The Company acquired the biopharmaceutical assets
+of NeurMedix, Inc. (“NeurMedix”) a privately held clinical-stage pharmaceutical company and a related party in June 2021. The
+acquired assets included NE3107 or (“bezisterim”). Bezisterim, the approved generic name for NE3107 is an investigational,
+novel, orally administered small molecule that is thought to inhibit inflammation-driven insulin resistance and major pathological inflammatory
+cascades with a novel mechanism of action. There is emerging scientific consensus that both inflammation and insulin resistance may play
+fundamental roles in the development of Alzheimer’s disease (“AD”) and Parkinson’s disease (“PD”),
+and bezisterim could, if approved by the U.S. Food and Drug Administration (“FDA”), represent an entirely new medical approach
+to treating these devastating conditions affecting an estimated 6 million Americans suffering from AD , 1 million Americans suffering
+from PD and Long COVID affects approximately 20 million adults in the US, and millions more worldwide. In neurodegenerative disease, the Company’s
+drug candidate bezisterim is an orally bioavailable, Blood Brain Barrier (“BBB”)-permeable, insulin-sensitizer that is also
+anti-inflammatory. In addition, it is not immunosuppressive and has a low risk of drug-drug interaction. Bezisterim inhibits activation
+of inflammatory action extracellular single regulated kinase (“ERK”) and nuclear factor kappa-light-chain-enhancer of activated
+B cells (“NFκB”) (including interactions with tumor necrosis factor (“TNF”) signaling and other relevant
+inflammatory pathways) that lead to neuroinflammation and insulin resistance. By binding to ERK and selectively modulating NFκB
+activation and TNF-α production and not interfere with their homeostatic functions, BioVie believes that bezisterim may offer clinical
+improvements in several disease indications, including PD, AD and long COVID. BioVie has conducted and reported efficacy data
+on its Phase 3 randomized, double-blind, placebo-controlled, parallel-group, multicenter study to evaluate bezisterim in patients who
+have mild-to-moderate AD (NCT04669028). Results of a Phase 2 investigator-initiated trial (NCT05227820) showing bezisterim-treated patients
+experienced improved cognition and biomarker levels were presented at the Clinical Trials on Alzheimer’s Disease (CTAD) annual conference
+in December 2022. An estimated six million Americans suffer from AD. A Phase 2 study of bezisterim in PD (NCT05083260) has been completed,
+and data presented at the AD/PD™ 2023 International Conference on Alzheimer’s and Parkinson’s Diseases and related neurological
+disorders in Gothenburg, Sweden in March 2023 showed significant improvements in “morning on” symptoms and clinically meaningful
+improvement in motor control in patients treated with a combination of bezisterim and levodopa vs. patients treated with levodopa alone,
+and no drug-related adverse events. In long COVID, bezisterim has the potential to
+reduce neurological symptoms including fatigue and cognitive dysfunction. Persistently circulating viral spike proteins are believed to
+trigger TLR-4 driven activation of NFκB and the subsequent expression of inflammatory cytokines (IL-6, TNF, IFNg). A. Parkinson’s Disease (NCT05083260) Parkinson’s disease (PD) is a progressive
+neurodegenerative disease most often characterized by tremors, muscle rigidity, slowness of movement, postural instability, and difficulties
+with speech. Compelling evidence implicates inflammation and insulin resistance in the initiation and progression of the disease –
+likely both due to their respective roles in dopamine dysfunction in the brain and neurodegeneration. Current therapeutic approaches provide
+only symptomatic relief, but do not modify disease progression. 2 PD is driven in large part by neuroinflammation
+and activation of brain microglia, leading to increased proinflammatory cytokines (particularly TNF). Multiple daily administrations of
+levodopa (converted to dopamine in the brain) is the current standard of care treatment for this movement disorder. However, levodopa
+effectiveness diminishes over time necessitating increased dosage and prolonged daily administration leads to side effects of uncontrolled
+movements called levodopa-induced dyskinesia, commonly referred to as LID, which is exacerbated by high dose levodopa. Although levodopa
+provides symptomatic benefit, it does not slow PD progression. The Company designed a new Phase 2b study of bezisterim
+as a potential first line therapy to treat patients with new onset PD. This trial will be evaluating the safety and efficacy of bezisterim
+on motor and non-motor symptoms in patients with PD who haven’t been treated with carbidopa/levodopa. The PD Phase 2b study , multicenter,
+randomized, double-blind, placebo-controlled trial with a hybrid decentralized design will last 20 weeks from the initial screening phase
+to the safety follow up. In July 2024, the Company submitted the new protocol and received a response from the FDA permitting the Company
+to proceed with the study. The trial commenced in April 2025. The Phase 2 study of bezisterim for the treatment
+of PD (NCT05083260) that completed in December 2022, was a double-blind, placebo-controlled, safety, tolerability, and pharmacokinetics
+study in PD participants treated with carbidopa/levodopa and bezisterim. Forty-five patients with a defined L-dopa “off state”
+were randomized 1:1 to placebo: bezisterim 20 mg twice daily for 28 days. This trial was launched with two design objectives: 1) the primary
+objective was safety and a drug-drug interaction study as requested by the FDA to measure the potential for adverse interactions of bezisterim
+with carbidopa/ levodopa; and 2) the secondary objective was to determine if preclinical indications of promotoric activity and apparent
+enhancement of levodopa activity could be seen in humans. Both objectives were met. B. Long COVID Program About Long COVID Long COVID is a condition in which symptoms of
+COVID-19, the acute respiratory disease caused by the SARS-CoV-2 virus, persist for an extended period, generally three months or more.
+Common symptoms include lingering loss of smell and taste, extreme fatigue, and “brain fog,” though persistent cardiovascular
+and respiratory problems, muscle weakness, and neurologic issues have also been documented. Approximately 20 million individuals in the U.S.
+currently or previously have long COVID, with millions more impacted worldwide.1,2 Studies estimate that approximately 10-30% of individuals
+who contract COVID-19 experience lingering symptoms for months or even years, with fatigue, brain fog, and cognitive impairment significantly
+impacting daily functioning and quality of life. Despite the growing recognition of long COVID as a serious condition, treatment options
+remain limited, and many patients struggle to find effective relief for their symptoms. The loss in quality of life and earnings and increased
+medical costs has an enormous economic impact estimated to be $3.7 trillion. To date there are no non-pharmacological or pharmacological
+therapies proven effective for treatment of long COVID In April 2024, the Company was awarded a clinical trial grant of $13.1
+million from the U.S. Department of Defense (“DOD”), awarded through the Peer Reviewed Medical Research Program of the Congressionally
+Directed Medical Research Programs. In August 2024, U.S. Army Medical Research and Development Command, Office of Human Research Oversight
+(“OHRO”) approved the Company’s plan to evaluate bezisterim for the treatment of neurological symptoms that are associated
+with long COVID. and the FDA authorized our Investigational New Drug (“IND”) application for bezisterim allowing the Company
+to study a novel, anti-inflammatory approach or the treatment of the debilitating neurocognitive symptoms associated with long covid. The Phase 2 ADDRESS-LC study, which is fully funded
+by a grant from the DOD, is a randomized (1:1), placebo-controlled, multicenter trial evaluating the efficacy, safety and tolerability
+of bezisterim in adult participants with long COVID who have cognitive impairment sequelae and fatigue. Individuals who have been diagnosed
+with long COVID and have neurocognitive dysfunction and self-reported fatigue may meet qualification criteria and can visit www.addressLC.com
+to learn more. 3 The trial commenced in May 2025. As of April 2025, the Company was
+reimbursed approximately $2.9 million for trial costs incurred for the nine months ended March 31, 2025. C. Alzheimer’s Disease (NCT05083260) On November 29, 2023, the Company announced the
+analysis of its unblinded, topline efficacy data from its Phase 3 clinical trial (NCT04669028) of bezisterim in the treatment of mild
+to moderate AD. The study had co-primary endpoints looking at cognition using the Alzheimer’s Disease Assessment Scale-Cognitive
+Scale (ADAS-Cog 12) and function using the Clinical Dementia Rating-Sum of Boxes (CDR-SB). Patients were randomly assigned, 1:1 versus
+placebo, to receive sequentially 5 mg of bezisterim orally twice a day for 14 days, then 10 mg orally twice a day for 14 days, followed
+by 26 weeks of 20 mg orally twice daily. Upon trial completion, as the Company began the
+process of unblinding the trial data, the Company found significant deviation from protocol and current good clinical practices (“cGCPs”)
+violations at 15 study sites (virtually all of which were from one geographic area). This highly unusual level of suspected improprieties
+led the Company to exclude all patients from these sites and to refer the sites to the FDA Office of Scientific Investigations (“OSI”)
+for pot

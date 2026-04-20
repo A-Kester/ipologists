@@ -1,0 +1,67 @@
+: Investing in the Common Stock involves a high degree of risk and uncertainty. You should read the “Risk Factors” section of this registration statement, including the prospectus, along with the information included under the same heading the documents incorporated by reference into this registration statement, including the prospectus, for a discussion of factors to consider before deciding to invest in the securities. Plan of Distribution: The Selling Stockholder may sell all or a portion of the shares of Common Stock beneficially owned by it and offered hereby from time to time directly or through one or more underwriters, broker-dealers or agents. Registration of the Common Stock covered by this prospectus does not mean, however, that such shares necessarily will be offered or sold. See “Plan of Distribution.” Nasdaq Capital Market Common Stock Symbol: ALZN (1) The number of shares of Common Stock that will be outstanding after this offering is based on 7,376,011
+shares of Common Stock outstanding as of May 31, 2024 and presumes that all of the shares registered for resale will be sold, but excludes: ● 2,404,506 shares of Common Stock issuable upon exercise of outstanding warrants; ● 2,100,000 shares of Common Stock issuable upon conversion of outstanding Series B convertible preferred stock; ● 980,000 shares of Common Stock issuable upon exercise of outstanding stock options; ● 2,500 shares of Common Stock issuable upon vesting outstanding restricted stock units; and ● 620,000 shares of Common Stock reserved for future issuance under our stock incentive plans. 4 RISK FACTORS Investing in our securities
+involves a high degree of risk. You should carefully consider the following risk factors, as well as those set forth in our most recent
+Annual Report on Form 10-K filed with the SEC and subsequent Quarterly Reports on Form 10-Q, which are incorporated by reference into
+this prospectus, as well as the other information set forth in this prospectus and the documents incorporated by reference herein, before
+deciding whether to invest in our securities. Additional risks and uncertainties that we are unaware of may become important factors that
+affect us. If any of these risks materializes, our business, financial condition or operating results may suffer, the trading price of
+our common stock could decline, and you may lose all or part of your investment. Risks Related to the Offering It is not possible to predict the actual number
+of Preferred Shares we will sell under the Purchase Agreement to the Selling Stockholder, or the actual gross proceeds resulting from
+those sales, since we must meet the Milestones in order for the Selling Stockholder to be required to purchase additional Preferred Shares.
+Consequently, we may not have access to the full amount available under the Purchase Agreement with the Selling Stockholder within the
+foreseeable future, if at all. On the Execution Date, we
+entered into the Purchase Agreement with the Selling Stockholder, pursuant to which the Selling Stockholder has committed to purchase
+up to the $25 million of our Preferred Shares, subject to our achievement of certain Milestones (See the section entitled “ Private
+Placement – The Milestones ” for further information about the Milestones). The Preferred Shares that will be issued under
+the Purchase Agreement will, subject to our achievement of the Milestones, be sold by us to the Selling Stockholder from time to time
+beginning on the date of the second tranche closing (a “Tranche Closing”) and continuing with sales of the third, fourth and
+fifth Tranche Closings as provided for in the Purchase Agreement. Because it is currently impossible
+to predict whether we will meet any of the Milestones, there can be no assurance that we will meet any of them. If we fail to meet any
+or each of the four remaining Milestones, we will raise either no more funds from the Selling Stockholder beyond the $1 million we received
+at the initial Tranche Closing, which we received on May 10, 2024, or only a portion of the contemplated aggregate of $25 million. Consequently,
+we may not have access to the full amount available under the Purchase Agreement with the Selling Stockholder within the foreseeable future,
+if at all. Our inability to access a
+portion or the full amount available under the Purchase Agreement, in the absence of any other financing sources, could have a material
+adverse effect on our business, in which case you would likely lose the entirety of your investment in our company. The Preferred Shares
+are convertible into our Common Stock at a discount to the market price, which would increase the number of shares eligible for future
+resale in the public market and result in dilution to our stockholders. Each
+Preferred Share is convertible into such number of shares of our Common Stock equal to the stated value of the Preferred Shares, which
+is $10,000 per share (the “Stated Value”) divided by the greater of (i) $0.25 per share and (ii) the lesser of (A) $1.50 and
+(B) 80% of the lowest closing price of our Common Stock during the three trading days immediately prior to the date of conversion into
+shares of Common Stock (the “Conversion Price”). Based upon a closing price of $0.5777 for our Common Stock during the three
+trading days prior to the filing of this prospectus on June 3, 2024, the 2,450 Preferred Shares would be convertible, at the Conversion
+Price of $0.46216 into approximately 53,011,944 Conversion Shares. However, because we cannot issue more than 19.99% of the shares of
+Common Stock issued and outstanding on the Execution Date, or 1,375,310 such shares, the Preferred Shares would be unable to be converted
+into more than 1,375,310 shares of our Common Stock, unless and until we obtain stockholder approval. The shares of our Common Stock issued
+upon conversion of the Preferred Shares will result in dilution to the then existing holders of our Common Stock and increase the number
+of shares eligible for resale in the public market. Sales of substantial numbers of such shares in the public market could adversely affect
+the market price of our Common Stock. The certificate
+of designations of rights and preferences of the Preferred Shares (the “Series A COD”) contains anti-dilution provisions
+that may result in the reduction of the Conversion Price in the future. This feature may result in an increased number of shares of Common
+Stock being issued upon conversion of the Preferred Shares. Sales of these shares will dilute the interests of other security holders
+and may depress the price of our Common Stock and make it difficult for us to raise additional capital. The Series A COD contains
+anti-dilution provisions, which provisions require the lowering of the applicable Conversion Price, as then in effect, to the purchase
+price of equity or equity-linked securities issued in subsequent offerings. If in the future, while any of the Preferred Shares are outstanding,
+we issue securities at an effective purchase price less than the applicable Conversion Price of the Preferred Shares as then in effect,
+we will be required, subject to certain limitations and adjustments as provided in the Series A COD, to further reduce the Conversion
+Price, subject to $0.25 (the “Floor Price”), which would result in a greater number of shares of Common Stock being issuable
+upon conversion of the Preferred Shares, which in turn will have a greater dilutive effect on our stockholders. 5 The Series A COD of the Preferred Shares provides
+for the payment of dividends in cash or in additional Preferred Shares, at the Selling Stockholder’s option, which could require
+us to issue additional shares of Common Stock upon conversion of Preferred Shares issued as dividends. Each Preferred Share is entitled
+to receive cumulative dividends at the rate per share of 15% per annum of the Stated Value. The dividends are payable, at the Selling
+Stockholder’s discretion, in cash, out of any funds legally available for such purpose, or to be paid-in-kind in the form of additional
+Preferred Shares (the “PIK Shares”). In the event that the Selling Stockholder elects to receive PIK Shares, that would increase
+the number of Preferred Shares we would be required to pay as a dividend in the future and increase the number of shares of Conversion
+Shares issuable upon conversion of the Preferred Shares. We will not be permitted to pay the dividend in cash unless we are legally permitted
+to do so under Delaware law. As such, if we are unable to pay cash, it is likely that the Selling Stockholder would elect to receive PIK
+Shares rather than accrue the receipt of the cash dividend payment, which would result in further dilution to our stockholders. Sales of a substantial number of our shares
+of Common Stock in the public markets, or the perception that such sales could occur, could cause our stock price to fall. We may issue and sell additional
+shares of Common Stock in the public markets, including as part of this offering. As a result, a substantial number of our shares of Common
+Stock may be sold in the public market. Sales of a substantial number of our shares of Common Stock in the public markets, including in
+connection with this offering, or the perception that such sales could occur, could depress the market price of our Common Stock and impair
+our ability to raise capital through the sale of additional equity securities. We may not receive any additional funds upon
+the exercise of the Warrants. In the event that there is
+not an effective registration statement registering the Warrant Shares, the Warrants may be exercised by way of a cashless exercise, meaning
+that the holder may not pay a cash purchase price upon exercise, but instead would receive upon such exercise the net number of shares
+of our Common Stock determined according to the formula set forth in the Warrant. Accordingly, we may not receive any additional funds
+upon the exercise of the Warrants. Because we do n

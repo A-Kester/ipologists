@@ -1,0 +1,82 @@
+- The misuse or off-label use of The Vivos Method may harm our reputation in
+the marketplace, result in injuries that lead to product liability suits or result in costly investigations, fines or sanctions by regulatory
+bodies if we are deemed to have engaged in the promotion of these uses, any of which could be costly to our business.” The
+FDA has broad regulatory compliance and enforcement powers. If the FDA determines that we failed to comply with applicable regulatory
+requirements, it can take a variety of compliance or enforcement actions, which may result in any of the following sanctions: ● warning
+    letters, untitled letters, fines, injunctions, consent decrees and civil penalties; ● recalls,
+    withdrawals, or administrative detention or seizure of our products; ● operating
+    restrictions or partial suspension or total shutdown of production; ● refusing
+    or delaying requests for 510(k) marketing clearance or PMA approvals of new products or modified products; ● withdrawing
+    510(k) clearances or PMAs that have already been granted; ● refusal
+    to grant export or import approvals for our products; or ● criminal
+    prosecution. In
+addition to all of the above, the FDA regulates and monitors manufacturers engaged in the fabrication of FDA regulated medical devices
+such as those offered by Vivos. Vivos intends to convert its FDA status from an FDA designated “Spec Developer” to a “Manufacturer,”
+and as such will become subject to a new level of regulatory compliance and oversight. The company has spent many months in preparation
+for this transition, including the adoption of the requisite workflow processes, documentation procedures, and other current good manufacturing
+practices. The company expects to be subject to a third-party inspection and readiness evaluation to gain a certification to proceed
+forward as a duly approved and compliant manufacturer sometime prior to the end of the first quarter of 2024. Regulation
+of Medical Devices in Canada Canada
+regulates the import and sale of medical devices through Health Canada (or HC). HC reviews medical devices to assess their safety, effectiveness,
+and quality before being authorized for sale in Canada. HC classifies medical devices into four classifications, with Class I being the
+lowest risk and Class IV being the highest. Class I and II devices are often cleared for sale after they are CE marked or listed on the
+company’s ISO certification and filed via fax-back applications for a Medical Device License (MDL). Obtaining an MDL is comparable
+to the FDA 510(k) process. Higher classification risk devices (Class III and IV) require filing dossiers that resemble FDA 510(k) applications.
+These applications can range in cost and typically take longer for approval. Regulation
+of Medical Devices in Australia Australia
+regulates the import and sale of medical devices through the Therapeutic Goods Administration (TGA) of Australia, a Tier 1 regulatory
+body. Registering a medical device with the TGA entails risk-based classification; compliance with quality, safety and performance principles;
+compliance with regulatory controls for manufacturing processes; listing in the Australian Register of Therapeutic Goods; and post-market
+vigilance programs. Australia follows the standards applied by the International Organization for Standardization (ISO) which is currently
+made up of 165 members/countries. Equivalent to the FDA in the United States, the TGA regulates the manufacturing and distribution of
+therapeutic goods in Australia. 34 Federal,
+State and Foreign Fraud and Abuse and Physician Payment Transparency Laws In
+addition to FDA restrictions on marketing and promotion of drugs and devices, other federal and state laws restrict our business practices.
+These laws include, without limitation, foreign, federal, and state anti-kickback and false claims laws, as well as transparency laws
+regarding payments or other items of value provided to healthcare providers. The
+federal Anti-Kickback Statute prohibits, among other things, knowingly and willfully offering, paying, soliciting or receiving any remuneration
+(including any kickback, bribe or rebate), directly or indirectly, overtly or covertly, in cash or in kind to induce or in return for
+purchasing, leasing, ordering or arranging for or recommending the purchase, lease or order of any good, facility, item or service reimbursable,
+in whole or in part, under Medicare, Medicaid or other federal healthcare programs. The term “remuneration” has been broadly
+interpreted to include anything of value, including stock, stock options, and the compensation derived through ownership interests. Recognizing
+that the federal Anti-Kickback Statute is broad and may prohibit many innocuous or beneficial arrangements within the healthcare industry,
+the United State Department of Health and Human Services (“DHHS”) issued regulations in July 1991, which DHHS has referred
+to as “safe harbors.” These safe harbor regulations set forth certain provisions which, if met in form and substance, will
+assure medical device manufacturers, healthcare providers and other parties that they will not be prosecuted under the federal Anti-Kickback
+Statute. Additional safe harbor provisions providing similar protections have been published intermittently since 1991. Although there
+are a number of statutory exceptions and regulatory safe harbors protecting some common activities from prosecution, the exceptions and
+safe harbors are drawn narrowly. Our arrangements with physicians, hospitals and other persons or entities who are in a position to refer
+may not fully meet the stringent criteria specified in the various safe harbors. Practices that involve remuneration that may be alleged
+to be intended to induce prescribing, purchases or recommendations may be subject to scrutiny if they do not fall within an exception
+or safe harbor. Failure to meet all of the requirements of a particular applicable statutory exception or regulatory safe harbor does
+not make the conduct per se illegal under the federal Anti-Kickback Statute. Instead, the legality of the arrangement will be
+evaluated on a case-by-case basis based on a cumulative review of all its facts and circumstances. Several courts have interpreted the
+statute’s intent requirement to mean that if any one purpose of an arrangement involving remuneration is to induce referrals of
+federal healthcare covered business, the federal Anti-Kickback Statute has been violated. In addition, a person or entity does not need
+to have actual knowledge of the statute or specific intent to violate it in order to have committed a violation. Moreover, a claim including
+items or services resulting from a violation of the federal Anti-Kickback Statute constitutes a false or fraudulent claim for purposes
+of the federal civil False Claims Act (described below). Violations
+of the federal Anti-Kickback Statute may result in civil monetary penalties up to $100,000 for each violation, plus up to three times
+the remuneration involved. Civil penalties for such conduct can further be assessed under the federal False Claims Act. Violations can
+also result in criminal penalties, including criminal fines of up to $100,000 and imprisonment of up to 10 years. Similarly, violations
+can result in exclusion from participation in government healthcare programs, including Medicare and Medicaid. Liability under the federal
+Anti-Kickback Statute may also arise because of the intentions or actions of the parties with whom we do business. While we are not aware
+of any such intentions or actions, we have only limited knowledge regarding the intentions or actions underlying those arrangements.
+Conduct and business arrangements that do not fully satisfy one of these safe harbor provisions may result in increased scrutiny by government
+enforcement authorities. The majority of states also have anti-kickback laws which establish similar prohibitions and, in some cases,
+may apply more broadly to items or services covered by any third-party payor, including commercial insurers and self-pay patients. The
+federal civil False Claims Act prohibits, among other things, any person or entity from knowingly presenting, or causing to be presented,
+a false or fraudulent claim for payment or approval to the federal government or knowingly making, using or causing to be made or used
+a false record or statement material to a false or fraudulent claim to the federal government. A claim includes “any request or
+demand” for money or property presented to the U.S. government. The federal civil False Claims Act also applies to false submissions
+that cause the government to be paid less than the amount to which it is entitled, such as a rebate. Intent to deceive is not required
+to establish liability under the civil federal civil False Claims Act. 35 In
+addition, private parties may initiate “qui tam” whistleblower lawsuits against any person or entity under the federal civil
+False Claims Act in the name of the government and share in the proceeds of the lawsuit. Penalties for federal civil False Claim Act
+violations include fines for each false claim, plus up to three times the amount of damages sustained by the federal government and,
+most critically, may provide the basis for exclusion from government healthcare programs, including Medicare and Medicaid. On May 20,
+2009, the Fraud Enforcement Recovery Act of 2009, or FERA, was enacted, which modifies and clarifies certain provisions of the federal
+civil False Claims Act. In part, the FERA amends the federal civil False Claims Act such that penalties may now apply to any person,
+including an organization that does not contract directly with the government, who knowingly makes, uses or causes to be made or used,
+a false record or statement material to a false or fraudulent claim paid in part by the federal government. The government may further
+prosecute conduct constituting a false claim under the federal crimina

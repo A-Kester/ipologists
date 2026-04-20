@@ -1,0 +1,57 @@
+You should read the “Risk Factors” section of this prospectus for a discussion of factors to consider carefully before deciding to invest in shares of our common stock. Nasdaq trading symbol “SERV” The number of shares of common stock outstanding
+is based on an aggregate of 36,849,901 shares outstanding as of July 26, 2024, and excludes: ● 2,500,000 shares of common stock issuable
+upon the exercise of the Pre-Funded Warrants with an exercise price of $0.0001 per share; ● 2,500,000 shares of common stock issuable upon the exercise of the Investor Warrants with an exercise price of $6.00 per share; ● 1,501,341 shares of common stock issuable upon the exercise of stock options outstanding as of March 31, 2024 that were subject to options originally granted under the Serve Robotics Inc. 2021 Stock Plan (the “2021 Plan”), with a weighted-average exercise price of $0.61 per share; ● 1,327,994 shares of common stock available for issuance under the Serve
+Robotics Inc. 2023 Equity Incentive Plan (the “2023 Plan”) as of March 31, 2024; ● outstanding Bridge Warrants (as defined herein) to purchase an aggregate of 468,971 shares of our common stock with an exercise price of $3.20 per share as of March 31, 2024; ● outstanding Bridge Broker Warrants (as defined herein) to purchase an aggregate of 74,662 shares of our common stock with an exercise price of $3.20 per share as of March 31, 2024; ● outstanding Placement Agent A Warrants (as defined herein) to purchase an aggregate of 153,909 shares of our common stock with an exercise price of $4.00 per share as of March 31, 2024; ● outstanding Placement Agent B Warrants (as defined herein) to purchase an aggregate of 125,000 shares of our common stock with an exercise price of $0.001 per share as of March 31, 2024; and ● outstanding warrants to purchase an aggregate of 142,730 shares of our common stock at the exercise price of $3.89 per share as of March 31, 2024 assumed by us in connection with the Merger. Except as otherwise indicated, all information
+in this prospectus: ● reflects the issuance of 10,000,000 shares of our common stock in the Public Offering in April 2024; ● assumes no exercise of outstanding options subsequent to March 31, 2024; and ● assumes no vesting of restricted stock unit awards subsequent to March 31, 2024. 6 RISK
+FACTORS Investing in our common stock involves a high
+degree of risk. In addition to the other information set forth in this prospectus, you should carefully consider the risk factors discussed
+below when considering an investment in our common stock and any risk factors that may be set forth in the applicable prospectus supplement,
+any related free writing prospectus, as well as the other information contained in this prospectus, any applicable prospectus supplement
+and any related free writing prospectus. If any of the following risks occur, our business, financial condition, results of operations
+and prospects could be materially and adversely affected. In that case, the market price of our common stock could decline, and you could
+lose some or all of your investment. Additional risks and uncertainties not presently known to us or that we currently deem immaterial
+also may impair our business operations. Risks Related to Our Business and Industry Because we are an early-stage company with
+minimal revenue and a history of losses and we expect to continue to incur substantial losses for the foreseeable future, we cannot assure
+you that we can or will be able to operate profitably. We are an early-stage company. We were formed
+and commenced operations in January 2021. We face all the risks faced by newer companies, including significant competition from
+existing and emerging competitors, some of which are established and have better access to capital. In addition, as a new business, we
+may encounter unforeseen expenses, difficulties, complications, delays and other known and unknown factors. We will need to transition
+from an early-stage company to a company capable of supporting larger scale commercial activities. If we are not successful in such a
+transition, our business, results and financial condition will be harmed. We have not been profitable to date, and we expect
+operating losses for the near future. During the three months ended March 31, 2024, we generated $0.9 million in revenue and incurred
+a net loss of $9.0 million. During the years ended December 31, 2023 and 2022, we generated revenue of $0.21 million and $0.11 million,
+respectively, and we incurred net losses of approximately $24.81 million and $21.86 million, respectively. There can be no assurance
+that we will not continue to incur net losses in the future. We may not succeed in expanding our customer base and product offerings and
+even if we do, we may never generate revenue that is significant enough to achieve profitability. Even if we do achieve profitability,
+we may not be able to sustain or increase profitability on a quarterly or annual basis. Furthermore, we may not be able to control overhead
+expenses even where our operations successfully expand. Our failure to become and remain profitable would depress our value and could
+impair our ability to raise capital, expand our business, diversify our product offerings or even continue our operations. We have a limited operating history, which
+may make it difficult to evaluate our business and prospects. We face the risks associated with businesses in
+their early stages, with limited operating histories and whose prospects are hard to evaluate. Any evaluation of our business and our
+prospects must be considered in light of the uncertainties, delays, difficulties and expenses commonly experienced by companies at this
+stage, which generally include unanticipated problems and additional costs relating to the development and testing of products, product
+approval or clearance, regulatory compliance, production, product introduction and marketing and competition. For example, we have incurred
+losses for each of the past few years, driven mainly by our investments in research and development costs. Many of these factors are beyond
+the control of our management. In addition, our performance will be subject to other factors beyond our control, including general economic
+conditions and conditions in the robotics industry. Accordingly, our business and success face risks from uncertainties faced by developing
+companies in a competitive environment. There can be no assurance that our efforts will be successful or that we will ultimately be able
+to attain profitability. Our auditor has issued a “going concern”
+opinion. Our auditor has issued a “going concern”
+opinion on our financial statements, which means they are not sure that we will be able to succeed as a business without additional financing.
+For the year ended December 31, 2023, the date of our last audited financial statements, we generated $0.21 million in revenue,
+and we sustained a net loss of $24.81 million. We had an accumulated deficit of $68.33 million as of December 31, 2023.
+Our ability to continue as a going concern until we reach profitability is dependent upon our ability to generate cash from operating
+activities and to raise additional capital to fund our operations. While we were successful in raising a cumulative total of approximately
+$60.0 million in debt and equity financing from January 1, 2024 through July 26, 2024, our ongoing operational expenses are now approximately
+$2.4 million per month without yet generating any material corresponding revenue. Our failure to raise additional capital could have
+a negative impact on not only our financial condition but also our ability to execute our business plan. 7 If we fail to effectively manage our growth,
+we may not be able to design, develop, manufacture, market and launch new generations of our robotic systems successfully. We intend to invest significantly in order to
+expand our business. Any failure to manage our growth effectively could materially and adversely affect our business, prospects, financial
+condition and operating results. We intend to expand our operations significantly. We expect our expansion to include: ● expanding the management, engineering and product teams; ● identifying and recruiting individuals with the appropriate relevant experience; ● hiring and training new personnel; ● launching commercialization of new products and services; ● forecasting production and revenue; ● entering into relationships with one or more third-party design manufacturing partners and third-party contract manufacturers and/or expanding our internal manufacturing capabilities; ● controlling expenses and investments in anticipation of expanded operations; ● carrying out acquisitions and entering into collaborations, in-licensing arrangements, joint ventures, strategic alliances or partnerships; ● expanding and enhancing internal information technology, safety and security systems; ● conducting demonstrations; ● entering into agreements with suppliers and service providers; and ● implementing and enhancing administrative infrastructure, systems and processes. Should achieved market penetration warrant, we
+intend to continue to hire a significant number of additional personnel, including engineers, design, production, operations personnel
+and service technicians for our robotic systems and services. Because of the innovative nature of our technology, individuals with the
+necessary experience may not be available to hire, and as a result, we will need to expend significant time and expense, to recruit and
+retain experienced employees and appropriately train any newly hired employees. Competition for individuals with experience designing,
+producing and servicing robots and their software is intense, and we may not be able to attract, integrate, train, motivate or retain
+additional highly qualified personnel. The failure to attract, integrate, train, motivate and retain these additional employees could
+seriousl

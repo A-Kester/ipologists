@@ -1,0 +1,76 @@
+.”
+Dollars in tabular format are presented in thousands, except per share data, or otherwise indicated. Overview We are a clinical-stage biopharmaceutical company
+focused on identifying and developing safe and effective broad spectrum therapeutics for the treatment of serious and life-threatening
+infections. We are developing a balanced and broad pipeline of product and development candidates, with an initial focus on serious
+fungal and bacterial infections. On January 29, 2015, we completed the acquisition of Aquarius Biotechnologies Inc., whose name
+was subsequently changed to Matinas BioPharma Nanotechnologies, Inc. (referred to as the “2015 Merger” throughout this
+document), a New Jersey-based, early-stage pharmaceutical company focused on the development of differentiated and orally delivered
+therapeutics based on a proprietary, lipid crystal drug delivery platform called “cochleate delivery technology.” Our proprietary cochleate delivery technology
+platform, licensed from Rutgers University on an exclusive worldwide basis, is designed specifically for the targeted and safe
+delivery of pharmaceuticals directly to the site of infection or inflammation. This innovative technology utilizes lipid-crystal
+nano-particle cochleates to nano-encapsulate existing drugs, which is designed to make them safer, more tolerable, less toxic and
+orally bioavailable. We believe this platform represents a significant innovation that may result in meaningful improvements to
+currently available therapies to treat numerous life-threatening diseases, including serious fungal infections, NTM infections
+and multi-drug resistant, or MDR, gram-negative bacterial infections. Currently, we are focused on the anti-infectives
+market and on drug candidates which demonstrate the value and innovation associated with our unique delivery technology platform.
+We believe initially focusing on the anti-infectives market has distinct advantages for the development of products which meet
+significant unmet medical need, including: · a current regulatory environment which provides small development and clinical stage companies incentives and opportunities
+to reduce development cost and timeline to market for anti-infective drug candidates; · traditional high correlation between efficacy and safety data in preclinical animal models and the outcome of human clinical
+trials with these product candidates; · attractive commercial opportunities for a product differentiated in its safety profile, mode of action and oral bioavailability
+positioned against current therapies with significant side effects, limited efficacy and intravenous delivery resulting in lack
+of convenience, compliance and at a significant burden to the cost of healthcare; and · an ability to commercialize anti-infective products with a focused and cost-efficient sales and marketing organization. - 41 - We currently have two clinical-stage products
+designed for the treatment of infectious disease. Our lead product candidate is MAT2203, a novel oral formulation of a broad spectrum
+anti-fungal drug called amphotericin B which uses our cochleate delivery technology. We are initially developing MAT2203 for the
+treatment of Candida infections as well as the prophylaxis, or prevention, of invasive fungal infections (IFIs) due to immunosuppressive
+therapy. A Phase 1a study has been completed and demonstrated that MAT2203 was generally well tolerated at all dosage levels with
+no serious adverse events reports and no laboratory or renal function abnormalities observed. We are currently screening and enrolling
+patients in a Phase 2a study of MAT2203 in collaboration with the National Institute of Allergy and Infectious Diseases, or NIAID,
+of the National Institutes of Health, or NIH. In the third quarter of 2016, the NIH commenced dosing patients in this Phase 2a
+study and, assuming the NIH meets the anticipated clinical timelines, we anticipate announcing results of this study during the
+first half of 2017. In addition to the Phase 2a trial being conducted by the NIH, we expect to commence an additional Phase 2 study
+of MAT2203 in patients with vulvovaginal candidiasis in the fourth quarter of 2016, with results expected later in the first half
+of 2017. Our second clinical stage product candidate
+is MAT2501, an orally administered, encochleated formulation of the broad spectrum aminoglycoside antibiotic amikacin which may
+be used to treat different types of multidrug-resistant bacteria, including non-tubercular mycobacterial infections (NTM), as well
+as various multidrug-resistant gram negative and intracellular bacterial infections. Currently, amikacin cannot be absorbed enterally
+and must be given by intravenous, intramuscular or nebulization routes with the significant risk of nephrotoxicity and ototoxicity,
+which makes it an impractical choice when treating serious infections which often require long courses of therapy, often 12 to
+18 months or longer. MAT2501, taking advantage of its innovative, nano-encapsulation delivery technology, is being developed to
+be orally administered, and is designed to be a safer and targeted therapy for improved treatment of these serious and life-threatening
+bacterial infections in patients, including those who are severely immunocompromised. We are initially developing MAT2501 for the
+treatment of non-tuberculous mycobacteria (NTM). NTM causes many serious and life-threatening diseases, including pulmonary disease,
+skin and soft tissue disease, joint infections and, in immunocompromised individuals, disseminated infection. The most common clinical
+manifestation of NTM disease is pulmonary, or lung, disease. NTM lung infection occurs when a person inhales the organism from
+their environment. There are about 50,000 to 90,000 people with NTM pulmonary disease in the United States, with a much higher
+prevalence in older adults, and these numbers appear to be increasing. However, NTM can affect any age group. Without treatment,
+the progressive lung infection caused by NTM results in severe cough, fatigue and weight loss, and ultimately can lead to death.
+In some people NTM infections can become chronic and require ongoing treatment. Treatment may be difficult because NTM bacteria
+may be resistant to many common types of antibiotics. Severe NTM lung disease can have a significant impact on quality of life
+and can be life-threatening. We are also developing MAT2501 for the treatment of a variety of serious and acute bacterial infections,
+including the treatment of gram negative bacterial infections, currently the most significant unmet medical need identified by
+infectious disease specialists. We recently filed an Investigational New Drug (IND) application with FDA and are cleared to commence
+Phase 1 clinical studies in January 2016. We plan to initiate the first Phase 1 study of MAT2501 during the fourth quarter of 2016. We are currently exploring strategic partnering
+options for our legacy cardiovascular drug, MAT9001, which has been developed and targeted to date for the treatment of very high
+triglycerides and MAT8800, our discovery program seeking to identify product candidates derived from omega-3 fatty acids for the
+treatment of nan-alcoholic fatty liver disease. We are a clinical stage company and have generated
+$0 and $0.1 million in contract research revenues during the six months ended June 30, 2016 and June 30, 2015, respectively, and
+$0.2 million and $0 in contract research revenues during the years ended December 31, 2015 and December 31, 2014, respectively.
+These contract research revenues ended during 2015 and we do not anticipate any revenues during the remainder of 2016. We have
+incurred losses for each period from inception. Our net loss was approximately $3.9 million and $5.0 million for the six months
+ended June 30, 2016 and June 30, 2015, respectively, and $9.1 million and $10.2 million for the years ended December 31, 2015 and
+December 31, 2014, respectively. We expect to incur significant expenses and increasing operating losses for the foreseeable future.
+We expect our expenses to increase significantly in connection with our ongoing activities to develop, seek regulatory approval
+and commercialization of MAT2203 and MAT2501 and any other product candidates we choose to develop based upon our platform technology.
+Accordingly, we will need additional financing to support our continuing operations. We will seek to fund our operations through
+public or private equity or debt financings or other sources, which may include collaborations with third parties. Adequate additional
+financing may not be available to us on acceptable terms, or at all. Our failure to raise capital as and when needed would impact
+our going concern and would have a negative impact on our financial condition and our ability to pursue our business strategy and
+continue as a going concern. We will need to generate significant revenues to achieve profitability, and we may never do so. - 42 - Financial Operations Overview Revenue We generated Contract Research Revenue in the
+amount of $0 and $0.1 million for the six months ended June 30, 2016 and 2015, respectively, versus $0.2 million and $0 for the
+years ended December 31, 2015 and 2014, respectively. This revenue is directly related to our acquisition of Matinas Nanotechnologies
+and contracts which Matinas Nanotechnologies had with the National Institutes of Health (NIH). These contracts were related to
+work being done on MAT2203 and MAT2501. These contracts ended in 2015 and we expect no additional revenue in 2016 unless we enter
+into a new revenue arrangement. Our ability to generate product revenue from our lead clinical product candidates, if approved,
+which we do not expect to occur before 2020, if ever, will depend significantly on the successful development and eventual commercialization
+of MAT2203 and MAT2501. Research and Development Expenses Research and development expenses consist of
+costs incurred for the deve

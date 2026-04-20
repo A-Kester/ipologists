@@ -1,0 +1,168 @@
+You should carefully consider the risks described below before making an
+investment decision. The trading price of our common stock could decline due to
+any of these risks, in which case you could lose all or part of your investment.
+You should also refer to the other information in this prospectus, including our
+consolidated financial statements and related notes. The risks and uncertainties
+described below are those that we currently believe may materially affect our
+company. Additional risks and uncertainties that we are unaware of or that we
+currently deem immaterial also may become important factors that affect our
+company.
+
+                   RISKS RELATED TO BEING A REGULATED ENTITY
+
+REDUCTIONS IN MEDICAID FUNDING COULD SUBSTANTIALLY REDUCE OUR PROFITABILITY.
+
+     Nearly all of our revenues come from Medicaid premiums. The base premium
+rate paid by each state differs, depending on a combination of factors such as
+defined upper payment limits, a member's health status, age, gender, county or
+region, benefit mix and member eligibility categories. Future levels of Medicaid
+premium rates may be affected by continued government efforts to contain medical
+costs and may further be affected by state and federal budgetary constraints.
+Changes to Medicaid programs could reduce the number of persons enrolled or
+eligible, reduce the amount of reimbursement or payment levels, or increase our
+administrative or healthcare costs under those programs. States periodically
+consider reducing or reallocating the amount of money they spend for Medicaid.
+We believe that additional reductions in Medicaid payments could substantially
+reduce our profitability. Further, our contracts with the states are subject to
+cancellation by the state after a short notice period in the event of
+unavailability of state funds.
+
+IF OUR MEDICAID AND SCHIP CONTRACTS ARE TERMINATED OR ARE NOT RENEWED, OUR
+BUSINESS WILL SUFFER.
+
+     We provide managed care programs and selected services to individuals
+receiving benefits under Medicaid, including Supplemental Security Income or
+SSI, and the State Children's Health Insurance Program or SCHIP. We provide
+those healthcare services under five contracts with regulatory entities in the
+areas in which we operate. The contracts expire on various dates between
+December 31, 2002 and December 31, 2003. Our contracts with the states of
+Indiana and Wisconsin accounted for 73% of our revenues for the year ended
+December 31, 2001. Our contracts may be terminated if we fail to perform up to
+the standards set by state regulatory agencies. In addition, the Indiana
+contract under which we operate can be terminated by the state without cause.
+Our contracts are generally intended to run for two years and may be extended
+for one or two additional years if the state or its contractor elects to do so.
+When our contracts expire, they may be opened for bidding by competing
+healthcare providers. There is no guarantee that our contracts will be renewed
+or extended. If any of our contracts are terminated, not renewed, or renewed on
+less favorable terms, our business will suffer, and our operating results may be
+materially affected.
+
+CHANGES IN GOVERNMENT REGULATIONS DESIGNED TO PROTECT PROVIDERS AND MEMBERS
+RATHER THAN OUR STOCKHOLDERS COULD FORCE US TO CHANGE HOW WE OPERATE AND COULD
+HARM OUR BUSINESS.
+
+     Our business is extensively regulated by the states in which we operate and
+by the federal government. The applicable laws and regulations are subject to
+frequent change and generally are intended to benefit and protect health plan
+providers and members rather than stockholders. Changes in existing laws and
+rules, the enactment of new laws and rules, or changing interpretations of these
+laws and rules could, among other things:
+
+     - force us to restructure our relationships with providers within our
+       network;
+
+     - require us to implement additional or different programs and systems;
+
+     - mandate minimum medical expense levels as a percentage of premiums
+       revenues;
+
+     - restrict revenue and enrollment growth;
+
+                                        5 - require us to develop plans to guard against the financial insolvency of
+       our providers;
+
+     - increase our healthcare and administrative costs; impose additional
+       capital and reserve requirements; and
+
+     - increase or change our liability to members in the event of malpractice
+       by our providers.
+
+     For example, Congress currently is considering various forms of patient
+protection legislation commonly known as Patients' Bills of Rights. We cannot
+predict the impact of this legislation, if adopted, on our business.
+
+REGULATIONS MAY DECREASE THE PROFITABILITY OF OUR HEALTH PLANS.
+
+     Our Texas plans are required to pay a rebate to the state in the event
+profits exceed established levels. This regulatory requirement, changes in this
+requirement or the adoption of similar requirements by our other regulators may
+limit our ability to increase our overall profits as a percentage of revenues.
+The State of Texas has implemented and is enforcing a penalty provision for
+failure to pay claims in a timely manner. Failure to meet this requirement can
+result in financial fines and penalties. In addition, states may attempt to
+reduce their contract premium rates if regulators perceive our medical loss
+ratio as too low. Any of these regulatory actions could harm our operating
+results.
+
+     Also, on January 18, 2002, the federal Centers for Medicare and Medicaid
+Services, or CMS, published a final rule that removed an exception contained in
+the federal Medicaid reimbursement regulations permitting states to reimburse
+non-state government-owned or operated hospitals for inpatient and outpatient
+hospital services at amounts up to 150 percent of a reasonable estimate of the
+amount that would be paid for the services furnished by these hospitals under
+Medicare payment principles. This development in federal law could decrease the
+profitability of our health plans.
+
+FAILURE TO COMPLY WITH GOVERNMENT REGULATIONS COULD SUBJECT US TO CIVIL AND
+CRIMINAL PENALTIES.
+
+     Federal and state governments have enacted fraud and abuse laws and other
+laws to protect patients' privacy and access to healthcare. Violation of these
+and other laws or regulations governing our operations or the operations of our
+providers could result in the imposition of civil or criminal penalties, the
+cancellation of our contracts to provide services, the suspension or revocation
+of our licenses or our exclusion from participating in the Medicaid, SSI and
+SCHIP programs. Because of these potential sanctions, we seek to monitor our
+compliance and that of our providers with federal and state fraud and abuse and
+other healthcare laws on an ongoing basis. These penalties or exclusions, were
+they to occur as the result of our actions or omissions, or our inability to
+monitor the compliance of our providers, would negatively impact our ability to
+operate our business. For example, failure to pay our providers promptly could
+result in the imposition of fines and other penalties. In some states, we may be
+subject to regulation by more than one governmental authority, which may impose
+overlapping or competing regulations.
+
+     The Health Insurance Portability and Accountability Act of 1996, or HIPAA,
+broadened the scope of fraud and abuse laws applicable to healthcare companies.
+HIPAA created civil penalties for, among other things, billing for medically
+unnecessary goods or services. HIPAA established new enforcement mechanisms to
+combat fraud and abuse, including a whistle blower program. Further, HIPAA
+imposes civil and, in some instances, criminal penalties for failure to comply
+with specific standards relating to the privacy, security and electronic
+transmission of individually-identifiable health information. These standards
+will become effective in April 2003. Congress may enact additional legislation
+to increase penalties and to create a private right of action under HIPAA, which
+would entitle patients to seek monetary damages for violations of the privacy
+rules.
+
+COMPLIANCE WITH NEW GOVERNMENT REGULATIONS MAY REQUIRE US TO MAKE SIGNIFICANT
+EXPENDITURES.
+
+     In August 2000, the Department of Health and Human Services, or HHS, issued
+a new regulation under HIPAA requiring the use of uniform electronic data
+transmission standards for healthcare claims and payment transactions submitted
+or received electronically. We are required to comply with the new
+
+                                        6 regulation by October 2002, or submit a "compliance plan" with the HSS on or
+before October 15, 2002, that details how we will meet the extended compliance
+deadline of October 16, 2003. In addition, Texas has indicated that it may
+impose an earlier compliance deadline. In August 1998, HHS proposed a regulation
+that would require healthcare participants to implement organizational and
+technical practices to protect the security of electronically maintained or
+transmitted health-related information. In December 2000, HHS issued a new
+regulation mandating heightened privacy and confidentiality protections under
+HIPAA that became effective on April 14, 2001. Compliance with this regulation
+will be required by April 14, 2003.
+
+     In January 2001, CMS (then the Health Care Financing Administration)
+published new regulations regarding Medicaid managed care. CMS subsequently
+delayed the effective date of these regulations until August 16, 2002. In August
+2001, CMS proposed new regulations that would modify the January regulations. If
+adopted, these regulations would implement the requirements of the Balanced
+Budget Act of 1997 that are intended to give states more flexibility in their
+administration of Medicaid managed care programs, provide new patient
+protections for Medicaid managed care enrollees and require states to meet new
+actuarial soundness requirements.
+
+     The Bush Administra

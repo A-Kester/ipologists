@@ -1,0 +1,109 @@
+– Risks Relating to the Offering – Our failure to maintain adequate internal control over financial reporting in accordance with
+Section 404 of Sarbanes-Oxley or to prevent or detect material misstatements in our
+annual or interim consolidated financial statements in the future could result in inaccurate financial reporting, sanctions or securities litigation or otherwise harm our business.” We may
+in the future identify further material weaknesses in our control over financial
+reporting. Accordingly, material weaknesses may exist when we report on the effectiveness of our
+internal control over financing reporting for purposes of our attestation required by reporting
+requirements under the Exchange Act or Section 404 of Sarbanes-Oxley
+after this offering. The existence of one or more material weaknesses precludes a conclusion
+that we maintain effective internal control over financial reporting. Such conclusion would be
+required to be disclosed in our future Annual Reports on Form 10-K and may impact the accuracy and
+timing of our financial reporting and the reliability of our internal
+control over financial reporting. Inflation Our
+results have operations have not been, and we do not expect them to
+be, materially affected by inflation. Quantitative and Qualitative Disclosure About Market Risk Market risk
+is the risk of loss related to changes in market prices, including interest rates,
+foreign exchange rates and commodity pricing that may adversely impact our
+consolidated financial position, results of operations or cash flows. Foreign
+Exchange Risk. We face minimal exposure to adverse movements in foreign currency exchange rates. Our foreign
+currency losses for all reporting periods have been nominal. Interest
+Rate Risk. As of June 30, 2007, $6.7 million of our $10.7 million of outstanding debt was at floating
+interest rates. An increase of 1.0% in the prime rate would result in an increase in our interest
+expense of approximately $67,000 per year. Commodity
+Price Risk. We are exposed to certain commodity price risks associated with our purchases of raw
+materials, most significantly our aluminum. We attempt to mitigate commodity price fluctuation for
+our aluminum through six- to 12-month forward fixed-price, minimum quantity purchase commitments. Critical Accounting Policies and Estimates The discussion
+and analysis of our financial condition and results of operations is based upon
+our consolidated financial statements, which have been prepared in accordance with accounting
+principles generally accepted in the United States. The preparation of our consolidated financial
+statements requires us to make certain estimates and judgments that affect our reported assets,
+liabilities, revenue and expenses, and our related disclosure of contingent assets and liabilities.
+We re-evaluate our estimates on an ongoing basis, including those related to revenue recognition,
+inventory valuation, the collectibility of receivables, stock-based compensation and income taxes.
+We base our estimates on historical experience and on various assumptions that we believe to be
+reasonable under the circumstances. Actual results may differ from these estimates. A summary of
+our critical accounting policies is set forth below. 54 Table of Contents Revenue
+Recognition. We recognize revenue when the following criteria have been met: there is persuasive evidence
+of an arrangement; delivery has occurred and title has passed to the customer; the price is fixed
+and determinable and no further obligation exists; and collectibility is reasonably assured. The
+majority of
+our revenue is recognized when products are shipped to a customer or when services are
+completed and acceptance provisions, if any, have been met. In certain of our contracts, we provide multiple
+deliverables. We record the revenue associated with each element of these arrangements based on
+its fair value, which is generally the price charged for the element when sold on a standalone
+basis. Since we contract with vendors for
+installation services to our customers, we determine the fair value of our installation services
+based on negotiated pricing with such vendors. Additionally, we offer
+a sales program under which we finance the customer’s purchase.
+Our contracts under this sales program are typically one year in duration and, at the completion of the initial one-year
+term, provide for (i) four automatic one-year renewals at agreed upon pricing; (ii) an early buyout
+for cash; or (iii) the return of the equipment at the customer’s expense. Upon completion of the
+installation, we sell the future lease cash flows and residual rights to the equipment on a
+non-recourse basis to an unrelated third party finance company in exchange for cash and future
+payments. We recognize revenue based on the net present value of the future payments from the
+third party finance company upon completion of the project. Deferred revenue or deferred costs are recorded for project sales consisting of multiple
+elements, where the criteria for revenue recognition have not been met. The majority of our
+deferred revenue relates to prepaid services to be provided at determined future dates. As of June
+30, 2006 and 2007, our deferred revenue was $0.1 million and $0.2 million, respectively. In the
+event that a customer project contains multiple elements that are not sold on a standalone basis,
+we defer all related revenue and costs until the project is complete. Deferred costs on product are
+recorded as a current asset as project completions occur within
+a few months. As of June 30, 2006
+and 2007, our deferred costs were $0.4 million and $0.3 million, respectively. Inventories. Inventories are stated at the lower of cost or market value and include raw materials, work in
+process and finished goods. Items are removed from inventory using the first-in, first-out method.
+Work in process inventories are comprised of raw materials that have been converted into components
+for final assembly. Inventory amounts include the cost to manufacture the item, such as the cost of
+raw materials and related freight, labor and other applied overhead costs. We review our inventory
+for obsolescence and marketability. If the estimated market value, which is based upon assumptions
+about future demand and market conditions, falls below cost, then the inventory value is reduced to
+its market value. Our inventory obsolescence reserves were $0.4 million, $0.4 million and $0.5
+million at March 31, 2006, March 31, 2007 and June 30, 2007, respectively. Allowance
+for Doubtful Accounts. We perform ongoing evaluations of our customers and continuously monitor collections and
+payments and estimate an allowance for doubtful accounts based upon the aging of the underlying
+receivables, our historical experience with write-offs and specific customer collection issues that
+we have identified. While such credit losses have historically been within our expectations, and we
+believe appropriate reserves have been established, we may not adequately predict future credit
+losses. If the financial condition of our customers were to deteriorate and result in an impairment
+of their ability to make payments, additional allowances might be required which would result in
+additional general and administrative expense in the period such determination is made. Our
+allowance for doubtful accounts 55 Table of Contents was $38,000, $0.1 million and $0.1 million at March 31, 2006, March
+31, 2007 and June 30, 2007, respectively. Stock-Based
+Compensation . We have historically issued stock options to our employees, executive officers and directors.
+Prior to April 1, 2006, we accounted for these option grants under the recognition and measurement
+principles of Accounting Principles Board, or APB, Opinion No. 25, Accounting for Stock Issued to
+Employees , and related interpretations, and applied the disclosure provisions of Statement of
+Financial Accounting Standards, or SFAS, No. 123, Accounting for Stock-Based Compensation , as
+amended by SFAS No. 148, Accounting for Stock-Based Compensation – Transition and Disclosure – an
+Amendment of Financial Accounting Standards Board, or FASB, Statement No. 123 . This accounting
+treatment resulted in a pro forma stock option expense that was reported in the footnotes to our
+consolidated financial statements for those years. For options granted prior to April 1, 2006, we recorded stock-based compensation expense,
+typically associated with options granted to employees, executive officers or directors, based upon
+the difference, if any, between the estimated fair market value of common stock underlying the
+options on the date of grant and the option exercise price. For
+purposes of establishing the exercise price of options granted prior
+to April 1, 2006 our compensation committee and board of
+directors used (i) known independent
+third-party sales of our common stock and (ii) the per share prices at which we issued shares of our
+common and preferred stock to third-party investors. In fiscal 2006, in accordance with APB No. 25, we
+recognized $33,000 of stock-based compensation expense, excluding the $0.5 million compensation
+charge associated with a director’s exercise of a stock option with a full recourse below market
+interest rate promissory note. In fiscal 2005, no stock-based
+compensation expense was recognized. 56 Table of Contents Effective
+April 1, 2006, we adopted the provisions of SFAS No. 123(R), Share-Based Payment ,
+which requires us to expense the estimated fair value of employee stock options and similar awards
+based on the fair value of the award on the date of grant. We adopted
+SFAS 123(R) using the modified
+prospective method. Under this transition method, compensation cost recognized for fiscal 2007
+included the current period’s cost for all stock options granted prior to, but not yet vested as
+of, April 1, 2006. This cost was based on the grant-date fair value estimated in accordance with
+the original provisions of SF

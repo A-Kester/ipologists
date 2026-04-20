@@ -1,0 +1,185 @@
+You should carefully consider the following risk factors and all other
+information contained in this prospectus before purchasing our common stock in
+this offering.
+
+                         RISKS RELATING TO OUR BUSINESS
+
+IF SEMICONDUCTOR DESIGNERS AND MANUFACTURERS DO NOT ADOPT OUR DESIGN-TO-SILICON
+YIELD SOLUTIONS, WE MAY BE UNABLE TO INCREASE OR MAINTAIN OUR REVENUE.
+
+     If semiconductor designers and manufacturers do not adopt our
+design-to-silicon yield solutions, our revenue could decline. To date, we have
+worked with a limited number of semiconductor companies on a limited number of
+integrated circuit, or IC, products and processes. To be successful, we will
+need to enter into agreements covering a larger number of IC products and
+processes with existing customers and new customers. Our existing customers are
+large integrated device manufacturers, or IDMs. We will need to target as new
+customers additional IDMs, as well as semiconductor companies in different
+segments of the semiconductor market, such as fabless semiconductor companies,
+foundries and system manufacturers. Factors that may limit adoption of our
+design-to-silicon yield solutions by semiconductor companies include:
+
+     - our customers may fail to achieve satisfactory yield improvements using
+       our design-to-silicon yield solutions;
+
+     - the industry may develop alternative methods to enhance the integration
+       between the semiconductor design and manufacturing processes due to a
+       rapidly evolving market and the likely emergence of new technologies;
+
+     - our existing and potential customers' may be reluctant to understand and
+       accept our unique gain share fee component, which is a fee based on
+       improvements in our customers' yields;
+
+     - semiconductor companies may not use our design-to-silicon yield solutions
+       if there is a decrease in demand for semiconductors generally or if the
+       demand for deep submicron semiconductors fails to grow as rapidly as
+       expected; and
+
+     - customers may be concerned about our ability to keep highly competitive
+       information confidential.
+
+OUR LIMITED OPERATING HISTORY AND RECENT ADOPTION OF A NOVEL AND UNPROVEN
+BUSINESS MODEL MAKE IT DIFFICULT TO EVALUATE OUR FUTURE PROSPECTS.
+
+     We have a limited operating history on which you can base your evaluation
+of our business. In 1998, we began selling software, services and other
+technologies together as a design-to-silicon yield solution. In addition,
+because we have not demonstrated our ability to generate significant revenue,
+our business model is unproven, especially with respect to gain share fees,
+which we expect will constitute a significant portion of our revenue for the
+foreseeable future. Our ability to generate gain share revenue is uncertain
+since our business model is unproven. Our existing and potential customers may
+resist this approach and may seek to limit or restrict our gain share fees. As a
+result, it will be difficult for financial markets analysts and investors to
+evaluate our future prospects.
+
+FLUCTUATIONS IN OUR QUARTERLY OPERATING RESULTS MAY CAUSE OUR STOCK PRICE TO
+DECLINE.
+
+     Historically, our quarterly operating results have fluctuated. Our future
+quarterly operating results will likely fluctuate from time to time and may not
+meet the expectations of securities analysts and investors in some future
+period. The price of our common stock could decline due to such fluctuations.
+The following factors may cause significant fluctuations in our future quarterly
+operating results:
+
+     - the size and timing of sales volumes achieved by our customers' products;
+
+     - the loss of any of our large customers;
+                                        6 9
+
+     - the size of improvements in our customers' yield and the timing of
+       agreement as to those improvements;
+
+     - our long and variable sales cycle;
+
+     - changes in the mix of our revenue;
+
+     - changes in the level of our operating expenses needed to support our
+       projected growth; and
+
+     - delays in completing solution implementations for our customers.
+
+OUR GAIN SHARE REVENUE IS LARGELY DEPENDENT ON THE VOLUME OF ICS OUR CUSTOMERS
+ARE ABLE TO SELL TO THEIR CUSTOMERS, WHICH IS OUTSIDE OUR CONTROL.
+
+     Our gain share revenue for a particular product is largely determined by
+the volume of that product our customer is able to sell to its customers, which
+is outside of our control. We have limited ability to predict the success or
+failure of our customer's IC products. We may commit a significant amount of
+time and resources to a customer who is ultimately unable to sell as many units
+as we had anticipated when contracting with them. Since we currently work on a
+small number of large projects, any product that does not achieve commercial
+viability could significantly harm our revenue and results of operations. In
+addition, if we work with two directly competitive products, volume in one may
+offset volume, and any of our related gain share, in the other product.
+
+WE GENERATE VIRTUALLY ALL OF OUR TOTAL REVENUE FROM A LIMITED NUMBER OF
+CUSTOMERS, SO THE LOSS OF ANY ONE OF THESE CUSTOMERS COULD HAVE A SIGNIFICANT
+NEGATIVE EFFECT ON OUR REVENUE AND RESULTS OF OPERATIONS.
+
+     Historically, we have had a small number of large customers and we expect
+this to continue in the near term. The loss of any one customer may have a
+significant adverse effect on our total revenue. In particular, such a loss
+could cause significant fluctuations in results of operations due to our
+expenses being fixed in the short term, our lengthy sales cycle and because any
+offsetting gain share revenue from new customers would not begin to be
+recognized until much later.
+
+WE HAVE A HISTORY OF LOSSES, WE EXPECT TO INCUR LOSSES IN THE FUTURE AND WE MAY
+BE UNABLE TO ACHIEVE OR SUBSEQUENTLY MAINTAIN PROFITABILITY.
+
+     We may not achieve or subsequently maintain profitability if our revenue
+increases more slowly than we expect or not at all. In addition, virtually all
+of our operating expenses are fixed, so any shortfall in anticipated revenue in
+any given period could cause our operating results to decrease. We have not been
+profitable in any quarter, and our accumulated deficit was approximately
+$419,000 as of June 30, 2000. We expect to continue to incur significant
+expenses in connection with:
+
+     - increased funding for research and development;
+
+     - expansion of our solution implementation teams;
+
+     - expansion of our sales and marketing efforts; and
+
+     - additional non-cash charges relating to amortization of intangibles and
+       deferred stock compensation.
+
+     As a result, we will need to significantly increase revenue to achieve and
+maintain profitability. If we do achieve profitability, we may be unable to
+sustain or increase profitability on a quarterly or annual basis. Any of these
+factors could cause our stock price to decline.
+
+GAIN SHARE MEASUREMENT REQUIRES DATA COLLECTION AND IS SUBJECT TO CUSTOMER
+AGREEMENT, WHICH CAN RESULT IN UNCERTAINTY AND CAUSE QUARTERLY RESULTS TO
+FLUCTUATE.
+
+     We can only recognize gain share revenue once we have reached agreement
+with our customers on their level of yield performance improvements. Because
+measuring the amount of yield improvement is inherently complicated and
+dependent on our customers' internal information systems, there may be
+
+                                        7 10
+
+uncertainty as to some components of measurement. This could result in our
+recognition of less revenue than expected. In addition, any delay in measuring
+gain share could cause all of the associated revenue to be delayed until the
+next quarter. Since we currently have only a few large customers and we are
+relying on gain share as a significant component of our total revenue, any delay
+could significantly harm our quarterly results.
+
+WE HAVE A LONG AND VARIABLE SALES CYCLE, WHICH CAN RESULT IN UNCERTAINTY AND
+DELAYS IN GENERATING ADDITIONAL REVENUE.
+
+     Because our gain share business model is novel and our design-to-silicon
+yield solutions are unfamiliar, our sales cycle is lengthy and requires a
+significant amount of our senior management's time and effort. Furthermore, we
+need to target those individuals within our customer's organization who have
+overall responsibility for the profitability of an IC. These individuals tend to
+be senior management or executive officers. We may face difficulty identifying
+and establishing contact with such individuals. We typically send one or more of
+our senior executives and several engineers to meet with a prospective customer.
+Even after initial acceptance, due to the complexity of structuring the gain
+share component, the negotiation and documentation processes can be lengthy. It
+can take six months or more to reach a signed contract with a customer.
+
+CHANGES IN THE STRUCTURE OF OUR CUSTOMER CONTRACTS, PARTICULARLY THE MIX BETWEEN
+FIXED AND VARIABLE REVENUE, CAN ADVERSELY AFFECT OUR OPERATING RESULTS.
+
+     Our success is largely dependent upon our ability to structure our future
+customer contracts to include a larger gain share component relative to the
+fixed fee component. If we are successful in increasing the gain share component
+of our customer contracts, we will experience an adverse impact on our operating
+results in the short term as we reduce the fixed fee component, which we
+typically recognize earlier than gain share fees. In addition, by increasing the
+gain share component, we increase the variability of our revenue, and therefore
+increase the risk that our total future revenue will be lower than expected and
+fluctuate significantly from period to period.
+
+WE MUST CONTINUALLY ATTRACT AND RETAIN HIGHLY TALENTED EXECUTIVES, ENGINEERS AND
+RESEARCH AND DEVELOPMENT PERSONNEL OR WE WILL BE UNABLE TO EXECUTE OUR BUSINESS
+STRATEGY.
+
+     We will need to continue to hire highly talented executives, engineers and
+research and development perso

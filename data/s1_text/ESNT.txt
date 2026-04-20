@@ -1,0 +1,51 @@
+discussed below, we advise you to read "Certain Tax Considerations—Taxation of the Company
+and Subsidiaries—Bermuda" and "—United States", and consult your own tax advisor regarding the tax consequences to your investment in our common shares. 33 Table of Contents We and our non-U.S. subsidiaries may become subject to U.S. Federal income and branch profits taxation. Essent Group Ltd. and Essent Re intend to operate their business in a manner that will not cause them to be treated as engaged
+in a trade or business in the United States and, thus, will not be required to pay U.S. Federal income and branch profits taxes (other than U.S. excise taxes on insurance and reinsurance premium and
+withholding taxes on certain U.S. source investment income) on their income. However, because there is uncertainty as to the activities which constitute being engaged in a trade or business in the
+United States, there can be no assurances that the U.S. Internal Revenue Service ("IRS") will not contend successfully that Essent Group Ltd. or its non-U.S. subsidiaries are engaged in a trade
+or business in the United States. In addition, Section 845 of the Internal Revenue Code of 1986, as amended (the "Code"), was amended in 2004 to permit the IRS to reallocate, recharacterize or
+adjust items of income, deduction or certain other items related to a reinsurance contract between related parties to reflect the proper "amount, source or character" for each item (in contrast to
+prior law, which only covered "source and character"). If, in future periods, we were to generate income from our Bermuda operations, then any U.S. Federal income and branch profits taxes levied upon
+earnings from such operations could materially adversely affect our shareholders' equity and earnings. A
+recently reintroduced legislative proposal would treat certain foreign corporations as U.S. corporations if such corporation is primarily managed and controlled within the United
+States. There can be no assurance that the proposal would not apply to Essent Group Ltd. Congress
+has been considering legislation intended to eliminate certain perceived tax advantages of Bermuda and other non-U.S. insurance companies and U.S. insurance companies having
+Bermuda and other non-U.S. affiliates, including perceived tax benefits resulting principally from reinsurance between or among U.S. insurance companies and their Bermuda affiliates. A
+legislative proposal in the House of Representatives as well as a prior Senate Finance Committee staff discussion draft and other prior proposals would limit deductions for premiums
+ceded to affiliated non-U.S. reinsurers above certain levels. The Administration's Fiscal Year 2014 Revenue Proposals contain a similar but more restrictive provision that would deny deductions for
+all premiums ceded to affiliated non-U.S. reinsurers, offset by an exclusion for any ceding commissions received or reinsurance recovered from such affiliates. Two legislative proposals
+(H.R. 3157 and S. 1963) introduced during the 112th Congress appeared to adopt the provision contained in the Administration's Fiscal Year 2013 Revenue Proposals. Enactment of such
+legislation or proposal as well as other changes in U.S. tax laws, regulations and interpretations
+thereof to address these issues could adversely affect us to the extent we generate income from our Bermuda operations. The Federal Insurance Excise Tax may apply on a cascading basis. The IRS, in Revenue Ruling 2008-15, formally announced its position that the Federal Insurance Excise Tax (the "FET") is applicable
+(at a 1% rate on premiums) to all reinsurance cessions or retrocessions of risks by non-U.S. insurers or reinsurers to non-U.S. reinsurers where the underlying risks are either (i) risks of a
+U.S. entity or individual located wholly or partly within the United States, or (ii) risks of a non-U.S. entity or individual engaged in a trade or business in the United States which are
+located within the United States ("U.S. Situs Risks"), even if the FET has been paid on prior cessions of the same risks. The legal and jurisdictional basis for the IRS' position is unclear. Although
+certain U.S. income tax treaties provide for an exemption from the FET, including the "cascading" FET, the U.S. income tax treaty with Bermuda does not provide for such an exemption. We expect,
+pursuant to Revenue Ruling 2008-15, that the FET could be applicable with respect to (i) risks ceded to Essent Re from a non-U.S. insurance company, or (ii) risks ceded by Essent Re to a
+non-U.S. insurance company that does not have a FET treaty exemption. 34 Table of Contents Holders of 10% or more of our common shares may be subject to U.S. income taxation under the "controlled foreign corporation" ("CFC") rules. If you are a "10% U.S. Shareholder" (defined as a U.S. Person (as defined in "Certain Tax Considerations") who owns (directly,
+indirectly through non-U.S. entities or "constructively" (as defined below)) at least 10% of the total combined voting power of all classes of stock entitled to vote) of a non-U.S. corporation that is
+a CFC for an uninterrupted period of 30 days or more during a taxable year and you own shares in the non-U.S corporation directly or indirectly through non-U.S. entities on the last day of the
+non-U.S. corporation's taxable year on which it is a CFC, you must include in your gross income for U.S. Federal income tax purposes your pro rata share of the CFC's "subpart F income," even if
+the subpart F income is not distributed. "Subpart F income" of a non-U.S. insurance corporation typically includes "foreign personal holding company income" (such as interest, dividends
+and other types of passive income), as well as insurance and reinsurance income (including underwriting and investment income). A non-U.S. corporation is considered a CFC if "10% U.S. Shareholders"
+own (directly, indirectly through non-U.S. entities or by attribution by application of the constructive ownership rules of section 958(b) of the Code, (i.e., "constructively")) more
+than 50% of the total combined voting power of all classes of voting stock of that non-U.S. corporation, or the total value of all stock of that non-U.S. corporation. For purposes of taking into
+account insurance income, a CFC also includes a non-U.S. corporation earning insurance income in which more than 25% of the total combined voting power of all classes of stock (or more than 25% of the
+total value of the stock) is owned by 10% U.S. Shareholders on any day during the taxable year of such corporation, if the gross amount of
+premiums or other consideration for the reinsurance or the issuing of insurance or annuity contracts (other than certain insurance or reinsurance related to some country risks written by certain
+insurance companies, not applicable here) exceeds 75% of the gross amount of all premiums or other consideration in respect of all risks. We
+believe that because of the anticipated dispersion of our share ownership, provisions in our organizational documents that limit voting power and other factors, no U.S. Person who
+owns our common shares directly or indirectly through one or more non-U.S. entities should be treated as owning (directly, indirectly through non-U.S. entities, or constructively) 10% or more of the
+total voting power of all classes of shares of the Company or Essent Re. See "— Provisions in our bye-laws may reduce or increase the voting rights of our
+shares. " It is possible, however, that the IRS could successfully challenge the effectiveness of these provisions. U.S. Persons who hold our shares may be subject to U.S. income taxation at ordinary income rates on their proportionate share of our "related party insurance income"
+("RPII"). If the RPII (determined on a gross basis) of Essent Re were to equal or exceed 20% of Essent Re's gross insurance income in any
+taxable year and direct or indirect policyholders (and persons related to those policyholders) own directly or indirectly through entities 20% or more of the voting power or value of the Company, then
+a U.S. Person who owns any shares of Essent Re (directly or indirectly through non-U.S. entities) on the last day of the taxable year on which it is an RPII CFC would be required to include in its
+income for U.S. Federal income tax purposes such person's pro rata share of Essent Re's RPII for the entire taxable year, determined as if such RPII were distributed proportionately only to U.S.
+Persons at that date regardless of whether such income is distributed, in which case your investment could be materially adversely affected. In addition, any RPII that is includible in the income of a
+U.S. tax-exempt organization may be treated as unrelated business taxable income. The amount of RPII earned by a non-U.S. insurance subsidiary (generally, premium and related investment income from
+the indirect or direct insurance or reinsurance of any direct or indirect U.S. holder of shares or any person related to such holder) will depend on a number of factors, including the identity of
+persons directly or indirectly insured or reinsured by the company. We do not expect gross RPII of Essent Re to equal or exceed 20% of its gross insurance 35 Table of Contents income
+in any taxable year for the foreseeable future, but we cannot be certain that this will be the case because some of the factors which determine the extent of RPII may be beyond our control. U.S. Persons who dispose of our shares may be subject to U.S. Federal income taxation at the rates applicable to dividends on a portion of such disposition. Section 1248 of the Code in conjunction with the RPII rules provides that if a U.S. Person disposes of shares in a non-U.S.
+corporation that earns insurance income in which U.S. Persons own 25% or more of the shares (even if the amount of gross RPII is less than 20% of the corporation's gross insurance income and the
+ownership of its shares by direct or indirect policyholders and related persons is 

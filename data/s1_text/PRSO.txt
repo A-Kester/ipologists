@@ -1,0 +1,86 @@
+You should read the section
+    entitled “ Risk Factors ” beginning on page 7 and the documents incorporated by reference in this prospectus
+    for a discussion of factors to consider carefully before deciding to invest in our securities. 5 Nasdaq Capital Market symbol Our shares of common stock
+    are traded on The Nasdaq Capital Market under the symbol “PRSO”. There is no established public trading market for the
+    warrants, and we do not expect a market to develop. We do not intend to apply for listing of the warrants on any securities exchange
+    or other nationally recognized trading system. Without an active trading market, the liquidity of the warrants will be limited. Reverse
+    Stock Split The number of shares of
+    common stock and exchangeable shares in this prospectus reflects a reverse stock split of our issued and outstanding common stock
+    at a one-for-forty (1-for-40) ratio, effective as of 4:01 p.m., Eastern Time, on January 2, 2024. The
+number of shares of our common stock to be outstanding after this offering is based on shares of common stock outstanding as of              , 2024,
+assumes no exercise of any warrants offered hereby, and excludes as of such date: ● shares
+                                            of common stock issuable upon the exchange of exchangeable shares; ● shares
+                                            of common stock issuable upon the exercise of outstanding stock options; ● shares
+                                            of common stock issuable upon the vesting of restricted stock units; ● shares
+                                            of common stock available for future issuance under the Company’s 2019 Stock Incentive
+                                            Plan; ● shares
+                                            of common stock issuable upon exercise of the warrants dated November 30, 2022 at $       per
+                                            share; and ● shares
+                                            of common stock issuable upon exercise of the warrants dated June 2, 2023 at $     per
+                                            share. Additionally,
+unless otherwise stated, all information in this prospectus reflects all currency in United States dollars. 6 RISK
+FACTORS Investing
+in our securities includes a high degree of risk. Prior to making a decision about investing in our securities, you should consider carefully
+the specific factors discussed below, together with all of the other information contained in this prospectus and the documents incorporated
+by reference, including the risks identified under “Item 1A. Risk Factors” in our Annual Report on Form 10-K for the fiscal
+year ended December 31, 2022, and our Quarterly Reports on Form 10-Q for the quarterly periods ended March 31, 2023, June 30, 2023 and
+September 30, 2023. Our business, financial condition, results of operations and prospects could be materially and adversely affected
+by these risks. Risks
+Related to Our Business We
+might not be able to continue as a going concern. Our
+consolidated financial statements as of December 31, 2022 have been prepared under the assumption that we will continue as a going concern
+for the next twelve months. As of December 31, 2022, we had cash, cash equivalents and investments of $2.9 million and an accumulated
+deficit of $149.6 million. As of September 30, 2023, we had cash and cash equivalents of $0.7 million and an accumulated deficit of $157.5
+million. Our ability to continue as a going concern is dependent upon our ability to raise additional capital and to achieve sustainable
+revenues and profitable operations. We will need to increase revenues substantially beyond levels that we have attained in the past in
+order to generate sustainable operating profit and sufficient cash flows to continue doing business without raising additional capital
+from time to time. As a result of our expected operating losses and cash burn for the foreseeable future and recurring losses from
+operations, if we are unable to raise sufficient capital through additional debt or equity arrangements, there will be uncertainty regarding
+our ability to maintain liquidity sufficient to operate our business effectively, which raises substantial doubt as to our ability to
+continue as a going concern. If we cannot continue as a viable entity, our stockholders would likely lose most or all of their investment
+in us. If
+we are unable to generate sustainable operating profit and sufficient cash flows, then our future success will depend on our ability
+to raise capital. We are seeking additional financing and evaluating financing alternatives in order to meet our cash requirements for
+the next 12 months. We cannot be certain that raising additional capital, whether through selling additional debt or equity securities
+or obtaining a line of credit or other loan, will be available to us or, if available, will be on terms acceptable to us. If we issue
+additional securities to raise funds, these securities may have rights, preferences, or privileges senior to those of our common stock,
+and our current stockholders may experience dilution. If we are unable to obtain funds when needed or on acceptable terms, we may be
+required to curtail our current product development programs, cut operating costs, forego future development and other opportunities
+or even terminate our operations. We
+intend to discontinue the production of our memory products. Taiwan
+Semiconductor Manufacturing Corporation, or TSMC, is the sole foundry that manufactures the wafers used to produce our memory IC products.
+TSMC has informed us that it will be discontinuing the foundry process used to produce the wafers necessary to produce our memory ICs.
+We are not in a position to transition wafer production to a new foundry and continue to manufacture these products. As a result, we
+have informed our customers that we are initiating an end-of-life, or EOL, of our memory IC products. We expect to fulfill product EOL
+orders during 2024 and into 2025. Our memory IC products represented over 50% of our revenues for the year ended December 31, 2022 and
+over 60% of our revenues for the nine months ended September 30, 2023. The discontinuation of the production and sale of our memory IC
+products will negatively impact our future revenues, results of operations and cash flows. Our
+gross profit may fluctuate due to a variety of factors, which could negatively impact our results of operations and our financial condition. Our
+gross profit may fluctuate due to a number of factors, including customer and product mix, market acceptance of our new products, yield,
+wafer pricing, packaging and testing costs, competitive pricing dynamics, charges for inventory write-downs and geographic and market
+pricing strategies. To the extent we may offer or be contractually obligated to offer certain customers favorable prices, it would decrease
+our average selling prices and likely impact our gross profit. In the possible event our customers, including our larger customers, exert
+more pressure with respect to pricing and other terms, it could put downward pressure on our profit. 7 Because
+we do not operate our own wafer fabrication, assembly, or testing facilities, we may not be able to reduce our costs as rapidly as companies
+that operate their own facilities, and in fact, our costs may even increase, which could further reduce our gross profit. We seek yield
+improvements and volume-based cost reductions to enable cost reductions. To the extent that such cost reductions do not occur at a sufficient
+level and in a timely manner, our business, financial condition, and results of operations could be adversely affected and may vary from
+our estimates. In
+addition, we maintain an inventory of our products at various stages of production, as well as an inventory of finished goods. As we
+are generally a sole-source supplier, we hold these inventories in anticipation of customer orders. If those customer purchase orders
+do not materialize in a timely manner or customers do not honor those purchase orders, we can have excess or obsolete inventory which
+we would have to write-down, and our gross profit and results of operations would be adversely affected. Our
+ongoing exploration of strategic alternatives may not result in entering or completing transactions, when necessary, and the process
+of reviewing such strategic alternatives or their conclusion could adversely affect our stock price. In
+August 2023, we engaged an investment bank to assist with the exploration of strategic alternatives, including a merger, sale of assets
+or other similar transaction, with the intention to maximize stockholder value and further our business operations. There can be no assurance,
+however, that our evaluation of strategic alternatives will result in transactions or other alternatives, even when deemed necessary.
+We have neither set a timetable for completion of this process, nor have we made any decisions related to strategic alternatives at this
+time. If a strategic process is unsuccessful and we are unable to raise additional capital, we may be unable to continue our operations
+at planned levels and be forced to further reduce or terminate our operations. There
+can be no assurance any transaction will result from our ongoing evaluation of strategic alternatives. Any potential transaction would
+be dependent on a number of factors that may be beyond our control, including, among other things, market conditions, industry trends,
+the interest of third parties in a potential transaction with us, obtaining stockholder approval and the availability of financing to
+third parties in a potential transaction with us on reasonable terms. The process of reviewing strategic alternatives may be time consuming
+and may involve the dedication of significant resources and may require us to incur significant costs and expenses. It could negatively
+impact our ab

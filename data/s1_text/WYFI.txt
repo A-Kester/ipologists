@@ -1,0 +1,79 @@
+-Changes
+in tariffs or import restrictions could have a material adverse effect on our business, financial condition and results of operations .” 104 Regulatory Landscape The regulatory landscape surrounding
+WhiteFiber data centers and cloud services is evolving rapidly, and we anticipate increased scrutiny and potential regulation in the near-
+and long-term. These developments may have a material adverse effect on our business and financial condition. We are subject to the laws
+and regulations of various jurisdictions and governmental agencies affecting our operations and the sale of our infrastructure and services
+in areas including, but not limited to: AI, AI, intellectual property; tax; import and export requirements; anti-corruption; economic
+and trade sanctions; national security and foreign investment; foreign exchange controls and cash repatriation restrictions; data privacy
+and security requirements; competition; advertising; employment; product regulations; environment, health and safety requirements; and
+consumer laws. Although there is no assurance
+that existing or future governmental laws and regulations applicable to our operations and the sale of our infrastructure services will
+not have a material adverse effect on our capital expenditures operating results and competitive position, we do not currently anticipate
+material expenditures for complying with government regulations. Nevertheless, we believe that global trade regulations could potentially
+have a material impact on our business. As a global company, the import
+and export of our infrastructure services and technology are subject to laws and regulations including international treaties, U.S. export
+controls and sanctions laws, customs regulations, and local trade rules around the world. For example, all acquisitions of control (whether
+direct or indirect) of Canadian businesses by non-Canadians may be subject to review on grounds that the investment could be injurious
+to national security. Following the filing of the required Investment Canada Act notification in respect of our acquisition of Enovum,
+we received written notification from the Minister of Innovation, Science and Industry of Canada (the “Minister”), that the
+acquisition may be subject to a national security review. Following review of information we provided, Bit Digital executed a “Commitment
+Letter” to the Minister which provides for the following: (i) Commitment to maintain one Canadian on the board of Enovum Inc.;
+(ii) Commitment to maintain or improve Enovum’s security controls for personnel, physical security and the internal network,
+and (iii) Commitment to send a list of Enovum’s current clients to Investment Canada on an annual basis. The scope, nature, and severity
+of such controls varies widely across different countries and may change frequently over time. Such laws, rules, and regulations may delay
+the introduction of our infrastructure and services or impact our competitiveness through restricting our ability to do business in certain
+places or with certain entities and individuals. For example, the U.S. Department of Commerce continues to add firms to the Entity List.
+These export restrictions, which would require that we obtain licenses from the U.S. Department of Commerce to allow us to export infrastructure
+services to such listed firms, which could limit or prevent us from doing business with certain potential customers or potential suppliers.
+Additionally, although the U.S. Department of Commerce has withdrawn its AI diffusion rules, which would have imposed worldwide limits
+on AI chip exports used to create computer clusters, it plans to issue a replacement rule in the future and continues to strengthen other
+existing export controls on advanced AI chips. These restrictive governmental actions, and any similar measures that may be imposed on
+U.S. companies by other governments, could limit our ability to conduct business globally. Additionally, there are growing
+concerns about the ethical implications and potential misuse of AI and machine learning. Governments and regulatory bodies are considering
+measures to ensure the responsible development and deployment of AI systems, including transparency, accountability, and fairness guidelines.
+We are closely monitoring these developments and will dedicate our best efforts to adhere to any upcoming regulations or industry best
+practices. As a company operating at
+the intersection of data center, cloud and HPC hosting services, we are committed to maintaining a proactive and adaptive approach to
+regulatory compliance. We closely monitor legislative and regulatory developments and engage in dialogue with relevant stakeholders to
+ensure our business practices align with the evolving legal and regulatory framework. Despite the uncertainties posed by the changing
+regulatory landscape, we remain committed to delivering innovative and responsible solutions in the data center, cloud and HPC hosting
+markets while prioritizing compliance and risk management. However, if we fail to comply with applicable laws and regulations, we may
+be subject to significant liabilities, including fines and penalties, and our business, financial condition, or results of operations
+could be adversely affected. Investment Canada Act All acquisitions of control
+(whether direct or indirect) of Canadian businesses by non-Canadians may be subject to review on grounds that the investment could be
+injurious to national security. Following the filing of the required Investment Canada Act notification in respect of our acquisition
+of Enovum (the “Transaction”), we received written notification from the Minister of Innovation, Science and Industry of Canada
+(the “Minister”), that the Transaction may be subject to a national security review. Following review of information we provided,
+Bit Digital executed a “Commitment Letter” to the Minister which provides for the following: (i) Commitment to maintain
+one Canadian on the board of Enovum Inc.; (ii) Commitment to maintain or improve Enovum’s security controls for personnel,
+physical security and the internal network, and (iii) Commitment to send a list of Enovum’s current clients to Investment Canada
+on an annual basis. The Company is complying with the terms of the Commitment Letter. 105 Legal Proceedings From time to time, we may
+become involved in various disputes and litigation matters that arise in the ordinary course of business. We are not presently a party
+to any litigation the outcome of which, we believe, if determined adversely to us, would individually or taken together have a material
+adverse effect on our business, results of operations, cash flows or financial condition. We may in the future receive claims from third
+parties asserting, among other things, infringement of their intellectual property rights. Defending such proceedings is costly and can
+impose a significant burden on management and employees, we may receive unfavorable preliminary or interim rulings in the course of litigation,
+and there can be no assurances that favorable final outcomes will be obtained. Employees As of June 30, 2025, we and our subsidiaries employed 39 full-time
+employees and consultants. At the corporate level, we employed 12 individuals, in addition to our CEO, Sam Tabar; our CFO, Erke Huang;
+and our Senior Vice President of Capital Markets and Corporate Strategy, Cameron Schnier. These include a Chief Technology Officer; a
+Managing Director of Strategies; Heads of Revenue and GTM Strategy; Head of Marketing; a Senior Account Executive; a Senior Program Manager;
+a Senior Data Center Manager; and five Engineers. Our cloud services business employed a CEO and utilizes the services of Bit Digital’s
+employees, including a Director of Business Development, a Senior Managing Engineer, and two Analysts. Our HPC data center business employed
+14 individuals, including its CEO, Billy Krassakopoulos; CFO, Roberto D’Errico; CSO, Simon Hamelin-Choquette; CTO, David Bayle;
+a Business Development Specialist; two System Operators; two Construction Managers; and five Technicians. We also engage consultants and
+contractors in the buildout of our data centers as needed to supplement our permanent workforce. In connection with the completion
+of this offering, we will implement a long-term performance incentive program, granting eligible employees service-based restricted stock
+awards and performance-based restricted stock awards that vest upon achieving specific performance milestones. This performance program
+is a key employee incentive, aligning their long-term interests with the Company’s objectives, See Executive and Director Compensation—Share
+Options/Restricted Share Units. Properties WhiteFiber’s headquarters
+offices are located at 31 Hudson Yards, 11th Floor, Suite 30, New York, NY 10001. The WhiteFiber’s lease is for a term ending July
+31, 2027 with a monthly rental of $7,226. WhiteFiber provides cloud
+services at the data center located at Falkagerdi 1, 1540 BlöndUos Campus, Iceland. We have one office in Reykjavik, Iceland, located
+at Skógarhlíð 12, 105 Reykjavík, Iceland. The lease is for a term ending December 31, 2025, with a monthly rental
+of approximately $620. We maintain a 64,642 square
+foot data center (MTL-1) located at 3195 Chem de Bedford Road, Montreal, Quebec, H3S, IGS. The lease was first entered into on March 19,
+2020, and last amended on March 25, 2022. The lease is for a term of 15 years and nine months ending on May 31, 2036, unless terminated
+earlier. The lease has been two five-year renewal options, from June 1, 2036 to May 31, 2041 and from June 1, 2041 until May 31, 2046.
+The base rent started at $13,467, is currently $32,321 until May 31, 2025, and increases to $42,394 by the end of the lease. Additional
+rent is Enovum’s proportionate share of operating costs and of real estate taxes, as well as an administrative fee equal to 15%
+of Enovum’s proportionate share of operating costs. The 

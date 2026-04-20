@@ -1,0 +1,83 @@
+—Risks Related to Our Bitcoin Treasury Strategy and Holdings—We face risks relating to the custody
+of our bitcoin, including the loss or destruction of private keys required to access our bitcoin and cyberattacks or other data loss
+relating to our bitcoin ” elsewhere in this prospectus. A
+“51% attack” may occur when a group of miners attain more than 50% of the bitcoin network’s mining power, thereby enabling
+them to control the bitcoin network and protocol and manipulate the blockchain. A “denial-of-service attack” occurs when
+legitimate users are unable to access information systems, devices, or other network resources due to the actions of a malicious actor
+flooding the network with traffic until the network is unable to respond or crashes. The bitcoin network has been, and can be in the
+future, subject to denial-of-service attacks, which can result in temporary delays in block creation and in the transfer of bitcoin.
+See “Risk Factors—Risks Related to Our Bitcoin Treasury Strategy and Holdings—Bitcoin and other digital assets are
+novel assets, and are subject to significant legal, commercial, regulatory and technical uncertainty” elsewhere in this prospectus. 75 Bitcoin
+Industry Participants The
+primary bitcoin industry participants are miners, investors and traders, digital asset exchanges and service providers, including custodians,
+advisors, brokers, payment processors, wallet providers and financial institutions. Miners .
+Miners range from bitcoin enthusiasts to professional mining operations that design and build dedicated mining machines and data centers,
+including mining pools, which are groups of miners that act cohesively and combine their processing power to mine bitcoin blocks. See “—Creation of New Bitcoin and Limits on Supply ” above. Investors
+and Traders . Bitcoin investors and traders include individuals and institutional investors who, directly or indirectly, purchase,
+hold, and sell bitcoin or bitcoin-based derivatives. On January 10, 2024, the SEC issued an order approving several applications for
+the listing and trading of shares of spot bitcoin exchange-traded products, or ETPs on U.S. national securities exchanges. While the
+SEC had previously approved exchange-traded funds where the underlying assets were bitcoin futures contracts, this order represents the
+first time the SEC has approved the listing and trading of ETPs that acquire, hold and sell bitcoin directly. ETPs can be bought and
+sold on a stock exchange like traditional stocks and provide investors with another means of gaining economic exposure to bitcoin through
+traditional brokerage accounts. Digital
+Asset Exchanges. Digital asset exchanges provide trading venues for purchases and sales of bitcoin in exchange for fiat or other
+digital assets. Bitcoin can be exchanged for fiat currencies, such as the U.S. dollar, at rates of exchange determined by market forces
+on bitcoin trading platforms, which are not regulated in the same manner as traditional securities exchanges. In addition to these platforms,
+over-the-counter markets and derivatives markets for bitcoin also exist. The value of bitcoin within the market is determined, in part,
+by the supply of and demand for bitcoin in the global bitcoin market, market expectations for the adoption of bitcoin as a store of value,
+the number of merchants that accept bitcoin as a form of payment, and the volume of peer-to-peer transactions, among other factors. For
+a discussion of risks associated with digital asset exchanges, see “ Risk Factors—Risks Related to Our Bitcoin Treasury
+Strategy and Holdings—Due to the currently unregulated nature and lack of transparency surrounding the operations of many bitcoin
+trading venues, bitcoin trading venues may experience greater fraud, security failures or regulatory or operational problems than trading
+venues for more established asset classes, which may result in a loss of confidence in bitcoin trading venues and adversely affect the
+value of our bitcoin ” elsewhere in this prospectus. Service
+providers . Service providers offer a multitude of services to other participants in the bitcoin industry, including custodial and
+trade execution services, commercial and retail payment processing, loans secured by bitcoin collateral, and financial advisory services.
+If adoption of the bitcoin network continues to materially increase, we anticipate that service providers may expand the currently available
+range of services and that additional parties will enter the service sector for the bitcoin network. Other
+Digital Assets As
+of the date of this prospectus, bitcoin was the largest digital asset by market capitalization. However, there are numerous alternative
+digital assets and many entities, including consortia and financial institutions, are researching and investing resources into private
+or permissioned blockchain platforms or digital assets that do not use proof-of-work mining like the bitcoin network. For example, in
+late 2022, the ethereum network transitioned to a “proof-of-stake” mechanism for validating transactions that requires significantly
+less computing power than proof-of-work mining. Other alternative digital assets that compete with bitcoin in certain ways include “stablecoins,”
+which are designed to maintain a peg to a reference price because of their issuers’ promise to hold high-quality liquid assets
+(such as U.S. dollar deposits and short-term U.S. treasury securities) equal to the total value of stablecoins in circulation. Stablecoins
+have grown rapidly as an alternative to bitcoin and other digital assets as a medium of exchange and store of value, particularly on
+digital asset trading platforms. As of July 1, 2025, two of the seven largest digital assets by market capitalization are U.S.
+dollar-backed stablecoins. 76 Additionally,
+central banks in some countries have started to introduce digital forms of legal tender. For example, China’s central bank digital
+currency, or CBDC, project was made available to consumers in January 2022, and governments including the United States and the European
+Union have been discussing the potential creation of new CBDCs. For a discussion of risks relating to the emergence of other digital
+assets, see “ Risk Factors —Risks Related to Our Bitcoin Treasury Strategy and Holdings—The emergence or growth of
+other digital assets, including those with significant private or public sector backing, could have a negative impact on the price of
+bitcoin and adversely affect our financial condition and results of operations ” elsewhere in this prospectus. Execution
+of Bitcoin Transactions We initially intend
+to purchase bitcoin in phases through a single trade execution or liquidity provider; however, in the future we may purchase bitcoin
+through multiple bitcoin liquidity providers who may also serve as custodians of our bitcoin. We may also in the future acquire or dispose
+of bitcoin via trade orders executed on exchanges such as Coinbase. Our liquidity providers and custodians (our “BTC Service Providers”),
+are regulated and licensed entities that operate under high security, regulatory, audit and governance standards. In
+selecting our liquidity providers, we will evaluate regulatory status, pricing, annual trading volume, security and customer service.
+We will also leverage the due diligence we conduct in connection with our custodial arrangements when conducting due diligence on
+our liquidity providers. We intend for our agreements with our liquidity providers to be non-exclusive, able to be terminated by us at
+any time, not impose any requirements for minimum purchases or volumes with such providers, and generally provide that we are responsible
+for the costs associated with transfers of bitcoin. We
+also intend to engage a third-party investment advisor with expertise in digital assets and alternative investment strategies. We
+expect the advisor to primarily assist us in evaluating the timing of our acquisitions of bitcoin, construction of our portfolio,
+and implementing hedging strategies aligned with our treasury and risk management policies. We currently anticipate that the advisor
+will serve in a non-discretionary capacity, providing recommendations to us that would be subject to internal approval prior to
+execution. We also do not currently expect the advisor to serve as our liquidity provider or custodian. Those functions will be
+handled separately through institutional-grade counterparties which we will select based upon their security infrastructure,
+regulatory compliance and reputation. We expect the advisor to support our ongoing portfolio management, while providing market
+analysis and periodic rebalancing recommendations. Custody
+of our Bitcoin We
+intend to hold all of our bitcoin in custodial accounts at U.S.-based, institutional-grade custodians (who may hold our bitcoin in the
+United States or other territories) that have demonstrated records of regulatory compliance and information security. Our custodians
+may also serve as liquidity providers. As we execute on our strategy, we intend to include additional custodians. We will
+select our custodians after undertaking a due diligence process pursuant to which we evaluate, among other things, the quality of their
+security protocols, including the multifactor and other authentication procedures designed to safekeep our bitcoin that they may employ,
+as well as other security, regulatory, audit and governance standards. We intend for our custodians to be required to hold our bitcoin
+in trust for our benefit in segregated accounts which are not commingled with their assets or the assets of their affiliates or other
+clients. Should we enter into custodial agreements with additional custodians, such agreements may not prohibit such custodians from
+commingling our bitcoin with the digital assets of others. Our current custodial agreement provides for storage of our
+bitcoin in accordance with our instructions, which could include offline, or
