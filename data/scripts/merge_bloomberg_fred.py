@@ -1,3 +1,7 @@
+"""
+Merges the macroeconomic data from the FRED to the Bloomberg IPO dataset.
+Uses month as the key for the left-join merge
+"""
 import pandas as pd
 
 IPO_DATA = "../../data/processed/ipo_clean.csv"

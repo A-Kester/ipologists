@@ -1,3 +1,9 @@
+"""
+Imports the raw Bloomberg datasets and merges them together.
+Cleans up the formatting / Adds a binary underpriced column, an offer size to market cap metric, and cleans up the bookrunner columns
+Highlights who the lead bookrunner is and whether a bulge bracket was one of the underwritters.
+"""
+
 import pandas as pd
 
 data_2000 = "../../data/raw/ipo_data_2000.csv"

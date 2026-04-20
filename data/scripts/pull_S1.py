@@ -1,3 +1,11 @@
+"""
+Pulls S-1 filings for the IPOs
+
+Makes sure that the ticker is still active and valid. 
+Finds the full fetched filing and only extracts the risk part of the s-1 filings. 
+Saves only the 10,000 chars of that risk filing into the s1_text folder. Chose 10k to limit token that will be needed later
+"""
+
 from sec_edgar_downloader import Downloader
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv

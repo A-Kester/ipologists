@@ -1,3 +1,8 @@
+"""
+Fetches the macro data from the FRED using its API.
+The FRED_API_KEY is obtained for free on their website
+"""
+
 import pandas as pd
 from  fredapi import Fred
 import os
