@@ -6,10 +6,10 @@ Produces both of our datasets:
 
 import pandas as pd 
 
-main_path  = "../data/processed/bloomberg_macro.csv"
-risk_path  = "../data/processed/risk_scores.csv"
-full_output   = "../data/final/dataset_full.csv"
-risk_output   = "../data/final/dataset_with_risk.csv"
+main_path  = "../../data/processed/bloomberg_macro.csv"
+risk_path  = "../../data/processed/risk_scores.csv"
+full_output   = "../../data/final/dataset_full.csv"
+risk_output   = "../../data/final/dataset_with_risk.csv"
 
 def run():
     df = pd.read_csv(main_path)

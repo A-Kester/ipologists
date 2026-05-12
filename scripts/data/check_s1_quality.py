@@ -4,7 +4,7 @@ It deletes bad extractions so they can be retrived with improved regex
 """
 import os
 
-TEXT_PATH = "../data/s1_text"
+TEXT_PATH = "../../data/s1_text"
 
 keywords = ["adverse", "risk", "could","may not","uncertainty", "fail", "loss", "unable","cannot",'harm',"litigation","debt","volatile","competition"]
 

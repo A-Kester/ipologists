@@ -11,8 +11,8 @@ from dotenv import load_dotenv
 import json
 load_dotenv()
 
-TEXT_PATH = "../data/s1_text"
-OUTPUT_PATH = "../data/processed/risk_scores.csv"
+TEXT_PATH = "../../data/s1_text"
+OUTPUT_PATH = "../../data/processed/risk_scores.csv"
 model = "gpt-4o-mini"
 
 risk_categories = ["regulatory_risk", "competitive_risk", "financial_risk", "overall_risk"]

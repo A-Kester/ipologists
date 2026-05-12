@@ -14,9 +14,9 @@ import os, re , time
 
 load_dotenv()
 EMAIL = os.getenv("EMAIL")
-DATA_PATH = "../data/processed/bloomberg_macro.csv"
-S1_DIR = "../data/s1_filings"
-TEXT_DIR = "../data/s1_text"
+DATA_PATH = "../../data/processed/bloomberg_macro.csv"
+S1_DIR = "../../data/s1_filings"
+TEXT_DIR = "../../data/s1_text"
 
 CHAR_LIMIT = 10000
 os.makedirs(S1_DIR, exist_ok=True)

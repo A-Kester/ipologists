@@ -4,8 +4,8 @@ Uses month as the key for the left-join merge
 """
 import pandas as pd
 
-IPO_DATA = "../data/processed/ipo_clean.csv"
-MACRO_DATA = "../data/processed/macro.csv"
+IPO_DATA = "../../data/processed/ipo_clean.csv"
+MACRO_DATA = "../../data/processed/macro.csv"
 
 def merge():
     ipo = pd.read_csv(IPO_DATA, parse_dates=["Pricing Date"], index_col=False)
@@ -21,7 +21,7 @@ def merge():
 
     print(f"Shape: {merged_data.shape}")
 
-    merged_data.to_csv("../data/processed/bloomberg_macro.csv", index=False)
+    merged_data.to_csv("../../data/processed/bloomberg_macro.csv", index=False)
     return merged_data
 
 if __name__ =="__main__":

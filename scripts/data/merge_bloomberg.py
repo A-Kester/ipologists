@@ -6,8 +6,8 @@ Highlights who the lead bookrunner is and whether a bulge bracket was one of the
 
 import pandas as pd
 
-data_2000 = "../data/raw/ipo_data_2000.csv"
-data_2010 = "../data/raw/ipo_data_2010.csv"
+data_2000 = "../../data/raw/ipo_data_2000.csv"
+data_2010 = "../../data/raw/ipo_data_2010.csv"
 
 def loading_and_cleaning(path):
     df = pd.read_csv(path)
@@ -35,7 +35,7 @@ def bloomberg_merge():
     ipo_data = pd.concat([df_2000, df_2010], ignore_index=True)
     ipo_data = ipo_data.sort_values('Pricing Date')
     
-    ipo_data.to_csv("../data/processed/ipo_clean.csv", index=False)
+    ipo_data.to_csv("../../data/processed/ipo_clean.csv", index=False)
 
 if __name__=="__main__":
     ipo_data = bloomberg_merge()

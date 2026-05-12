@@ -33,7 +33,7 @@ def fetch(start_date ="2000-01-01"):
     macro_data['market_return_1m'] = macro_data['nasdaq'].pct_change().shift(1)
     macro_data.index.name = 'date'
 
-    macro_data.to_csv("../data/processed/macro.csv")
+    macro_data.to_csv("../../data/processed/macro.csv")
     return macro_data
 
 if __name__ == "__main__":
