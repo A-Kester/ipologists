@@ -1,9 +1,4 @@
 import torch
-import pandas as pd
-import numpy as np
-from torch.utils.data import Dataset, DataLoader
-import torch.nn as nn
-from sklearn.metrics import accuracy_score
 
 # Logistic Regression
 class LogisticRegression:
