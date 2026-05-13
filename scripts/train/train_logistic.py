@@ -1,5 +1,6 @@
 import torch
 import pandas as pd
+import pickle
 from sklearn.metrics import accuracy_score
 from src.pipeline import (
     prepare_scaled,
@@ -8,7 +9,7 @@ from src.pipeline import (
     three_class
 )
 from src.models.logistic import LogisticRegression, GradientDescentOptimizer
-
+names   = ["binary", "3class"]
 full = pd.read_csv('data/final/dataset_full.csv')
 risk = pd.read_csv('data/final/dataset_with_risk.csv')
 
@@ -28,14 +29,16 @@ for i in range(2):
     y_test = torch.tensor(pd.get_dummies(y_test).values, dtype=torch.float32)
 
     model = LogisticRegression(d_features=X_train.shape[1], k_classes=i+2)
-    opt = GradientDescentOptimizer(model, learning_rate=0.01)
+    opt = GradientDescentOptimizer(model, learning_rate=0.001)
     losses = []
 
-    for epoch in range(20):
+    for epoch in range(6000):
         opt.step(X_train, y_train)
+        q = model.forward(X_train)
+        loss = -torch.mean(torch.sum(y_train*torch.log(q), dim=1))
+        losses.append(loss.item())
+        if epoch % 500 == 0:
+            print(f"Epoch {epoch}, Loss: {loss:.4f}")
 
-    s_pred = model.forward(X_test)
-    y_test_preds = s_pred.argmax(dim=1)
-    y_test_labels = y_test.argmax(dim=1).int()
-    print("Binary Logistic Regression" if i == 0 else "Three-Class Logistic Regression")
-    print(f"\tAccuracy: {accuracy_score(y_test_labels, y_test_preds):.3f}")
+    with open(f"src/models/saved_models/logistic/logistic_{names[i]}_full.pkl", "wb") as f:
+        pickle.dump(model,f)
