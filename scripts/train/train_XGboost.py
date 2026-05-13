@@ -49,4 +49,4 @@ print("=" * 50)
 print(classification_report(y_test, preds, target_names=['Overpriced', 'Mild (0-20%)', 'Strong (>20%)']))
 
 with open("src/models/saved_models/xgBoost/xgb_3class_full.pkl", "wb") as f:
-    pickle.dump(xgb_binary, f)
+    pickle.dump(xgb_3class, f)
