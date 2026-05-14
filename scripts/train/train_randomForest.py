@@ -28,9 +28,11 @@ print("Binary Random Forest")
 print("=" * 50)
 print(classification_report(y_test, preds, target_names=['Overpriced', 'Underpriced']))
 
+# Saving model
 with open("src/models/saved_models/random_forest/rf_binary_full.pkl", "wb") as f:
     pickle.dump(rf_binary, f)
 
+# Saving preds to save time 
 np.save("src/models/saved_models/random_forest/rf_binary_preds.npy", preds.numpy())
 
 # Three-Class Random Forest

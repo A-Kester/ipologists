@@ -3,7 +3,7 @@ import pandas as pd
 import torch.nn as nn
 import numpy as np
 import pickle
-from src.pipeline import features, risk_features, prepare_scaled, make_loader, three_class
+from src.pipeline import features, prepare_scaled, make_loader, three_class
 from src.models.neural_network import NeuralNetwork
 from sklearn.metrics import classification_report
 
@@ -38,6 +38,7 @@ for epoch in range(500):
     if epoch %25 ==0:
         print(f"Epoch {epoch}, Loss: {epoch_loss / len(train_loader):.4f}")
 
+#Evaluating model: 
 model_binary.eval()
 all_preds =[]
 with torch.no_grad():
@@ -46,12 +47,9 @@ with torch.no_grad():
 
 print("Binary Neural Network")
 print(classification_report(y_test, all_preds, target_names=['Overpriced', 'Underpriced']))
+
+# Saving Preds because takes too long on notebook
 np.save("src/models/saved_models/neural_network/nn_binary_preds.npy", np.array(all_preds))
-
-with open("src/models/saved_models/neural_network/nn_binary_full.pkl", "wb") as f:
-    pickle.dump(model_binary, f)
-
-
 
 with open("src/models/saved_models/neural_network/nn_binary_full.pkl", "wb") as f:
     pickle.dump(model_binary, f)
@@ -62,7 +60,7 @@ X_train, X_test, y_train, y_test = prepare_scaled(three_class(full), "three_clas
 train_loader, test_loader, y_test = make_loader(X_train, X_test, y_train,y_test)
 
 counts = np.bincount(y_train)
-weights = torch.tensor(1.0/counts, dtype=torch.float32)
+weights = torch.tensor(1.0/counts, dtype=torch.float32) # For the class imbalance adding weights
 
 model_3class = NeuralNetwork(input_dim=X_train.shape[1], num_classes=3, hidden_dim= 128)
 opt= torch.optim.Adam(model_3class.parameters(), lr=1e-4)
@@ -86,7 +84,6 @@ with torch.no_grad():
         all_preds.extend(model_3class(X_batch).argmax(1).numpy())
 
 print("Three-Class Neural Network")
-print("=" * 50)
 print(classification_report(y_test, all_preds, target_names=['Overpriced', 'Mild (0-20%)', 'Strong (>20%)']))
 
 np.save("src/models/saved_models/neural_network/nn_3class_preds.npy", np.array(all_preds))

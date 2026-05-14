@@ -19,9 +19,11 @@ risk = pd.read_csv("data/final/dataset_with_risk.csv")
 # Binary XGBoost
 X_train, X_test, y_train, y_test = prepare_xgboost(full, "underpriced", features)
 
-scale = (y_train ==0).sum() / (y_train== 1).sum()
+weights = (y_train ==0).sum() / (y_train== 1).sum() # weights from classes
 
-xgb_binary = XGBClassifier( n_estimators = 4000, max_depth =10, learning_rate = 0.01, scale_pos_weight = scale, random_state =42, early_stopping_rounds=50)
+# Initialize the model
+
+xgb_binary = XGBClassifier( n_estimators = 4000, max_depth =10, learning_rate = 0.01, scale_pos_weight = weights, random_state =42, early_stopping_rounds=50)
 
 xgb_binary.fit(X_train, y_train, eval_set= [(X_test, y_test)], verbose = False)
 preds = xgb_binary.predict(X_test)
@@ -29,7 +31,10 @@ preds = xgb_binary.predict(X_test)
 print("Binary XGBoost")
 print("=" * 50)
 print(classification_report(y_test, preds, target_names=['Overpriced', 'Underpriced']))
+
+# Save preds to save time in notebook
 np.save("src/models/saved_models/xgBoost/xgb_binary_preds.npy", preds)
+# Save model
 with open("src/models/saved_models/xgBoost/xgb_binary_full.pkl", "wb") as f:
     pickle.dump(xgb_binary, f)
 
@@ -51,6 +56,8 @@ print(classification_report(y_test, preds, target_names=['Overpriced', 'Mild (0-
 np.save("src/models/saved_models/xgBoost/xgb_3class_preds.npy", preds)
 with open("src/models/saved_models/xgBoost/xgb_3class_full.pkl", "wb") as f:
     pickle.dump(xgb_3class, f)
+
+
 
 
 
