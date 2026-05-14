@@ -110,3 +110,32 @@ Overall, we believe the project could improve understanding of IPO markets and m
 # Tentative Timeline
 After two weeks we plan to have preliminary models working. We plan to have our data collected and cleaned by the end of week 1 and model implementations by the end of week 2.
 After four weeks we plan to have our models and deliverable finalized. Time permitting, we will work on any extra add-ons to enhance our project.
+
+
+# Required Packages
+
+Install all dependencies with: 
+```bash
+pip install -r requirements.txt
+```
+
+**Mac: Required for XGBoost**
+
+The OpenMP runtime library is required to run XGBoost, it enables parallel processing across GPU cores. 
+Ps. This is why we have the os at the beginning of report.  
+```bash
+brew install libomp
+```
+
+
+This project requires the following packages beyond the standard course environment:
+
+| Package | Purpose |
+|---------|---------|
+| `xgboost` | XGBoost classifier |
+| `fredapi` | FRED API for macroeconomic data |
+| `sec-edgar-downloader` |  Downloading S-1 filings from SEC EDGAR |
+| `openai` | GPT-4o-mini risk scoring |
+| `python-dotenv` | Loading API keys from .env file |
+| `bs4` | For regex expression| 
+
