@@ -1,5 +1,6 @@
 import pickle 
 import pandas as pd
+import numpy as np
 import torch
 from sklearn.metrics import classification_report
 from src.pipeline import prepare_scaled, features, three_class
@@ -30,6 +31,8 @@ print(classification_report(y_test, preds, target_names=['Overpriced', 'Underpri
 with open("src/models/saved_models/random_forest/rf_binary_full.pkl", "wb") as f:
     pickle.dump(rf_binary, f)
 
+np.save("src/models/saved_models/random_forest/rf_binary_preds.npy", preds.numpy())
+
 # Three-Class Random Forest
 
 X_train, X_test, y_train, y_test = prepare_scaled(three_class(full), "three_class", features) 
@@ -49,3 +52,5 @@ print(classification_report(y_test, preds, target_names=['Overpriced', 'Mild (0-
 
 with open("src/models/saved_models/random_forest/rf_3class_full.pkl", "wb") as f:
     pickle.dump(rf_3class, f)
+
+np.save("src/models/saved_models/random_forest/rf_3class_preds.npy", preds.numpy())
