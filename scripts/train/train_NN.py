@@ -38,6 +38,21 @@ for epoch in range(500):
     if epoch %25 ==0:
         print(f"Epoch {epoch}, Loss: {epoch_loss / len(train_loader):.4f}")
 
+model_binary.eval()
+all_preds =[]
+with torch.no_grad():
+    for X_batch, _ in test_loader:
+        all_preds.extend(model_binary(X_batch).argmax(1).numpy())
+
+print("Binary Neural Network")
+print(classification_report(y_test, all_preds, target_names=['Overpriced', 'Underpriced']))
+np.save("src/models/saved_models/neural_network/nn_binary_preds.npy", np.array(all_preds))
+
+with open("src/models/saved_models/neural_network/nn_binary_full.pkl", "wb") as f:
+    pickle.dump(model_binary, f)
+
+
+
 with open("src/models/saved_models/neural_network/nn_binary_full.pkl", "wb") as f:
     pickle.dump(model_binary, f)
 
@@ -64,6 +79,18 @@ for epoch in range(1000):
         epoch_loss += loss.item()
     if epoch % 50 ==0:
         print(f"Epoch {epoch}, Loss: {epoch_loss / len(train_loader):.4f}")
+model_3class.eval()
+all_preds = []
+with torch.no_grad():
+    for X_batch, _ in test_loader:
+        all_preds.extend(model_3class(X_batch).argmax(1).numpy())
+
+print("Three-Class Neural Network")
+print("=" * 50)
+print(classification_report(y_test, all_preds, target_names=['Overpriced', 'Mild (0-20%)', 'Strong (>20%)']))
+
+np.save("src/models/saved_models/neural_network/nn_3class_preds.npy", np.array(all_preds))
+
 with open("src/models/saved_models/neural_network/nn_3class.pkl", "wb") as f:
     pickle.dump(model_3class, f)
 

@@ -1,7 +1,8 @@
 import torch
 import pandas as pd
 import pickle
-from sklearn.metrics import accuracy_score
+import numpy as np
+from sklearn.metrics import classification_report
 from src.pipeline import (
     prepare_scaled,
     make_loader,
@@ -9,6 +10,7 @@ from src.pipeline import (
     three_class
 )
 from src.models.logistic import LogisticRegression, GradientDescentOptimizer
+labels = [['Overpriced', 'Underpriced'], ['Overpriced', 'Mild (0-20%)', 'Strong (>20%)']]
 names   = ["binary", "3class"]
 full = pd.read_csv('data/final/dataset_full.csv')
 risk = pd.read_csv('data/final/dataset_with_risk.csv')
@@ -39,6 +41,12 @@ for i in range(2):
         losses.append(loss.item())
         if epoch % 500 == 0:
             print(f"Epoch {epoch}, Loss: {loss:.4f}")
+    s_pred =model.forward(X_test)
+    y_test_preds = s_pred.argmax(dim=1)
+    y_test_labels= y_test.argmax(dim=1).int()
+    print(classification_report(y_test_labels, y_test_preds, target_names=labels[i]))
+
+    np.save(f"src/models/saved_models/logistic/lr_{names[i]}_preds.npy", y_test_preds.numpy())
 
     with open(f"src/models/saved_models/logistic/logistic_{names[i]}_full.pkl", "wb") as f:
         pickle.dump(model,f)
